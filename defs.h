@@ -118,8 +118,19 @@ void            setproc(struct proc*);
 void            sleep(void*, struct spinlock*);
 void            userinit(void);
 int             wait(void);
+int             waitx(int* , int*);
 void            wakeup(void*);
 void            yield(void);
+void            inc_rtime(void);   // This for incrementing rtime of a process
+void            punisher(void); 
+void            inc_timeslice(void); 
+int             set_priority(int , int);
+void            inc_ticks(void);
+void            get_ps(void);
+void            sched_rr(void) __attribute__((noreturn));
+void            sched_fcfs(void) __attribute__((noreturn));
+void            sched_pbs(void) __attribute__((noreturn));
+void            sched_mlfq(void) __attribute__((noreturn));
 
 // swtch.S
 void            swtch(struct context**, struct context*);
@@ -185,6 +196,15 @@ void            switchuvm(struct proc*);
 void            switchkvm(void);
 int             copyout(pde_t*, uint, void*, uint);
 void            clearpteu(pde_t *pgdir, char *uva);
+
+// queue.c
+struct node* q_alloc();
+void q_free(struct node* p);
+struct node* push(struct node* head, struct proc* p);
+struct node* pop(struct node* head);
+int split(struct node** from, struct node** to, int threshold);
+int length(struct node* head);
+
 
 // number of elements in fixed-size array
 #define NELEM(x) (sizeof(x)/sizeof((x)[0]))

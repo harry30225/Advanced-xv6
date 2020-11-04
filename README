@@ -1,3 +1,72 @@
+Part 1 : Steps to install qemu in Ubuntu 20.04 LTS (FOCAL FOSSA) And Compiling the OS
+sudo apt install qemu qemu-utils qemu-kvm virt-manager libvirt-daemon-system libvirt-clients bridge-utils
+
+// Then you will have to add a user to the following
+
+sudo systemctl is-active libvirtd
+sudo usermod -aG libvirt $USER
+sudo usermod -aG kvm $USER
+
+// Now the qemu is finally installed and working, so go to the directory containing the Makefile
+
+make clean
+make qemu SCHEDULER=RR/FCFS/PBS/MLFQ DEBUG
+
+Part 2 : The upgradations and advances made to previous xv6 
+These are the commands for the working and compiling of the OS.
+The default scheduler is Round Robin.
+
+FCFS - First Come First Serve Scheduling
+Here the process with earliest ctime(creation time) is picked first and scheduled.
+
+PBS - Priority Based Scheduling
+Here priorities are assigned with each process and process with the highest priority is scheduled first.
+
+MLFQ - Multi-level Feedback Queueing
+Unlike multilevel queue scheduling algorithm where processes are permanently assigned to a queue,
+multilevel feedback queue scheduling allows a process to move between queues.
+In addition, a process that waits too long in a lower-priority queue may be moved to a higher priority queue.
+
+waitx - system call
+ctime(process start time) , rtime(process run time) , etime(process end time) are added to the proc struct. waitx system call takes two arguments,
+*wtime(waiting time of a process) and *rtime(running time of a process) and return the pid of the process. Necessary changes are made in sysproc.c ,
+syscall.h , syscall.c and defs.h to make waitx working and a 'time' like command is made in time.c for this.
+
+ps - user program
+The proc struct is extended with priority(current priority of process) , n_run (the no. of times a process is picked by the scheduler) , 
+queue(current queue of the process), ticks[i] (Number of ticks the process has received at each of the 5 queues) for the ps user program. 
+get_ps system call is made in proc.c that checks the whether is process is !UNUSED and then displays the information about the process.
+ps.c is made for the user program of ps.
+
+SCHEDULERS ::
+Suitable flags are added in the Makefile for the schedulers.
+
+SCHED_FCFS : FCFS scheduling
+It is implemented in sched_fcfs() function in proc.c and it picks the process the earlies ctime(creation time) and schedules it.
+
+SCHED_PBS  : PBS scheduling
+priority added to proc structure is given default value of 60. The PBS scheduling is implemented in sched_pbs() function in proc.c. It picks
+the process with highest priority and schedules it. A user program setPriority <new Priority> <pid> is defined. The new Priority must lie 
+between 0 to 100.
+
+SCHED_MLFQ  : MLFQ scheduling
+The MLFQ scheduling is implemented in sched_mlfq() in proc.c . Here there are 5 queues.Multilevel feedback queue scheduling, however, allows
+a process to move between queues. The idea is to separate processes with different CPU-burst characteristics. If a process uses too much CPU
+time, it will be moved to a lower-priority queue. Similarly, a process that waits too long in a lower-priority queue may be moved to a 
+higher-priority queue. This form of aging prevents starvation.
+
+benchmark ::
+benchmark.c is implemented to check the scheduling algorithm performance. I have implemented using my waitx system call and checking the average
+waiting time and average running time of the scheduling algorithm. For sleep(200) and mentioned cpu processes. The results i am getting are :
+
+Scheduling Algo                    Average Waiting Time             Average Running Time
+Round-Robin                                1379                              595
+First-Come-First-Serve                     2465                              208
+Priority-Based-Scheduling                  1185                              587
+Multi-level-Feedback-Queueing              1480                              494
+
+<---- Previous README ---->
+
 NOTE: we have stopped maintaining the x86 version of xv6, and switched
 our efforts to the RISC-V version
 (https://github.com/mit-pdos/xv6-riscv.git)

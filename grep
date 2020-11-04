@@ -1,0 +1,6757 @@
+    1  vim .zshrc
+    2  cd Downloads
+    3  cd ..
+    4  git clone https://github.com/harry30225/ohmyzsh
+    5  vim ~/.zshrc
+    6  echo $SHELL
+    7  exec bash
+    8  vim ~/.zshrc
+    9  source ~/.zshrc
+   10  echo "\ue0b0 \u00b1 \ue0a0 \u27a6 \u2718 \u26a1 \u2699"
+   11  sudo apt install fonts-powerline
+   12  clear
+   13  cd Downloads
+   14  ls -a
+   15  cd structures
+   16  ls -a
+   17  npm install styled-component@beta
+   18  sudo apt install npm
+   19  npm install styled-components@beta
+   20  cd Documents/HTML
+   21  ls -a
+   22  xdg-open css.html
+   23  cd ../..
+   24  cd ~/.oh-my-zsh/custom/plugins
+   25  ls -a
+   26  git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+   27  cd ../../..
+   28  vim ~/.zshrc
+   29  source ~/.zshrc
+   30  cd documents/HTML
+   31  cd Documents/HTML
+   32  ls -a
+   33  cd coverage
+   34  ls -a
+   35  ..
+   36  cd root
+   37  cd /
+   38  ls -a
+   39  ..
+   40  cd ~
+   41  shutdown now
+   42  restart now
+   43  cd Documents
+   44  ls -a
+   45  cd itws
+   46  ls -a
+   47  cd ..
+   48  ..
+   49  Zxc fgjk
+   50  git clone https://github.com/harry30225/lab
+   51  cd lab
+   52  ls -a
+   53  cd ../..
+   54  cd ~
+   55  rm -rf lab
+   56  mkdir lab
+   57  cd lab
+   58  ls -a
+   59  git init
+   60  git remote add origin https://github.com/harry30225/lab
+   61  rm -rf lab
+   62  git remote add origin https://github.com/harry30225/lab
+   63  git clone https://github.com/harry30225/lab
+   64  ls -a
+   65  cd lab
+   66  cd ..
+   67  rm -rf lab
+   68  cd ..
+   69  git clone https://github.com/harry30225/lab
+   70  rm -rf lab
+   71  git clone https://github.com/harry30225/lab
+   72  cd lav
+   73  cd lab
+   74  ls -a
+   75  vim README.md
+   76  git diff
+   77  git status
+   78  touch random
+   79  git status
+   80  git add random
+   81  git status
+   82  git add README.md
+   83  git status
+   84  git commit -m "Added Random file and modified README"
+   85  git config
+   86  git log
+   87  git config --global harshit.s@students.iiit.ac.in
+   88  git config --global user.email "harshit.s@students.iiit.ac.in"
+   89  git config --global user.name "Harshit Sharma"
+   90  git commit -m "Added Random file and modified README"
+   91  git push origin master
+   92  git status
+   93  vim README.md
+   94  ls -a
+   95  cd .git
+   96  ls -a
+   97  cd ..
+   98  sudo apt update
+   99  sudo apt upgrade
+  100  git remote -v
+  101  git remote
+  102  git branch
+  103  git remote
+  104  git branch harry
+  105  git remote
+  106  git checkout harry
+  107  git branch
+  108  git checkout origin
+  109  git remote
+  110  git checkout master
+  111  git branch -d harry
+  112  git branch
+  113  git fetch origin master
+  114  cat README.md
+  115  git merge master origin/master
+  116  cat README.md
+  117  git upstream
+  118  ls -a
+  119  cat .gitignore
+  120  cat README.md
+  121  shutdown now
+  122  ls -a
+  123  cd Documents
+  124  ls -a
+  125  cd codechef
+  126  ls -a
+  127  g++ bb.cpp
+  128  ./a.out
+  129  g++ bb.cpp
+  130  ./a.out
+  131  g++ bb.cpp
+  132  ./a.out
+  133  g++ 'chef and dynamo.cpp'
+  134  ./a.out
+  135  g++ 'chef and dynamo.cpp'
+  136  ./a.out
+  137  g++ 'chef and dynamo.cpp'
+  138  ./a.out
+  139  g++ 1283a.cpp
+  140  ./a.out
+  141  g++ 1282a.cpp
+  142  ./a.out
+  143  g++ 1282a.cpp
+  144  ./a.out
+  145  g++ 1282a.cpp
+  146  ./a.out
+  147  g++ 1282a.cpp
+  148  ./a.out
+  149  g++ 1279a.cpp
+  150  ./a.out
+  151  shutdown now
+  152  g++ 1271a.cpp
+  153  ./a.out
+  154  g++ 1271a.cpp
+  155  ./a.out
+  156  g++ 1266b.cpp
+  157  ./a.out
+  158  g++ 1266b.cpp
+  159  ./a.out
+  160  restart now
+  161  shutdown now
+  162  python --version
+  163  sudo apt install python3
+  164  python --version
+  165  sudo apt install python 3
+  166  sudo apt-get install python3.6
+  167  python --version
+  168  python3 -v
+  169  python3 -V
+  170  sudo apt install -y python3-pip
+  171  python3
+  172  g++ 1277a.cpp
+  173  ./a.out
+  174  g++ 1277a.cpp
+  175  ./a.out
+  176  g++ 1277a.cpp
+  177  ./a.out
+  178  g++ 1277a.cpp
+  179  ./a.out
+  180  g++ 1277a.cpp
+  181  ./a.out
+  182  g++ 1277a.cpp
+  183  ./a.out
+  184  g++ 1260b.cpp
+  185  ./a.out
+  186  g++ 1260b.cpp
+  187  ./a.out
+  188  python3
+  189  /usr/bin/python3 -m pip install -U pylint --user
+  190  python "myfile.py"
+  191  shutdown now
+  192  python "myfile.py"
+  193  python myfile.py
+  194  python3 myfile.py
+  195  g++ 1287.cpp
+  196  ./a.out
+  197  g++ 1287.cpp
+  198  ./a.out
+  199  g++ 1287.cpp
+  200  ./a.out
+  201  g++ 1287.cpp
+  202  ./a.out
+  203  g++ 1287.cpp
+  204  ./a.out
+  205  g++ 1287.cpp
+  206  ./a.out
+  207  g++ 1287.cpp
+  208  ./a.out
+  209  g++ 1287c.cpp
+  210  ./a.out
+  211  g++ 1287c.cpp
+  212  ./a.out
+  213  g++ 1287c.cpp
+  214  ./a.out
+  215  python3
+  216  python3 myfile.py
+  217  shutdown now
+  218  vim link.c
+  219  gcc link.c
+  220  vim link.c
+  221  gcc link.c
+  222  ./a.out
+  223  vim stack.c
+  224  cd Downloads/books
+  225  ls -a
+  226  xdg-open textbook.pdf
+  227  cd Downloads/books
+  228  xdg-open textbook.pdf
+  229  python3 myfile.py
+  230  python myfile.py
+  231  echo $SHELL
+  232  echo $HOME
+  233  vim first.sh
+  234  ./first.sh
+  235  chmod +x ./first.sh
+  236  ./first.sh
+  237  vim first.sh
+  238  ./first.sh
+  239  vim first.sh
+  240  ./first.sh
+  241  clear
+  242  python3 myfile.py
+  243  echo $PATH
+  244  env
+  245  pwd
+  246  echo $PWD
+  247  vim first.sh
+  248  ./first.sh
+  249  vim first.sh
+  250  ./first.sh
+  251  vim first.sh
+  252  ./first.sh
+  253  vim first.sh
+  254  ./first.sh
+  255  vim first.sh
+  256  ./first.sh
+  257  vim first.sh
+  258  ./first.sh
+  259  vim first.sh
+  260  ./first.sh
+  261  vim first.sh
+  262  ./first.sh
+  263  vim first.sh
+  264  ./first.sh
+  265  vim first.sh
+  266  python3 file.py
+  267  pip --version
+  268  sudo apt install pip
+  269  curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+  270  pip --version
+  271  python get-pip.py
+  272  pip --version
+  273  python get-pip.py --user
+  274  pip --version
+  275  pip install camelcase
+  276  pip install camelcase --user
+  277  python3 myfile.py
+  278  pip uninstall camelcase
+  279  pip install camelcase 
+  280  pip install camelcase --user
+  281  python3 myfile.py
+  282  python3 practice.py
+  283  shutdown now
+  284  python3 practice.py
+  285  exit
+  286  python -u "/home/harry30225/Documents/python/practice.py"
+  287  python3 practice.py
+  288  ls -a
+  289  rm demofile.txt
+  290  ls -a
+  291  python3 practice.py
+  292  cd Documents/iss
+  293  cd Downloads/iss
+  294  ls -a
+  295  xdg-open 2_Class2_Shell.pdf
+  296  vim first.sh
+  297  ./first.sh
+  298  clear
+  299  vim first.sh
+  300  ./first.sh
+  301  vim first.sh
+  302  ./first.sh
+  303  vim first.sh
+  304  ./first.sh
+  305  vim first.sh
+  306  ./first.sh
+  307  vim first.sh
+  308  ./first.sh
+  309  vim first.sh
+  310  ./first.sh
+  311  vim first.sh
+  312  ./first.sh
+  313  vim first.sh
+  314  ./first.sh
+  315  vim first.sh
+  316  ./first.sh
+  317  vim first.sh
+  318  ./first.sh
+  319  ./first.sh 31
+  320  ./first.sh 31 27
+  321  cd Downloads/iss
+  322  ls -a
+  323  xdg-open 2_Class2_Shell.pdf
+  324  cd ../..
+  325  vim first.sh
+  326  ./first.sh
+  327  vim first.sh
+  328  ./first.sh
+  329  vim first.sh
+  330  ./first.sh
+  331  vim first.sh
+  332  ./first.sh
+  333  clear
+  334  vim first.sh
+  335  touch bash.txt
+  336  vim bash.txt
+  337  cat bash.txt
+  338  cat bash.txt > /dev/stdout
+  339  vim bash.txt
+  340  sort < bash.txt
+  341  vim bash.txt
+  342  grep -i "i" < bash.txt
+  343  ls | wc - l -
+  344  cd ..
+  345  find
+  346  ~
+  347  jobs
+  348  cd ../..
+  349  jobs
+  350  ~
+  351  cat /dev/random > /dev/null
+  352  vim first.sh
+  353  ls /bin
+  354  echo $?
+  355  ls /fake
+  356  echo $?
+  357  vim first.sh
+  358  ./first.sh 31 27
+  359  ./first.sh 31 27 31 27 31 27
+  360  vim first.sh
+  361  cat <hostname>_stats.txt
+  362  ls -a
+  363  touch stats.txt
+  364  vim stats.txt
+  365  vim first.sh
+  366  ./first.sh
+  367  vim stats.txt
+  368  cat <harry30225>stats.txt
+  369  mv stats.txt _stats.txt
+  370  vim first.sh
+  371  cat <harry30225>__stats.txt
+  372  vim first.sh
+  373  ./first.sh
+  374  vim first.sh
+  375  rm <harry30225>__stats.txt
+  376  cat __stats.txt
+  377  vim first.sh
+  378  vim first1.sh
+  379  ./first.sh
+  380  chmod +x ./first.sh
+  381  ./first.sh
+  382  ./first1.sh
+  383  chmod +x ./first1.sh
+  384  ./first1.sh
+  385  vim first.sh
+  386  ./first1.sh
+  387  ./first.sh
+  388  date
+  389  datevar= `date +'%Y-%m-%d`
+  390  printf "%s\n" $costcenter
+  391  numvar=5.5
+  392  echo $numvar
+  393  printf "%f\n" $numvar
+  394  sudo apt install sucrose
+  395  ls -a
+  396  sudo apt install sucrose
+  397  ls -a
+  398  cd Downlaods
+  399  cd Downloads
+  400  ls -a
+  401  cd Documents
+  402  mkdir 2019101083
+  403  cd 2019101083
+  404  ls -a
+  405  cd ../..
+  406  df /dev/sda1
+  407  df /dev/sda2
+  408  df /dev/sda3
+  409  df /dev/sda
+  410  df
+  411  df -H
+  412  df /dev/sda
+  413  cd Documents/2019101083
+  414  vim q_1.sh
+  415  ./q_1.sh 75 90
+  416  chmod +x ./q_1.sh
+  417  ./q_1.sh 75 90
+  418  vim q_1.sh
+  419  cd ../..
+  420  df /dev/sda --output=used
+  421  df /dev/sda --output=used,pcent
+  422  df /dev/sda1 --output=pcent
+  423  df /dev/sda3 --output=pcent
+  424  cd Documents/2019101083
+  425  vim q_1.sh
+  426  ./q_1.sh 75 90
+  427  vim q_1.sh
+  428  ./q_1.sh 75 90
+  429  ls -a
+  430  ls -l
+  431  sudo q_1.sh --./q_1.sh 75 90
+  432  sudo q_1.sh
+  433  vim q_1.sh
+  434  df /dev/sda3 --output=pcent
+  435  df
+  436  vim q_1.sh
+  437  df --output=pcent,source
+  438  df
+  439  df --output=pcent,source
+  440  df -x squashfs --output=pcent,source
+  441  df -x squashfs tmpfs --output=pcent,source
+  442  df -x squashfs,tmpfs --output=pcent,source
+  443  df -x squashfs --output=pcent,source
+  444  df -x squashfs --output=pcent,source | grep '/dev'
+  445  cd ../..
+  446  ls -a
+  447  bash.txt
+  448  vim bash.txt
+  449  vim first.sh
+  450  ./first.sh
+  451  vim first.sh
+  452  ./first.sh
+  453  vim first.sh
+  454  ./first.sh
+  455  vim first.sh
+  456  ./first.sh
+  457  vim first.sh
+  458  ./first.sh
+  459  vim first.sh
+  460  ./first.sh
+  461  vim first.sh
+  462  ./first.sh
+  463  vim first.sh
+  464  ./first.sh
+  465  vim first.sh
+  466  ./first.sh
+  467  vim first.sh
+  468  ./first.sh
+  469  vim first.sh
+  470  ./first.sh
+  471  vim first.sh
+  472  ./first.sh
+  473  vim first.sh
+  474  ./first.sh
+  475  vim first.sh
+  476  ./first.sh
+  477  vim first.sh
+  478  ./first.sh
+  479  vim first.sh
+  480  ./first.sh
+  481  vim first.sh
+  482  ./first.sh
+  483  vim first.sh
+  484  cd Documents/2019101083
+  485  vim q_1.sh
+  486  ./q_1.sh 75 90
+  487  df  squashfs --output=pcent,source | grep '/dev'
+  488  df -x squashfs --output=pcent,source | grep '/dev'
+  489  vim q_1.sh
+  490  touch q1.txt
+  491  vim q_1.sh
+  492  ./q_1.sh 75 90
+  493  vim q_1.sh
+  494  ls -a
+  495  vim q_1.sh
+  496  vim first.sh
+  497  ./first.sh
+  498  vim first.sh
+  499  ./first.sh
+  500  vim first.sh
+  501  ./q_1.sh 75 90
+  502  vim first.sh
+  503  rm first.sh
+  504  vim q_1.sh
+  505  ./q_1.sh 75 90
+  506  vim q_1.sh
+  507  ./q_1.sh 75 90
+  508  vim q_1.sh
+  509  ./q_1.sh 75 90
+  510  vim q_1.sh
+  511  ./q_1.sh 75 90
+  512  vim q_1.sh
+  513  ./q_1.sh 75 90
+  514  sudo q_1.sh
+  515  vim q_1.sh
+  516  ./q_1.sh 75 90
+  517  vim q_1.sh
+  518  ./q_1.sh 75 90
+  519  vim q_1.sh
+  520  ./q_1.sh 75 90
+  521  vim q_1.sh
+  522  .
+  523  ./q_1.sh 75 90
+  524  vim q_1.sh
+  525  ./q_1.sh 75 90
+  526  vim q_1.sh
+  527  ./q_1.sh 75 90
+  528  vim q_1.sh
+  529  ./q_1.sh 75 90
+  530  vim q_1.sh
+  531  ./q_1.sh 75 90
+  532  vim q_1.sh
+  533  ./q_1.sh 75 90
+  534  vim q_1.sh
+  535  ./q_1.sh 75 90
+  536  vim q_1.sh
+  537  ./q_1.sh 75 90
+  538  vim q_1.sh
+  539  ./q_1.sh 75 90
+  540  vim q_1.sh
+  541  ./q_1.sh 75 90
+  542  vim q_1.sh
+  543  ./q_1.sh 75 90
+  544  vim q_1.sh
+  545  ./q_1.sh 75 90
+  546  vim q_1.sh
+  547  ./q_1.sh 75 90
+  548  vim q_1.sh
+  549  ./q_1.sh 75 90
+  550  vim q_1.sh
+  551  ./q_1.sh 75 90
+  552  vim q_1.sh
+  553  ./q_1.sh 75 90
+  554  vim q_1.sh
+  555  man cut
+  556  ./q_1.sh 75 90
+  557  vim q_1.sh
+  558  ./q_1.sh 75 90
+  559  vim q_1.sh
+  560  ./q_1.sh 75 90
+  561  vim q_1.sh
+  562  man grep
+  563  ./q_1.sh 75 90
+  564  man grep
+  565  vim q_1.sh
+  566  ./q_1.sh 75 90
+  567  vim q_1.sh
+  568  ./q_1.sh 75 90
+  569  vim q_1.sh
+  570  man cut
+  571  ./q_1.sh 75 90
+  572  vim q_1.sh
+  573  ./q_1.sh 75 90
+  574  vim q_1.sh
+  575  ./q_1.sh 75 90
+  576  vim q_1.sh
+  577  ./q_1.sh 75 90
+  578  vim q_1.sh
+  579  ./q_1.sh 75 90
+  580  vim q_1.sh
+  581  ./q_1.sh 75 90
+  582  vim q_1.sh
+  583  ./q_1.sh 75 90
+  584  vim q_1.sh
+  585  man grep
+  586  ./q_1.sh 75 90
+  587  vim q_1.sh
+  588  ./q_1.sh 75 90
+  589  vim q_1.sh
+  590  ./q_1.sh 75 90
+  591  vim q_1.sh
+  592  ./q_1.sh 75 90
+  593  vim q_1.sh
+  594  ./q_1.sh 75 90
+  595  vim q_1.sh
+  596  ./q_1.sh 75 90
+  597  vim q_1.sh
+  598  ./q_1.sh 75 90
+  599  vim q_1.sh
+  600  ./q_1.sh 75 90
+  601  vim q_1.sh
+  602  ./q_1.sh 75 90
+  603  vim q_1.sh
+  604  ./q_1.sh 75 90
+  605  ./first.sh
+  606  vim q_1.sh
+  607  ./q_1.sh 75 90
+  608  vim q_1.sh
+  609  ./q_1.sh 75 90
+  610  vim q_1.sh
+  611  ./q_1.sh 75 90
+  612  vim q_1.sh
+  613  ./q_1.sh 75 90
+  614  vim q_1.sh
+  615  ./q_1.sh 75 90
+  616  vim q_1.sh
+  617  exec bash
+  618  df -x squashfs --output=pcent,source | grep '/dev'
+  619  cd ~/Documents/2019101083
+  620  ls
+  621  vim q_1.sh
+  622  bash
+  623  cd ~/Documents/2019101083
+  624  ls -a
+  625  rm q_1.txt  q1.txt
+  626  ls
+  627  vim q_1.sh
+  628  rm q_1.sh  .q_1.sh.swp
+  629  ls -a
+  630  vim q_1.sh
+  631  bash q_1.sh 75 90
+  632  exec bash
+  633  cd ~/Documents/2019101083
+  634  exec bash
+  635  cd ~/Documents/2019101083
+  636  vim q_1.sh
+  637  cd ~/Documents/2019101083
+  638  vim q_1.sh
+  639  ls
+  640  cd ../..
+  641  apt-get
+  642  cd Documents/2019101083
+  643  vim q_7.sh
+  644  bash q_7.sh
+  645  vim q_7.sh
+  646  vim q_3.sh
+  647  vim q_7.sh
+  648  bash q_7.sh
+  649  vim q_7.sh
+  650  bash q_7.sh
+  651  vim q_7.sh
+  652  bash q_7.sh
+  653  vim q_7.sh
+  654  bash q_7.sh
+  655  vim q_7.sh
+  656  bash q_7.sh
+  657  vim q_7.sh
+  658  bash q_7.sh
+  659  vim q_7.sh
+  660  bash q_7.sh
+  661  vim q_9.sh
+  662  bash q_9.sh 777
+  663  vim q_9.sh
+  664  bash q_9.sh 786
+  665  vim q_9.sh
+  666  bash q_9.sh 786
+  667  vim q_9.sh
+  668  vim q_7.sh
+  669  vim q_9.sh
+  670  bash q_9.sh 786
+  671  bash q_9.sh 77
+  672  vim q_9.sh
+  673  vim q_10.sh
+  674  ls -a
+  675  vim q_10.sh
+  676  bash q_10.sh 8 27 9 -2 7 92 -9 0
+  677  vim q_10.sh
+  678  bash q_10.sh 8 27 9 -2 7 92 -9 0
+  679  vim q_10.sh
+  680  bash q_10.sh 8 27 9 -2 7 92 -9 0
+  681  vim q_10.sh
+  682  bash q_10.sh 8 27 9 -2 7 92 -9 0
+  683  vim q_10.sh
+  684  bash q_10.sh 8 27 9 -2 7 92 -9 0
+  685  vim q_10.sh
+  686  bash q_10.sh 8 27 9 -2 7 92 -9 0
+  687  vim q_10.sh
+  688  bash q_10.sh 8 27 9 -2 7 92 -9 0
+  689  bash q_10.sh 8 27 9 -2 
+  690  vim q_10.sh
+  691  bash q_10.sh 8 27 9 -2 
+  692  vim q_10.sh
+  693  bash q_10.sh 8 27 9 -2 7 92 -9 0
+  694  vim q_10.sh
+  695  bash q_10.sh 8 27 9 -2 7 92 -9 0
+  696  vim q_10.sh
+  697  bash q_10.sh 8 27 9 -2 7 92 -9 0
+  698  vim q_10.sh
+  699  bash q_10.sh 8 27 9 -2 7 92 -9 0
+  700  vim q_10.sh
+  701  bash q_10.sh 8 27 9 -2 7 92 -9 0
+  702  exec bash
+  703  cd Documents/2019101083
+  704  ls -a
+  705  rm '=' 0
+  706  ls -a
+  707  cd ..
+  708  ks -a
+  709  exec bash
+  710  man xargs
+  711  cd Documents
+  712  mkdir issass
+  713  cd issass
+  714  git clone https://github.com/harry30225/ISS
+  715  ls -a
+  716  cd ISS
+  717  ls -a
+  718  cd Lab2
+  719  ls -a
+  720  xdg-open Lab2_Assignment.md
+  721  mkdir 2019101083_Lab2
+  722  cd 2019101083_Lab2
+  723  touch out1 | cat cal
+  724  touch out1 | cal
+  725  ls -a
+  726  xdg-open out1
+  727  touch ou1.txt < cal
+  728  exec bash
+  729  cd /proc/7362/fd
+  730  cd proc
+  731  cd /
+  732  ls -a
+  733  cd proc
+  734  ls -a
+  735  cd 7362
+  736  cd Documents/issass
+  737  ls -a
+  738  cd ISS
+  739  ls -a
+  740  cd Lab2
+  741  ls- a
+  742  ls
+  743  cd scripts
+  744  ls -a
+  745  vim script_4.sh
+  746  vim script_3.sh
+  747  cd ~/2019101083_Lab2
+  748  ls -a
+  749  vim bonus.sh
+  750  bash bonus.sh
+  751  vim bonus.sh
+  752  bash bonus.sh
+  753  vim bonus.sh
+  754  bash bonus.sh
+  755  vim bonus.sh
+  756  cd Documents/2019101083
+  757  ls
+  758  vim q_1.sh
+  759  bash bonus.sh
+  760  vim q_1.sh
+  761  ls -a
+  762  vim bonus.sh
+  763  bash bonus.sh
+  764  vim bonus.sh
+  765  bash bonus.sh
+  766  vim bonus.sh
+  767  bash bonus.sh
+  768  vim bonus.sh
+  769  bash bonus.sh
+  770  vim bonus.sh
+  771  bash bonus.sh
+  772  vim bonus.sh
+  773  bash bonus.sh
+  774  vim bonus.sh
+  775  bash bonus.sh
+  776  ls -a
+  777  ls -l
+  778  rm -rf 0
+  779  bash bonus.sh
+  780  vim bonus.sh
+  781  bash bonus.sh
+  782  vim bonus.sh
+  783  bash bonus.sh
+  784  vim bonus.sh
+  785  bash bonus.sh
+  786  vim bonus.sh
+  787  bash bonus.sh
+  788  vim bonus.sh
+  789  bash bonus.sh
+  790  vim bonus.sh
+  791  exec bash
+  792  g++ 1285a.cpp
+  793  ./a.out
+  794  g++ 1285a.cpp
+  795  ./a.out
+  796  g++ 1285a.cpp
+  797  ./a.out
+  798  g++ 1285b.cpp
+  799  ./a.out
+  800  g++ 1285b.cpp
+  801  ./a.out
+  802  g++ 1285c.cpp
+  803  ./a.out
+  804  g++ 1285c.cpp
+  805  ./a.out
+  806  g++ 1285c.cpp
+  807  ./a.out
+  808  g++ 1285c.cpp
+  809  ./a.out
+  810  g++ 1285c.cpp
+  811  ./a.out
+  812  g++ 1285c.cpp
+  813  ./a.out
+  814  g++ 1285d.cpp
+  815  ./a.out
+  816  g++ 1285d.cpp
+  817  ./a.out
+  818  g++ 1285d.cpp
+  819  ./a.out
+  820  g++ 1285d.cpp
+  821  ./a.out
+  822  g++ 1285d.cpp
+  823  ./a.out
+  824  g++ 1285d.cpp
+  825  ./a.out
+  826  g++ 1285d.cpp
+  827  ./a.out
+  828  g++ 1285d.cpp
+  829  ./a.out
+  830  g++ 1285d.cpp
+  831  ./a.out
+  832  g++ 1285d.cpp
+  833  ./a.out
+  834  g++ 1285d.cpp
+  835  ./a.out
+  836  g++ 1285d.cpp
+  837  ./a.out
+  838  cd Documents/2019101083
+  839  ls -a
+  840  cd ..
+  841  ls -a
+  842  mkdir delete
+  843  mv a.txt delete
+  844  ls -a
+  845  mv b.txt delete
+  846  mv c.txt delete
+  847  mv d.txt delete
+  848  ls -a
+  849  rm 'cat hi.txt | xargs -I ' ' delete rm /%/.txt
+  850  ls delete
+  851  rm 'cat hi.txt | xargs -I ' ' rm delete /%/.txt'
+  852  cat hi.txt | xargs -I ' ' delete rm /%/.txt
+  853  cat hi.txt | xargs -I ' ' rm delete /%/.txt
+  854  man xargs
+  855  cat hi.txt | xargs -I' ' rm delete /%/.txt
+  856  cat hi.txt| xargs 
+  857  cat hi.txt| xargs rm
+  858  cat hi.txt| xargs rm delete/{}.txt
+  859  cat hi.txt| xargs -Irm delete/{}.txt
+  860  man xargs
+  861  cat hi.txt | xargs -I '1' delete/1.txt rm
+  862  cat hi.txt | xargs -I % 'delete/%.txt' rm
+  863  cat hi.txt | xargs -I % 'rm delete/%.txt'
+  864  cat hi.txt | xargs -I % sh -c 'rm delete/%.txt'
+  865  cat hi.txt | xargs -I % 'rm delete/%.txt'
+  866  cat hi.txt | xargs -I {} rm delete/{}.txt
+  867  cat hi.txt | xargs -I % rm delete/%.txt
+  868  cat hi.txt | xargs -I ' ' rm delete/%.txt
+  869  cat hi.txt | xargs -I % rm delete/%.txt
+  870  rm 'cat hi.txt | xargs -I % rm delete/%.txt'
+  871  cat hi.txt | xargs -I {} rm delete/{}.txt
+  872  cd Documents
+  873  cat hi.txt | xargs -I % rm delete/%.txt
+  874  cat hi.txt |tr ' ' '\n' | xargs -I % rm delete/%.txt
+  875  ls -a
+  876  ls delete
+  877  cd 2019101083
+  878  ls -a
+  879  vim ans.txt
+  880  man find
+  881  cd ..
+  882  cd delete
+  883  ls -a
+  884  rm -rf c.txt d.txt
+  885  cd ..
+  886  rm -rf delete
+  887  rm hi.txt
+  888  ls -a
+  889  cd 2019101083
+  890  man find
+  891  shutdown now
+  892  cd Documents/2019101083
+  893  ls -a
+  894  vim ans.txt
+  895  cat ans.txt | tr ' ' '\n'
+  896  cat ans.txt
+  897  cd Documents/2019101083
+  898  ls- l
+  899  ls -l
+  900  ls -l | sort
+  901  ls -S
+  902  ls -lrS
+  903  cd ..
+  904  mkdir rec
+  905  cd rec
+  906  touch a.txt b.txt c.txt
+  907  ls -a
+  908  mkdir recur
+  909  cd recur
+  910  touch d.txt
+  911  cd ..
+  912  cat harshit > a.txt
+  913  a.txt < cat harshit
+  914  echo "harshit" > a.txt
+  915  cat a.txt
+  916  echo "harshits" > b.txt
+  917  echo "harshitsh" > c.txt
+  918  echo "harshitshar" > recur/d.txt
+  919  cd recur
+  920  cat d.txt
+  921  cd ../..
+  922  grep -r 'rec' -e 'har'
+  923  grep -r 'rec' -e 'har' | sort
+  924  man sort
+  925  grep -r 'rec' -e 'har' | sort -r
+  926  cd rec
+  927  vim a.txt
+  928  cd ..
+  929  grep -r 'rec' -e 'har' | sort -r
+  930  cd 2019101083
+  931  vim q_9.txt
+  932  ls -a
+  933  vim q_9.sh
+  934  rm q_9.txt
+  935  cd ..
+  936  grep -r "har" rec/sort -r
+  937  grep -r "har" rec/ | sort -r
+  938  grep -r "har" rec/ | grep -r "har" | sort -r
+  939  grep -r "har" rec/ | sort -r
+  940  grep -r "har" rec/ 
+  941  man cut
+  942  grep -r "har" rec/ | cut --delimiter=":" -f 2
+  943  grep -r "har" rec/ | cut --delimiter=":" -f 2 | sort -r
+  944  cd 2019101083
+  945  ls -a
+  946  vim ans.txt
+  947  cd Videos
+  948  ls -a
+  949  cd ..
+  950  cd Downloads
+  951  ls -a
+  952  cd movies
+  953  ls -a
+  954  xdg-open Kala.Shah.Kala.720.HDRip.Bollyflixhd.xyz.mkv
+  955  sudo apt-get install network-manager-openvpn-gnome
+  956  exec bash
+  957  cd Documents
+  958  mkdir dsa
+  959  cd dsa
+  960  mkdir ass1
+  961  cd ass1
+  962  vim nge.c
+  963  gcc nge.c
+  964  ./a.out
+  965  gcc nge.c
+  966  ./a.out
+  967  gcc nge.c
+  968  ./a.out
+  969  gcc nge.c
+  970  ./a.out
+  971  gcc nge.c
+  972  ./a.out
+  973  gcc nge.c
+  974  ./a.out
+  975  gcc nge.c
+  976  ./a.out
+  977  gcc nge.c
+  978  ./a.out
+  979  gcc nge.c
+  980  ./a.out
+  981  gcc nge.c
+  982  ./a.out
+  983  gcc nge.c
+  984  ./a.out
+  985  gcc nge.c
+  986  ./a.out
+  987  gcc pfe.c
+  988  ./a.out
+  989  gcc pfe.c
+  990  ./a.out
+  991  gcc pfe.c
+  992  ./a.out
+  993  gcc pfe.c
+  994  ./a.out
+  995  cd "/home/harry30225/Documents/dsa/ass1/" && gcc pfe.c -o pfe && "/home/harry30225/Documents/dsa/ass1/"pfe
+  996  gcc pfe.c
+  997  cd "/home/harry30225/Documents/dsa/ass1/" && gcc pfe.c -o pfe && "/home/harry30225/Documents/dsa/ass1/"pfe
+  998  gcc pfe.c
+  999  ./a.out
+ 1000  gcc pfe.c
+ 1001  ./a.out
+ 1002  gcc pfe.c
+ 1003  ./a.out
+ 1004  gcc pfe.c
+ 1005  ./a.out
+ 1006  gcc pfe.c
+ 1007  ./a.out
+ 1008  gcc pfe.c
+ 1009  ./a.out
+ 1010  gcc pfe.c
+ 1011  ./a.out
+ 1012  gcc pfe.c
+ 1013  ./a.out
+ 1014  gcc pfe.c
+ 1015  ./a.out
+ 1016  gcc pfe.c
+ 1017  ./a.out
+ 1018  gcc pfe.c
+ 1019  ./a.out
+ 1020  gcc pfe.c
+ 1021  ./a.out
+ 1022  gcc pfe.c
+ 1023  ./a.out
+ 1024  gcc pfe.c
+ 1025  ./a.out
+ 1026  gcc pfe.c
+ 1027  ./a.out
+ 1028  gcc pfe.c
+ 1029  ./a.out
+ 1030  gcc pfe.c
+ 1031  ./a.out
+ 1032  gcc pfe.c
+ 1033  ./a.out
+ 1034  gcc pfe2.c
+ 1035  ./a.out
+ 1036  gcc pfe2.c
+ 1037  ./a.out
+ 1038  gcc pfe2.c
+ 1039  ./a.out
+ 1040  gcc pfe2.c
+ 1041  ./a.out
+ 1042  gcc pfe2.c
+ 1043  ./a.out
+ 1044  gcc pfe2.c
+ 1045  ./a.out
+ 1046  gcc pfe2.c
+ 1047  ./a.out
+ 1048  gcc pfe2.c
+ 1049  ./a.out
+ 1050  gcc pfe2.c
+ 1051  ./a.out
+ 1052  gcc pfe2.c
+ 1053  ./a.out
+ 1054  gcc pfe2.c
+ 1055  ./a.out
+ 1056  gcc pfe2.c
+ 1057  ./a.out
+ 1058  gcc pfe2.c
+ 1059  ./a.out
+ 1060  gcc pfe2.c
+ 1061  ./a.out
+ 1062  gcc pfe2.c
+ 1063  ./a.out
+ 1064  gcc pfe2.c
+ 1065  ./a.out
+ 1066  gcc pfe2.c
+ 1067  ./a.out
+ 1068  gcc pfe2.c
+ 1069  ./a.out
+ 1070  gcc pfe2.c
+ 1071  ./a.out
+ 1072  gcc pfe2.c
+ 1073  ./a.out
+ 1074  gcc pfe2.c
+ 1075  ./a.out
+ 1076  gcc pfe2.c
+ 1077  ./a.out
+ 1078  gcc pfe2.c
+ 1079  ./a.out
+ 1080  gcc pfe2.c
+ 1081  ./a.out
+ 1082  gcc pfe2.c
+ 1083  ./a.out
+ 1084  gcc pfe2.c
+ 1085  ./a.out
+ 1086  gcc pfe2.c
+ 1087  ./a.out
+ 1088  gcc pfe2.c
+ 1089  ./a.out
+ 1090  gcc pfe2.c
+ 1091  ./a.out
+ 1092  gcc pfe2.c
+ 1093  ./a.out
+ 1094  gcc pfe2.c
+ 1095  ./a.out
+ 1096  gcc pfe2.c
+ 1097  ./a.out
+ 1098  gcc pfe2.c
+ 1099  ./a.out
+ 1100  gcc pfe2.c
+ 1101  ./a.out
+ 1102  gcc pfe2.c
+ 1103  ./a.out
+ 1104  gcc pfe2.c
+ 1105  ./a.out
+ 1106  gcc pfe3.c
+ 1107  ./a.out
+ 1108  gcc pfe3.c
+ 1109  ./a.out
+ 1110  gcc pfe3.c
+ 1111  ./a.out
+ 1112  gcc pfe3.c
+ 1113  ./a.out
+ 1114  gcc pfe3.c
+ 1115  ./a.out
+ 1116  gcc pfe3.c
+ 1117  ./a.out
+ 1118  gcc psc.c
+ 1119  ./a.out
+ 1120  gcc psc.c
+ 1121  ./a.out
+ 1122  gcc psc.c
+ 1123  ./a.out
+ 1124  gcc psc.c
+ 1125  ./a.out
+ 1126  gcc psc.c
+ 1127  ./a.out
+ 1128  gcc psc.c
+ 1129  ./a.out
+ 1130  gcc psc.c
+ 1131  ./a.out
+ 1132  gcc psc.c
+ 1133  ./a.out
+ 1134  gcc psc.c
+ 1135  ./a.out
+ 1136  gcc psc.c
+ 1137  ./a.out
+ 1138  gcc psc.c
+ 1139  ./a.out
+ 1140  gcc psc.c
+ 1141  ./a.out
+ 1142  gcc psc.c
+ 1143  ./a.out
+ 1144  gcc psc.c
+ 1145  ./a.out
+ 1146  gcc psc.c
+ 1147  ./a.out
+ 1148  gcc psc.c
+ 1149  ./a.out
+ 1150  gcc psc.c
+ 1151  ./a.out
+ 1152  gcc psc.c
+ 1153  ./a.out
+ 1154  gcc psc.c
+ 1155  ./a.out
+ 1156  gcc psc.c
+ 1157  ./a.out
+ 1158  gcc psc.c
+ 1159  ./a.out
+ 1160  gcc psc.c
+ 1161  ./a.out
+ 1162  gcc psc.c
+ 1163  ./a.out
+ 1164  gcc psc.c
+ 1165  ./a.out
+ 1166  gcc psc.c
+ 1167  ./a.out
+ 1168  gcc psc.c
+ 1169  ./a.out
+ 1170  gcc psc.c
+ 1171  ./a.out
+ 1172  gcc psc.c
+ 1173  ./a.out
+ 1174  gcc psc.c
+ 1175  ./a.out
+ 1176  gcc psc.c
+ 1177  ./a.out
+ 1178  gcc psc.c
+ 1179  ./a.out
+ 1180  gcc psc.c
+ 1181  ./a.out
+ 1182  gcc psc.c
+ 1183  ./a.out
+ 1184  gcc ost.c
+ 1185  ./a.out
+ 1186  gcc ost.c
+ 1187  cd Documents/2019101083
+ 1188  exec bash
+ 1189  shutdown now
+ 1190  g++ c++.cpp
+ 1191  ./a.out
+ 1192  g++ c++.cpp
+ 1193  ./a.out
+ 1194  g++ c++.cpp
+ 1195  ./a.out
+ 1196  g++ c++.cpp
+ 1197  ./a.out
+ 1198  g++ c++.cpp
+ 1199  ./a.out
+ 1200  g++ graphs.cpp
+ 1201  ./a.out
+ 1202  g++ graphs.cpp
+ 1203  ./a.out
+ 1204  g++ graphs.cpp
+ 1205  ./a.out
+ 1206  g++ graphs.cpp
+ 1207  ./a.out
+ 1208  mkdir 1
+ 1209  cd 1
+ 1210  touch har.txt hars.txt harshit.txt
+ 1211  ls -a
+ 1212  mkdir 2
+ 1213  cd 2
+ 1214  touch harshitsharma.txt
+ 1215  ls -a
+ 1216  cd ../..
+ 1217  find 1/ -maxdepth 1 -name "har" -print
+ 1218  find /1/ -type -iname "har" -print
+ 1219  exec bash
+ 1220  tree 1
+ 1221  tree 1 | grep 'har'
+ 1222  tree 1 | grep 'har' | sort -r
+ 1223  tree 1 | grep 'har' | sort
+ 1224  tree 1 | grep 'har' | cut -d " " -f 2
+ 1225  tree 1 | grep 'har'
+ 1226  tree 1 | grep 'r'
+ 1227  tree 1 | grep 'har' | cut -d "-" -f 2
+ 1228  tree 1 | grep 'har' | cut -d "_" -f 2
+ 1229  exec bash
+ 1230  cd Documents/2019101083
+ 1231  vim q_6.sh
+ 1232  exec bash
+ 1233  cd Documents/2019101083
+ 1234  exec bash
+ 1235  cd Documents/2019101083
+ 1236  exec bash
+ 1237  g++ 1294a.cpp
+ 1238  ./a.out
+ 1239  g++ 1294a.cpp
+ 1240  ./a.out
+ 1241  g++ 1294a.cpp
+ 1242  ./a.out
+ 1243  g++ 1294c.cpp
+ 1244  ./a.out
+ 1245  g++ 1294c.cpp
+ 1246  ./a.out
+ 1247  g++ 1294c.cpp
+ 1248  ./a.out
+ 1249  g++ 1294c.cpp
+ 1250  ./a.out
+ 1251  g++ 1294c.cpp
+ 1252  ./a.out
+ 1253  g++ 1294c.cpp
+ 1254  ./a.out
+ 1255  g++ 1294c.cpp
+ 1256  ./a.out
+ 1257  g++ 1294c.cpp
+ 1258  ./a.out
+ 1259  g++ 1294c.cpp
+ 1260  ./a.out
+ 1261  g++ 1294c.cpp
+ 1262  ./a.out
+ 1263  g++ 1294c.cpp
+ 1264  ./a.out
+ 1265  g++ 1294b.cpp
+ 1266  ./a.out
+ 1267  g++ 1294b.cpp
+ 1268  ./a.out
+ 1269  g++ 1294b.cpp
+ 1270  ./a.out
+ 1271  g++ 1294b.cpp
+ 1272  ./a.out
+ 1273  g++ 1294b.cpp
+ 1274  ./a.out
+ 1275  g++ 1294b.cpp
+ 1276  ./a.out
+ 1277  cd Documents
+ 1278  mkdir issweb
+ 1279  cd issweb
+ 1280  mkdir css html img js
+ 1281  cd Downloads/cso
+ 1282  git clone https://github.com/harry30225/Computer-System-Organisation-2020~
+ 1283  git clone https://github.com/harry30225/Computer-System-Organisation-2020
+ 1284  ls -a
+ 1285  cd Computer-System-Organisation-2020
+ 1286  ls -a
+ 1287  cd Resources
+ 1288  ls -a
+ 1289  cd x86
+ 1290  ls -a
+ 1291  cd ..
+ 1292  cd Tutorial1
+ 1293  ls -a
+ 1294  sudo apt install gdb
+ 1295  cd Downloads/cso
+ 1296  git clone https://github.com/harry30225/Computer-System-Organisation-2020
+ 1297  cd Downloads/cso
+ 1298  gdb ./a.out
+ 1299  gdb fibonacci.s
+ 1300  ls
+ 1301  cd Computer-System-Organisation-2020
+ 1302  ls
+ 1303  cd Tutorial2
+ 1304  ls -a
+ 1305  gdb fibonacci.s
+ 1306  gcc -g -c fibonacci.s && ld fibonacci.o
+ 1307  cd Downloads/cso
+ 1308  cd Computer-System-Organisation-2020/Tutorial2
+ 1309  gcc -g -nostdlib Fibonacci.s
+ 1310  ls- a
+ 1311  ls -a
+ 1312  gcc -g -nostdlib fibonacci.s
+ 1313  cd Documents/iss/isslab/
+ 1314  cd Downloads/iss/isslab
+ 1315  ls -a
+ 1316  cd 2019101083_lab_Assignment2
+ 1317  ls -a
+ 1318  code q_3.js
+ 1319  cd Downloads/cso/Computer-System-Organisation-2020/Tutorial1
+ 1320  ls -a
+ 1321  ./a.out
+ 1322  cd ..
+ 1323  cd Tutorial2
+ 1324  ls -a
+ 1325  sudo apt install spotify
+ 1326  exec bash
+ 1327  sudo snap install spotify
+ 1328  cd ~
+ 1329  cd Documents/practice
+ 1330  ls -a
+ 1331  vim p.c
+ 1332  gcc p.c
+ 1333  vim p.c
+ 1334  gcc p.c
+ 1335  ./a.out
+ 1336  cd Downloads/cso/Computer-System-Organisation-2020/Tutorial2
+ 1337  ls -a
+ 1338  gcc -g -c -nostdlib fibonacci.s
+ 1339  gcc -g -c fibonacci.s && ld fibonacci.o
+ 1340  gdb
+ 1341  ls
+ 1342  gdb ./a.out
+ 1343  ./a.out
+ 1344  vi fibonacci.s
+ 1345  gcc -g -c fibonacci.o && ld fibonacci.s
+ 1346  gcc -g -c fibonacci.s && ld fibonacci.o
+ 1347  gdb ./a.out
+ 1348  vim fibonacci.s
+ 1349  cd ../..
+ 1350  cd 2019101083
+ 1351  ls -a
+ 1352  cd Q2
+ 1353  vim Q2.s
+ 1354  cd ../..
+ 1355  cd Computer-System-Organisation-2020/Tutorial2
+ 1356  vim fibonacci.s
+ 1357  cd Downloads/cso/2019101083/Q2
+ 1358  ls -a
+ 1359  vim Q2.s
+ 1360  cd Downloads/cso/2019101083/Q3
+ 1361  vim Q3.s
+ 1362  cd Downloads/cso/Computer-System-Organisation-2020/Tutorial2
+ 1363  vim fibonacci.s
+ 1364  vim Q3.c
+ 1365  rm Q3.s
+ 1366  ls -a
+ 1367  gcc -c Q3.c
+ 1368  gcc -g Q3.c
+ 1369  vim Q3.o
+ 1370  gcc -S Q3.c
+ 1371  vim Q3.s
+ 1372  g++ dfs.cpp
+ 1373  ./a.out
+ 1374  g++ fm.cpp
+ 1375  ./a.out
+ 1376  g++ fm.cpp
+ 1377  ./a.out
+ 1378  g++ fm.cpp
+ 1379  ./a.out
+ 1380  g++ fm.cpp
+ 1381  ./a.out
+ 1382  g++ fm.cpp
+ 1383  ./a.out
+ 1384  cd Downloads
+ 1385  g++ fcm.cpp
+ 1386  ./a.out
+ 1387  g++ fcm.cpp
+ 1388  vim fcm.cpp
+ 1389  g++ fcm.cpp
+ 1390  ./a.out
+ 1391  vim fcm.cpp
+ 1392  g++ fcm.cpp
+ 1393  vim fcm.cpp
+ 1394  g++ fcm.cpp
+ 1395  vim fcm.cpp
+ 1396  g++ fcm.cpp
+ 1397  ./a.out
+ 1398  vim fcm.cpp
+ 1399  g++ fcm.cpp
+ 1400  ./a.out
+ 1401  vim fcm.cpp
+ 1402  g++ fcm.cpp
+ 1403  ./a.out
+ 1404  vim fcm.cpp
+ 1405  g++ fcm.cpp
+ 1406  ./a.out
+ 1407  vim fcm.cpp
+ 1408  g++ fcm.cpp
+ 1409  ./a.out
+ 1410  vim fcm.cpp
+ 1411  ./a.out
+ 1412  vim fcm.cpp
+ 1413  g++ fcm.cpp
+ 1414  ./a.out
+ 1415  vim fcm.cpp
+ 1416  g++ fcm.cpp
+ 1417  ./a.out
+ 1418  vim fcm.cpp
+ 1419  g++ fcm.cpp
+ 1420  ./a.out
+ 1421  vim fcm.cpp
+ 1422  g++ fcm.cpp
+ 1423  ./a.out
+ 1424  vim fcm.cpp
+ 1425  g++ fcm.cpp
+ 1426  ./a.out
+ 1427  g++ directed.cpp
+ 1428  ./a.out
+ 1429  g++ directed.cpp
+ 1430  ./a.out
+ 1431  l
+ 1432  ls
+ 1433  cd Do
+ 1434  cd Downloads/
+ 1435  ls
+ 1436  cd ,,
+ 1437  cd ..
+ 1438  cd Documents
+ 1439  ls
+ 1440  sudo apt install network-manager-openvpn-gnome
+ 1441  sudo nmcli connection import type openvpn ~/Documents/linux.ovpn
+ 1442  ls
+ 1443  sudo nmcli connection import type openvpn linux.ovpn
+ 1444  ls
+ 1445  sudo nmcli connection import type openvpn file linux.ovpn
+ 1446  nmcli con up linux
+ 1447  g++ cc.cpp
+ 1448  ./a.out
+ 1449  g++ cc.cpp
+ 1450  ./a.out
+ 1451  g++ sp.cpp
+ 1452  ./a.out
+ 1453  g++ sp.cpp
+ 1454  ./a.out
+ 1455  g++ sp.cpp
+ 1456  ./a.out
+ 1457  g++ sp.cpp
+ 1458  ./a.out
+ 1459  cd "/home/harry30225/Documents/dsa/lab4/" && g++ sp.cpp -o sp && "/home/harry30225/Documents/dsa/lab4/"sp
+ 1460  cd "/home/harry30225/Documents/dsa/lab4/" && g++ tempCodeRunnerFile.cpp -o tempCodeRunnerFile && "/home/harry30225/Documents/dsa/lab4/"tempCodeRunnerFile
+ 1461  cd "/home/harry30225/Documents/dsa/lab4/" && g++ sp.cpp -o sp && "/home/harry30225/Documents/dsa/lab4/"sp
+ 1462  g++ sp.cpp
+ 1463  ./a.out
+ 1464  g++ sp.cpp
+ 1465  ./a.out
+ 1466  g++ sp.cpp
+ 1467  ./a.out
+ 1468  g++ sp.cpp
+ 1469  ./a.out
+ 1470  g++ sp.cpp
+ 1471  ./a.out
+ 1472  g++ sp.cpp
+ 1473  ./a.out
+ 1474  g++ sp.cpp
+ 1475  ./a.out
+ 1476  g++ sp.cpp
+ 1477  ./a.out
+ 1478  g++ sp.cpp
+ 1479  ./a.out
+ 1480  g++ qts.cpp
+ 1481  ./a.out
+ 1482  g++ qts.cpp
+ 1483  ./a.out
+ 1484  g++ lzb.cpp
+ 1485  ./a.out
+ 1486  g++ lzb.cpp
+ 1487  ./a.out
+ 1488  g++ lzb.cpp
+ 1489  ./a.out
+ 1490  g++ lzb.cpp
+ 1491  ./a.out
+ 1492  g++ lzb.cpp
+ 1493  ./a.out
+ 1494  g++ lzb.cpp
+ 1495  ./a.out
+ 1496  g++ lzb.cpp
+ 1497  ./a.out
+ 1498  g++ lzb.cpp
+ 1499  ./a.out
+ 1500  g++ lzb.cpp
+ 1501  ./a.out
+ 1502  g++ lzb.cpp
+ 1503  ./a.out
+ 1504  g++ lzb.cpp
+ 1505  ./a.out
+ 1506  g++ lzb.cpp
+ 1507  ./a.out
+ 1508  g++ lzb.cpp
+ 1509  ./a.out
+ 1510  g++ lzb.cpp
+ 1511  ./a.out
+ 1512  g++ lzb.cpp
+ 1513  ./a.out
+ 1514  g++ lzb.cpp
+ 1515  ./a.out
+ 1516  g++ lzb.cpp
+ 1517  ./a.out
+ 1518  g++ lzb.cpp
+ 1519  ./a.out
+ 1520  g++ lzb.cpp
+ 1521  ./a.out
+ 1522  g++ lzb.cpp
+ 1523  ./a.out
+ 1524  g++ lzb.cpp
+ 1525  ./a.out
+ 1526  g++ lzb.cpp
+ 1527  ./a.out
+ 1528  g++ lzb.cpp
+ 1529  ./a.out
+ 1530  g++ lzb.cpp
+ 1531  ./a.out
+ 1532  g++ lzb.cpp
+ 1533  ./a.out
+ 1534  g++ lzb.cpp
+ 1535  ./a.out
+ 1536  g++ lzb.cpp
+ 1537  ./a.out
+ 1538  sudo apt install make
+ 1539  make --version
+ 1540  git --version
+ 1541  sudo apt update
+ 1542  sudo apt upgrade
+ 1543  g++ lzb.cpp
+ 1544  ./a.out
+ 1545  g++ lzb.cpp
+ 1546  ./a.out
+ 1547  cd Documents/practice
+ 1548  ls -a
+ 1549  vim stack1.cpp
+ 1550  g++ stack1.cpp
+ 1551  vim stack1.cpp
+ 1552  g++ stack1.cpp
+ 1553  vim stack1.cpp
+ 1554  g++ stack1.cpp
+ 1555  ./a.out
+ 1556  g++ stack1.cpp
+ 1557  vim stack1.cpp
+ 1558  g++ stack1.cpp
+ 1559  vim stack1.cpp
+ 1560  g++ stack1.cpp
+ 1561  vim stack1.cpp
+ 1562  g++ stack1.cpp
+ 1563  ./a.out
+ 1564  g++ -save-temps stack1.cpp
+ 1565  ls a
+ 1566  ls -a
+ 1567  g++ qts.cpp
+ 1568  ./a.out
+ 1569  g++ qts.cpp
+ 1570  ./a.out
+ 1571  cd "/home/harry30225/Documents/dsaoj/ass1/" && g++ qts.cpp -o qts && "/home/harry30225/Documents/dsaoj/ass1/"qts
+ 1572  g++ qts.cpp&& ./a.out > test
+ 1573  ls
+ 1574  xdg-open .
+ 1575  cd "/home/harry30225/Documents/dsaoj/ass1/" && g++ qts.cpp -o qts && "/home/harry30225/Documents/dsaoj/ass1/"qts
+ 1576  cd Downloads/cso/2019101083/Q2
+ 1577  ls -a
+ 1578  vim Q2.s
+ 1579  cd ..
+ 1580  cd Q3
+ 1581  ls -a
+ 1582  rm Q3.s Q3.o Q3.s
+ 1583  rm Q3.s Q3.o Q3.c
+ 1584  rm Q3.c
+ 1585  ls -a
+ 1586  rm a.out
+ 1587  ls -a
+ 1588  vim Q3.s
+ 1589  cd Downloads/cso/2019101083/Q2
+ 1590  vim Q2.s
+ 1591  cd ..
+ 1592  cd Q2
+ 1593  ls -a
+ 1594  vim Q2.s
+ 1595  cd ..
+ 1596  cd Q3
+ 1597  vim Q3.s
+ 1598  cd Downloads/books
+ 1599  ls- a
+ 1600  ls -a
+ 1601  xdg-open 'Computer System_EN.pdf'
+ 1602  g++ rdb.cpp
+ 1603  ./a.out
+ 1604  4 4
+ 1605  ./a.out
+ 1606  4 4
+ 1607  1 2 1
+ 1608  ./a.out
+ 1609  4 4
+ 1610  cd Documents/dsaoj/ass1
+ 1611  ls -a
+ 1612  g++ rdb.cpp
+ 1613  ./a.out
+ 1614  4 4
+ 1615  vim rdb.cpp
+ 1616  g++ rdb.cpp
+ 1617  vim rdb.cpp
+ 1618  g++ rdb.cpp
+ 1619  ./a.out
+ 1620  g++ rdb.cpp
+ 1621  ./a.out
+ 1622  g++ rdb.cpp
+ 1623  ./a.out
+ 1624  g++ rdb.cpp
+ 1625  ./a.out
+ 1626  g++ mxd.cpp
+ 1627  ./a.out
+ 1628  g++ qts.cpp&& ./a.out > test
+ 1629  g++ qts.cpp
+ 1630  ./a.out
+ 1631  g++ mxd.cpp
+ 1632  ./a.out
+ 1633  node --version
+ 1634  npm
+ 1635  sudo apt upgrade npm
+ 1636  sudo apt update
+ 1637  npm
+ 1638  sudo apt update node
+ 1639  sudo apt update npm
+ 1640  sudo apt install npm
+ 1641  exec bash
+ 1642  sudo apt install npm
+ 1643  npm
+ 1644  sudo apt install node
+ 1645  sudo apt install node.js
+ 1646  node
+ 1647  clear
+ 1648  node
+ 1649  cd Downloads/cso/2019101083/Q2
+ 1650  vim Q2.s
+ 1651  cd ..
+ 1652  cd Q3
+ 1653  vim Q3.s
+ 1654  ls -a
+ 1655  cd ..
+ 1656  cd Q2
+ 1657  ls -a
+ 1658  xdg-open Q2.pdf
+ 1659  g++ lzb.cpp
+ 1660  ./a.out
+ 1661  g++ lzb.cpp
+ 1662  ./a.out
+ 1663  g++ lzb.cpp
+ 1664  ./a.out
+ 1665  g++ lzb.cpp
+ 1666  ./a.out
+ 1667  g++ lzb.cpp
+ 1668  ./a.out
+ 1669  g++ lzb.cpp
+ 1670  ./a.out
+ 1671  g++ lzb.cpp
+ 1672  ./a.out
+ 1673  g++ lzb.cpp
+ 1674  ./a.out
+ 1675  g++ lzb.cpp
+ 1676  ./a.out
+ 1677  g++ lzb.cpp
+ 1678  ./a.out
+ 1679  g++ lzb.cpp
+ 1680  ./a.out
+ 1681  g++ lzb.cpp
+ 1682  ./a.out
+ 1683  g++ lzb.cpp
+ 1684  ./a.out
+ 1685  g++ lzb.cpp
+ 1686  ./a.out
+ 1687  g++ lzb.cpp
+ 1688  ./a.out
+ 1689  g++ lzb.cpp
+ 1690  ./a.out
+ 1691  g++ lzb.cpp
+ 1692  ./a.out
+ 1693  g++ lzb.cpp
+ 1694  ./a.out
+ 1695  g++ lzb.cpp
+ 1696  ./a.out
+ 1697  g++ lzb.cpp
+ 1698  ./a.out
+ 1699  g++ lzb.cpp
+ 1700  ./a.out
+ 1701  g++ lzb.cpp
+ 1702  ./a.out
+ 1703  g++ lzb.cpp
+ 1704  ./a.out
+ 1705  g++ lzb.cpp
+ 1706  ./a.out
+ 1707  g++ lzb.cpp
+ 1708  ./a.out
+ 1709  cd Documents/dsaoj/ass1
+ 1710  g++ lzb.cpp
+ 1711  ./a.out
+ 1712  shutdown now
+ 1713  g++ mxd.cpp
+ 1714  ./a.out
+ 1715  g++ pzz.cpp
+ 1716  ./a.out
+ 1717  g++ pzz.cpp
+ 1718  ./a.out
+ 1719  g++ pzz.cpp
+ 1720  ./a.out
+ 1721  g++ pzz.cpp
+ 1722  ./a.out
+ 1723  shutdown
+ 1724  shutdown now
+ 1725  g++ 893c.cpp
+ 1726  ./a.out
+ 1727  g++ 893c.cpp
+ 1728  ./a.out
+ 1729  g++ 893c.cpp
+ 1730  ./a.out
+ 1731  g++ 893c.cpp
+ 1732  ./a.out
+ 1733  g++ 893c.cpp
+ 1734  ./a.out
+ 1735  g++ 580c.cpp
+ 1736  ./a.out
+ 1737  g++ 580c.cpp
+ 1738  ./a.out
+ 1739  g++ 580c.cpp
+ 1740  ./a.out
+ 1741  g++ 580c.cpp
+ 1742  ./a.out
+ 1743  g++ 580c.cpp
+ 1744  ./a.out
+ 1745  g++ 580c.cpp
+ 1746  ./a.out
+ 1747  ssh harshit.s@web.iiit.ac.in
+ 1748  cd Documents/HTML
+ 1749  vim first.html
+ 1750  cd Documents/HTML
+ 1751  vim first.html
+ 1752  g++ rdb.cpp
+ 1753  ./a.out
+ 1754  g++ rdb.cpp
+ 1755  ./a.out
+ 1756  g++ rdb.cpp
+ 1757  ./a.out
+ 1758  g++ rdb.cpp
+ 1759  ./a.out
+ 1760  g++ rdb.cpp
+ 1761  ./a.out
+ 1762  g++ rdb.cpp
+ 1763  ./a.out
+ 1764  g++ pzz.cpp
+ 1765  ./a.out
+ 1766  g++ pzz.cpp
+ 1767  ./a.out
+ 1768  g++ pzz.cpp
+ 1769  ./a.out
+ 1770  g++ pzz.cpp
+ 1771  ./a.out
+ 1772  g++ pzz.cpp
+ 1773  ./a.out
+ 1774  g++ pzz.cpp
+ 1775  ./a.out
+ 1776  g++ pzz.cpp
+ 1777  ./a.out
+ 1778  g++ pzz.cpp
+ 1779  ./a.out
+ 1780  g++ pzz.cpp
+ 1781  ./a.out
+ 1782  g++ pzz.cpp
+ 1783  ./a.out
+ 1784  g++ pzz.cpp
+ 1785  ./a.out
+ 1786  g++ pzz.cpp
+ 1787  ./a.out
+ 1788  g++ pzz.cpp
+ 1789  ./a.out
+ 1790  g++ pzz.cpp
+ 1791  ./a.out
+ 1792  g++ pzz.cpp
+ 1793  ./a.out
+ 1794  shutdown now
+ 1795  ssh harshit.s@web.iiit.ac.in
+ 1796  ssh aaditya.sharma@research.iiit.ac.in
+ 1797  ssh harshit.s@web.iiit.ac.in
+ 1798  scp -r ~/Documents/2019101083 harshit.s@web.iiit.ac.in:~/
+ 1799  ssh harshit.s@web.iiit.ac.in
+ 1800  vim /etc/ssh/sshd_config
+ 1801  cat /etc/ssh/sshd_config | grep Client
+ 1802  ssh -V
+ 1803  sudo apt update ssh
+ 1804  sudo apt upgrade ssh
+ 1805  ssh harshit.s@web.iiit.ac.in
+ 1806  cat /etc/ssh/sshd_config | grep Client
+ 1807  vim /etc/ssh/sshd_config
+ 1808  ssh harshit.s@web.iiit.ac.in
+ 1809  ssh aaditya.sharma@researchweb.iiit.ac.in
+ 1810  ssh harshit.s@web.iiit.ac.in
+ 1811  g++ mxd1.cpp
+ 1812  ./a.out
+ 1813  pep --version
+ 1814  sudo apt install pep
+ 1815  exec bash
+ 1816  python3 --version
+ 1817  sudo apt install python3
+ 1818  python3 lab.py
+ 1819  python3
+ 1820  g++ rdb.cpp
+ 1821  ./a.out
+ 1822  cd "/home/harry30225/Documents/dsaoj/ass1/" && g++ rdb.cpp -o rdb && "/home/harry30225/Documents/dsaoj/ass1/"rdb
+ 1823  g++ rdb.cpp
+ 1824  ./a.out
+ 1825  g++ rdb.cpp
+ 1826  ./a.out
+ 1827  g++ rdb.cpp
+ 1828  ./a.out
+ 1829  ls
+ 1830  g++ rdb.cpp -Wall
+ 1831  g++ rdb.cpp
+ 1832  ./a.out
+ 1833  g++ rdb.cpp
+ 1834  ./a.out
+ 1835  g++ rdb.cpp
+ 1836  ./a.out
+ 1837  g++ rdb.cpp
+ 1838  ./a.out
+ 1839  g++ rdb.cpp
+ 1840  ./a.out
+ 1841  g++ kaf.cpp
+ 1842  ./a.out
+ 1843  g++ kaf.cpp
+ 1844  ./a.out
+ 1845  g++ kaf.cpp
+ 1846  ./a.out
+ 1847  g++ kaf.cpp
+ 1848  ./a.out
+ 1849  g++ kaf.cpp
+ 1850  ./a.out
+ 1851  g++ kaf.cpp
+ 1852  ./a.out
+ 1853  g++ kaf.cpp
+ 1854  ./a.out
+ 1855  g++ kaf.cpp
+ 1856  ./a.out
+ 1857  g++ kaf.cpp
+ 1858  ./a.out
+ 1859  g++ kaf.cpp
+ 1860  ./a.out
+ 1861  g++ kaf.cpp
+ 1862  ./a.out
+ 1863  g++ kaf.cpp
+ 1864  ./a.out
+ 1865  g++ kaf.cpp
+ 1866  ./a.out
+ 1867  g++ kaf.cpp
+ 1868  ./a.out
+ 1869  g++ kaf.cpp
+ 1870  ./a.out
+ 1871  cd "/home/harry30225/Documents/dsaoj/ass1/" && g++ kaf.cpp -o kaf && "/home/harry30225/Documents/dsaoj/ass1/"kaf
+ 1872  g++ kaf.cpp
+ 1873  ./a.out
+ 1874  g++ kaf.cpp
+ 1875  ./a.out
+ 1876  g++ kaf.cpp
+ 1877  ./a.out
+ 1878  g++ kaf.cpp
+ 1879  ./a.out
+ 1880  g++ kaf.cpp
+ 1881  ./a.out
+ 1882  g++ kaf.cpp
+ 1883  ./a.out
+ 1884  g++ kaf.cpp
+ 1885  ./a.out
+ 1886  g++ kaf.cpp
+ 1887  ./a.out
+ 1888  g++ kaf.cpp
+ 1889  ./a.out
+ 1890  g++ kaf.cpp
+ 1891  ./a.out
+ 1892  g++ kaf.cpp
+ 1893  ./a.out
+ 1894  cd "/home/harry30225/Documents/dsaoj/ass1/" && g++ kaf.cpp -o kaf && "/home/harry30225/Documents/dsaoj/ass1/"kaf
+ 1895  clear
+ 1896  history
+ 1897  clear
+ 1898  cd "/home/harry30225/Documents/dsaoj/ass1/" && g++ kaf.cpp -o kaf && "/home/harry30225/Documents/dsaoj/ass1/"kaf
+ 1899  g++ kaf.cpp
+ 1900  ./a.out
+ 1901  g++ kaf.cpp
+ 1902  ./a.out
+ 1903  g++ kaf.cpp
+ 1904  ./a.out
+ 1905  g++ kaf.cpp
+ 1906  ./a.out
+ 1907  g++ kaf.cpp
+ 1908  ./a.out
+ 1909  g++ kaf.cpp
+ 1910  ./a.out
+ 1911  g++ pzz1.cpp
+ 1912  ./a.out
+ 1913  g++ pzz1.cpp
+ 1914  ./a.out
+ 1915  g++ pzz1.cpp
+ 1916  ./a.out
+ 1917  1 3 1
+ 1918  1 2 10
+ 1919  2 8 15
+ 1920  3 4 2
+ 1921  3 5 3
+ 1922  5 6 4
+ 1923  5 7 5
+ 1924  7 9 6
+ 1925  7 10 7
+ 1926  ./a.out
+ 1927  g++ pzz1.cpp
+ 1928  ./a.out
+ 1929  g++ pzz1.cpp
+ 1930  ./a.out
+ 1931  g++ pzz1.cpp
+ 1932  ./a.out
+ 1933  g++ pzz1.cpp
+ 1934  ./a.out
+ 1935  cd Downloads
+ 1936  ls -a
+ 1937  mv test.txt ~/Documents/dsaoj/ass1
+ 1938  ls
+ 1939  ./a.out <test.txt
+ 1940  g++ pzz1.cpp
+ 1941  ./a.out <test.txt
+ 1942  ./a.out
+ 1943  g++ pzz1.cpp
+ 1944  ./a.out <test.txt
+ 1945  g++ pzz1.cpp
+ 1946  ./a.out
+ 1947  g++ pzz1.cpp
+ 1948  ./a.out
+ 1949  g++ pzz1.cpp
+ 1950  ./a.out
+ 1951  g++ pzz1.cpp
+ 1952  ./a.out
+ 1953  2 8 15
+ 1954  3 4 2
+ 1955  3 5 3
+ 1956  5 6 4
+ 1957  5 7 5
+ 1958  7 9 6
+ 1959  7 10 7
+ 1960  g++ pzz1.cpp
+ 1961  ./a.out
+ 1962  2 8 15
+ 1963  3 4 2
+ 1964  3 5 3
+ 1965  5 6 4
+ 1966  5 7 5
+ 1967  7 9 6
+ 1968  7 10 7
+ 1969  ./a.out
+ 1970  7 10 7
+ 1971  g++ pzz1.cpp
+ 1972  ./a.out
+ 1973  g++ pzz1.cpp
+ 1974  ./a.out
+ 1975  python3
+ 1976  python
+ 1977  sudo apt install pygame
+ 1978  exec bash
+ 1979  python3 firstgame.py
+ 1980  exec bash
+ 1981  python3 firstgame.py 
+ 1982  sudo apt install python3-pip
+ 1983  pip install Flask
+ 1984  pip install --upgrade pip
+ 1985  pip install flask
+ 1986  pip install Flask
+ 1987  sudo pip install Flask
+ 1988  sudo apt install pyhton3-pip
+ 1989  pip install Flask
+ 1990  sudo  install Flask
+ 1991  sudo pip install Flask'
+ 1992  sudo pip install Flask
+ 1993  sudo apt install python-pip
+ 1994  pip3 install Flask
+ 1995  pip --version
+ 1996  pip3 --version
+ 1997  pip3 install Flask-SQLAlchemy
+ 1998  python --version
+ 1999  python3 --version
+ 2000  pip3 --version
+ 2001  pip --version
+ 2002  sudo apt install python3-pip
+ 2003  pip --version
+ 2004  pip3 --version
+ 2005  cd Documents/pyhton
+ 2006  cd Documents/python
+ 2007  mkdir Flask
+ 2008  cd Flask
+ 2009  python3 app.py
+ 2010  cd Documents/python
+ 2011  cd Flask
+ 2012  python3 app.py
+ 2013  if config harry
+ 2014  man config
+ 2015  ifconfig
+ 2016  ifconfig harry
+ 2017  man ifconfig
+ 2018  python3 app.py
+ 2019  sudo apt install pip3
+ 2020  sudo apt install python3-pip
+ 2021  python3
+ 2022  ls
+ 2023  python3
+ 2024  ls
+ 2025  python3
+ 2026  ls
+ 2027  python3 app.py
+ 2028  python3 --version
+ 2029  sudo apt install python3-pip
+ 2030  pip freeze
+ 2031  pip3 freeze
+ 2032  cd Documents/python game
+ 2033  cd Documents/pythongame
+ 2034  cd Documents
+ 2035  ls
+ 2036  cd python game
+ 2037  cd 'python game'
+ 2038  git init
+ 2039  git status
+ 2040  git add .
+ 2041  git commit -m "Hi This is My First Game"
+ 2042  git remote add gitlab https://gitlab.com/Harshit2000/the-death-river 
+ 2043  git push gitlab master
+ 2044  history
+ 2045  cd Documents/'python game'
+ 2046  python3 game.py
+ 2047  g++ dijkstra.cpp
+ 2048  ./a.out
+ 2049  g++ dijkstra.cpp
+ 2050  ./a.out
+ 2051  g++ dijkstra.cpp
+ 2052  ./a.out
+ 2053  g++ bellmanford.cpp
+ 2054  ./a.out
+ 2055  g++ bellmanford.cpp
+ 2056  ./a.out
+ 2057  g++ bellmanford.cpp
+ 2058  ./a.out
+ 2059  sudo apt install virtualenv
+ 2060  python3 --version
+ 2061  sudo apt install python3
+ 2062  pip3 --version
+ 2063  pip3 install virtualenv
+ 2064  pip3 install --upgrade pip3
+ 2065  virtualenv env
+ 2066  source env/bin/activate
+ 2067  pip3 install flask flask-sqlalchemy
+ 2068  python3 app.py
+ 2069  python
+ 2070  code ~/.zshrc
+ 2071  source ~/.zshrc
+ 2072  clear
+ 2073  python
+ 2074  clear
+ 2075  virtualenv
+ 2076  virtualenv env
+ 2077  pip3 install flask_wtf
+ 2078  pip3 install facker
+ 2079  sudo pip3 install facker
+ 2080  pip3 install faker
+ 2081  pip3 install MySQL
+ 2082  python
+ 2083  pip3 install flask_sqlalchemy
+ 2084  pip3 install gunicorn
+ 2085  sudo apt install nodejs
+ 2086  sudo apt install npm
+ 2087  python3 app.py
+ 2088  sudo apt install MySQL
+ 2089  sudo apt install mysql-workbench
+ 2090  sudo apt install mysql-server mysql-client
+ 2091  pip install pymysql
+ 2092  npm install bootstrap
+ 2093  sudo apt install nodejs
+ 2094  npm install jquery
+ 2095  source env/bin/activate
+ 2096  python
+ 2097  pyhton
+ 2098  python
+ 2099  exit env
+ 2100  source "/home/harry30225/Documents/new project/env/bin/activate"
+ 2101  python3 app.py
+ 2102  exit
+ 2103  source "/home/harry30225/Documents/new project/env/bin/activate"
+ 2104  deactivate
+ 2105  python3 app.py
+ 2106  ls
+ 2107  sqlite3 test.cb
+ 2108  sqlite3 test.db
+ 2109  sudo apt install sqlite3
+ 2110  sqlite3 test.db
+ 2111  python3 app.py
+ 2112  python3
+ 2113  python3 app.py
+ 2114  cd Documents
+ 2115  touch mysql.txt
+ 2116  vim mysql.txt
+ 2117  cd Downloads/ls
+ 2118  cd Downloads/
+ 2119  LS
+ 2120  ls
+ 2121  unzip www.w3schools.com
+ 2122  unrar www.w3schools.com.rar
+ 2123  unzip www.w3schools.com.rar
+ 2124  winrar www.w3schools.com.rar
+ 2125  cd Downloads/vishvastuff
+ 2126  ls
+ 2127  git clone https://github.com/sbhatore95/ISS
+ 2128  cd Lab-exam
+ 2129  ls
+ 2130  cd Lab-exam
+ 2131  code .
+ 2132  python3 app.py
+ 2133  /usr/bin/python3
+ 2134  python
+ 2135  python3 app.py
+ 2136  python --version
+ 2137  python app.py
+ 2138  source "/home/harry30225/Documents/new project/env/bin/activate"
+ 2139  deactivate
+ 2140  python app.py
+ 2141  cd Lab-exam(1)
+ 2142  ls
+ 2143  cd 'Lab-exam (1)'
+ 2144  ls
+ 2145  cd Lab-exam
+ 2146  python3 app.py
+ 2147  vim app.py
+ 2148  python3 app.py
+ 2149  cd Lab-exam
+ 2150  python3 app.py
+ 2151  gdb ./a.out
+ 2152  cd Downloads/cso/Computer-System-Organisation-2020/Tutorial2
+ 2153  ls
+ 2154  gcc -m fibonacci.s -o fibonacci
+ 2155  man gcc
+ 2156  gcc -c fibonacci.s -o fibonacci
+ 2157  ls
+ 2158  gdb ./fibonacci
+ 2159  ls
+ 2160  ls -l
+ 2161  chmod +x ./fibonacci
+ 2162  ls
+ 2163  gdb ./fibonacci
+ 2164  cd Documents/'python game'
+ 2165  python3 app.py
+ 2166  ls
+ 2167  python3 game.py
+ 2168  vim game.py
+ 2169  python3 game.py
+ 2170  cd 2019101083_Lab2
+ 2171  ls
+ 2172  bash q_1.sh 1 2
+ 2173  bash q_3.sh 
+ 2174  bash q_4.sh 1 3 2
+ 2175  bash q_2.sh
+ 2176  cd 2019101083
+ 2177  python3 app.py
+ 2178  cd 2019101083
+ 2179  python3 app.py
+ 2180  cd 2019101083
+ 2181  python3 app.py
+ 2182  ssh harshit.s@web.iiit.ac.in
+ 2183  cd Documents/'python game'
+ 2184  git remote add github https://github.com/harry30225/The-Death-River
+ 2185  git status
+ 2186  git add .
+ 2187  git commit -m "Hi This is My First Game"
+ 2188  git status
+ 2189  git log
+ 2190  git remote
+ 2191  git checkout github
+ 2192  git remote github
+ 2193  git remote
+ 2194  git branch
+ 2195  git remote -v
+ 2196  git remote rm gitlab
+ 2197  git remote
+ 2198  git add .
+ 2199  git staus
+ 2200  git status
+ 2201  cd ..
+ 2202  cd firstgame
+ 2203  ls
+ 2204  git init
+ 2205  git remote add github https://github.com/harry30225/The-Death-River
+ 2206  git add .
+ 2207  git status
+ 2208  git commit -m "Hi This is My First Game"
+ 2209  git push github master
+ 2210  ssh harshit.s@web.iiit.ac.in
+ 2211  cd Downloads/cso/2019101083_assign1/Q2
+ 2212  ls
+ 2213  vim Q2.s
+ 2214  gcc -g nostdlib Q2.s
+ 2215  gcc -g -nostdlib Q2.s
+ 2216  vim Q2.s
+ 2217  ls
+ 2218  gcc -g -nostdlib Q2.s
+ 2219  vim Q2.s
+ 2220  gcc -g -nostdlib Q2.s
+ 2221  gdb a.out
+ 2222  vim Q2.s
+ 2223  gcc -g -nostdlib Q2.s
+ 2224  ./a.out
+ 2225  gdb a.out
+ 2226  vim Q2.s
+ 2227  gcc -g -nostdlib Q2.s
+ 2228  gdb a.out
+ 2229  vim Q2.s
+ 2230  gdb a.out
+ 2231  vim Q2.s
+ 2232  gcc -g -nostdlib Q2.s
+ 2233  gdb a.out
+ 2234  vim Q2.s
+ 2235  gcc -g -nostdlib Q2.s
+ 2236  gdb a.out
+ 2237  vim Q2.s
+ 2238  gcc -g -nostdlib Q2.s
+ 2239  gdb a.out
+ 2240  vim Q2.s
+ 2241  gcc -g -nostdlib Q2.s
+ 2242  gdb a.out
+ 2243  cd ..
+ 2244  cd Q3
+ 2245  vim Q3.s
+ 2246  gcc -g -nostdlib Q3.s
+ 2247  gdb a.out
+ 2248  vim Q3.s
+ 2249  gcc -g -nostdlib Q3.s
+ 2250  gdb a.out
+ 2251  vim Q3.s
+ 2252  gcc -g -nostdlib Q3.s
+ 2253  gdb a.out
+ 2254  cd Downloads/cso/2019101083_assignn1
+ 2255  ls
+ 2256  cd ..
+ 2257  vim ~/.zshrc
+ 2258  source ~/.zshrc
+ 2259  cd Downloads/cso/2019101083_assign1
+ 2260  vim ~/.zshrc
+ 2261  source ~/.zshrc
+ 2262  cd Downloads/cso/2019101083_assignn1
+ 2263  cd ../../..
+ 2264  ls -l
+ 2265  tree
+ 2266  tree 1 | grep 'har' | cut -d "_" -f 2
+ 2267  tree
+ 2268  tree /
+ 2269  cd Downloads
+ 2270  cd 2019101083_assign1
+ 2271  ls
+ 2272  cd Q1
+ 2273  xdg-open Q1.pdf
+ 2274  cd ..
+ 2275  cd Q2
+ 2276  vim Q2.s
+ 2277  gcc -g -nostdlib Q2.s
+ 2278  gdb a.out
+ 2279  vim Q2.s
+ 2280  gcc -g -nostdlib Q2.s
+ 2281  gdb a.out
+ 2282  vim Q2.s
+ 2283  gcc -g -nostdlib Q2.s
+ 2284  gdb a.out
+ 2285  vim Q2.s
+ 2286  gcc -g -nostdlib Q2.s
+ 2287  gdb a.out
+ 2288  cd ..
+ 2289  cd Q3
+ 2290  vim Q3.s
+ 2291  gcc -g -nostdlib Q3.s
+ 2292  gdb a.out
+ 2293  vim Q3.s
+ 2294  gdb a.out
+ 2295  vim Q3.s
+ 2296  gcc -g -nostdlib Q3.s
+ 2297  gdb a.out
+ 2298  vim Q3.s
+ 2299  gcc -g -nostdlib Q3.s
+ 2300  gdb a.out
+ 2301  vim Q3.s
+ 2302  python3 app.py
+ 2303  cd 2019101083
+ 2304  python3 app.py
+ 2305  cd Downloads/cso/2019101083_assign2
+ 2306  ls
+ 2307  vim Q1.s
+ 2308  gcc -g -nostdlib Q1.s
+ 2309  gdb a.out
+ 2310  vim Q1.s
+ 2311  gdb a.out
+ 2312  vim Q1.s
+ 2313  gcc -g -nostdlib Q1.s
+ 2314  gdb a.out
+ 2315  vim Q1.s
+ 2316  gcc -g -nostdlib Q1.s
+ 2317  gdb a.out
+ 2318  vim Q1.s
+ 2319  gcc -g -nostdlib Q1.s
+ 2320  gdb a.out
+ 2321  vim Q1.s
+ 2322  gcc -g -nostdlib Q1.s
+ 2323  gdb a.out
+ 2324  vim Q1.s
+ 2325  gcc -g -nostdlib Q1.s
+ 2326  gdb a.out
+ 2327  vim Q1.s
+ 2328  gcc -g -nostdlib Q1.s
+ 2329  gdb a.out
+ 2330  vim Q1.s
+ 2331  gcc -g -nostdlib Q1.s
+ 2332  gdb a.out
+ 2333  vim Q1.s
+ 2334  gcc -g -nostdlib Q1.s
+ 2335  gdb a.out
+ 2336  vim Q1.s
+ 2337  gcc -g -nostdlib Q1.s
+ 2338  gdb a.out
+ 2339  vim Q1.s
+ 2340  vim Q2.s
+ 2341  shutdown now
+ 2342  cd Downloads/cso/2019101083_assign2
+ 2343  vim Q2.s
+ 2344  gcc -g -nostdlib Q2.s
+ 2345  vim Q2.s
+ 2346  gcc -g -nostdlib Q2.s
+ 2347  gcb a.out
+ 2348  vim Q2.s
+ 2349  gdb a.out
+ 2350  vim Q2.s
+ 2351  gcc -g -nostdlib Q2.s
+ 2352  gdb a.out
+ 2353  vim Q2.s
+ 2354  gcc -g -nostdlib Q2.s
+ 2355  vim Q2.s
+ 2356  gdb a.out
+ 2357  vim Q2.s
+ 2358  gdb a.out
+ 2359  gcc -g -nostdlib Q2.s
+ 2360  gdb a.out
+ 2361  vim Q2.s
+ 2362  gcc -g -nostdlib Q2.s
+ 2363  gdb a.out
+ 2364  vim Q2.s
+ 2365  gcc -g -nostdlib Q2.s
+ 2366  gdb a.out
+ 2367  vim Q2.s
+ 2368  gcc -g -nostdlib Q2.s
+ 2369  gdb a.out
+ 2370  vim Q2.s
+ 2371  gcc -g -nostdlib Q2.s
+ 2372  gdb a.out
+ 2373  vim Q2.s
+ 2374  gcc -g -nostdlib Q2.s
+ 2375  gdb a.out
+ 2376  vim Q2.s
+ 2377  gcc -g -nostdlib Q2.s
+ 2378  vim Q2.s
+ 2379  gcc -g -nostdlib Q2.s
+ 2380  gdb a.out
+ 2381  vim Q2.s
+ 2382  gdb a.out
+ 2383  vim Q2.s
+ 2384  gdb a.out
+ 2385  vim Q2.s
+ 2386  gcc -g -nostdlib Q2.s
+ 2387  vim Q2.s
+ 2388  gcc -g -nostdlib Q2.s
+ 2389  gdb a.out
+ 2390  vim Q2.s
+ 2391  gcc -g -nostdlib Q2.s
+ 2392  gdb a.out
+ 2393  vim Q2.s
+ 2394  gdb a.out
+ 2395  vim Q2.s
+ 2396  gcc -g -nostdlib Q2.s
+ 2397  gdb a.out
+ 2398  vim Q2.s
+ 2399  gdb a.out
+ 2400  vim Q2.s
+ 2401  gcc -g -nostdlib Q2.s
+ 2402  gdb a.out
+ 2403  vim Q2.s
+ 2404  gcc -g -nostdlib Q2.s
+ 2405  gdb a.out
+ 2406  shutdown now
+ 2407  ssh harshit.s@web.iiit.ac.in
+ 2408  nmcli con
+ 2409  nmcli con up linux
+ 2410  nmcli con down linux
+ 2411  vim ~/.zshrc
+ 2412  source ~/.zshrc
+ 2413  vim ~/.zshrc
+ 2414  source ~/.zshrc
+ 2415  vpnon
+ 2416  vpnoff
+ 2417  vim ~/.zshrc
+ 2418  vpnoff
+ 2419  vim ~/.zshrc
+ 2420  source ~/.zshrc
+ 2421  vpnoff
+ 2422  vpnon
+ 2423  vpnoff
+ 2424  cd Downloads/cso/2019101083_assign2
+ 2425  cd ..
+ 2426  ls
+ 2427  cd ..
+ 2428  cd Downloads/cso/2019101083_assign2
+ 2429  ls
+ 2430  vim Q3.s
+ 2431  vim Q2.s
+ 2432  ls
+ 2433  xdg-open Q4.pdf
+ 2434  vim Q4.s
+ 2435  gcc -g -nostdlib Q4.s
+ 2436  vim Q4.s
+ 2437  gcc -g -nostdlib Q4.s
+ 2438  vim Q4.s
+ 2439  gcc -g -c Q4.s && ld Q4.o
+ 2440  ./a.out
+ 2441  ls
+ 2442  rm Q4.o
+ 2443  ls
+ 2444  ./a.out
+ 2445  ls
+ 2446  rm Q4.pdf
+ 2447  mv Q41.pdf Q4.pdf
+ 2448  ls
+ 2449  rm a.out
+ 2450  ls
+ 2451  xdg-open Q4.pdf
+ 2452  python3 game.py
+ 2453  python3 first.py
+ 2454  shutdown now
+ 2455  python3
+ 2456  shutdown now
+ 2457  vpnon
+ 2458  cd "/home/harry30225/Documents/dsaoj/ass3/" && g++ chv.cpp -o chv && "/home/harry30225/Documents/dsaoj/ass3/"chv
+ 2459  g++ chv.cpp
+ 2460  ./a.out
+ 2461  g++ chv.cpp
+ 2462  ./a.out
+ 2463  g++ chv.cpp
+ 2464  ./a.out
+ 2465  g++ chv.cpp
+ 2466  ./a.out
+ 2467  g++ chv.cpp
+ 2468  ./a.out
+ 2469  g++ chv.cpp
+ 2470  ./a.out
+ 2471  g++ chv.cpp
+ 2472  ./a.out
+ 2473  g++ chv.cpp
+ 2474  ./a.out
+ 2475  g++ chv.cpp
+ 2476  ./a.out
+ 2477  g++ chv.cpp
+ 2478  ./a.out
+ 2479  g++ chv.cpp
+ 2480  ./a.out
+ 2481  g++ chv.cpp
+ 2482  ./a.out
+ 2483  g++ chv.cpp -Wall
+ 2484  ./a.out
+ 2485  g++ chv.cpp -Wall
+ 2486  ./a.out
+ 2487  g++ skh.cpp
+ 2488  ./a.out
+ 2489  g++ skh.cpp
+ 2490  ./a.out
+ 2491  g++ skh.cpp
+ 2492  ./a.out
+ 2493  g++ skh.cpp
+ 2494  ./a.out
+ 2495  g++ skh.cpp
+ 2496  g++ skh1.cpp
+ 2497  ./a.out
+ 2498  g++ skh1.cpp
+ 2499  ./a.out
+ 2500  g++ skh.cpp
+ 2501  ./a.out
+ 2502  g++ skh.cpp
+ 2503  ./a.out
+ 2504  g++ skh.cpp
+ 2505  ./a.out
+ 2506  g++ skh.cpp
+ 2507  ./a.out
+ 2508  g++ skh.cpp
+ 2509  ./a.out
+ 2510  vpnoff
+ 2511  shutdown now
+ 2512  vpnon
+ 2513  g++ clv.cpp
+ 2514  ./a.out
+ 2515  g++ clv.cpp
+ 2516  ./a.out
+ 2517  g++ clv.cpp
+ 2518  ./a.out
+ 2519  g++ clv.cpp
+ 2520  ./a.out
+ 2521  g++ clv.cpp
+ 2522  ./a.out
+ 2523  g++ clv.cpp
+ 2524  ./a.out
+ 2525  g++ clv.cpp
+ 2526  ./a.out
+ 2527  g++ clv.cpp
+ 2528  ./a.out
+ 2529  sudo apt install gdb
+ 2530  g++ -g clv.cpp
+ 2531  ./a.out
+ 2532  gdb a.out
+ 2533  g++ clv.cpp
+ 2534  ./a.out
+ 2535  g++ clv.cpp
+ 2536  ./a.out
+ 2537  g++ clv.cpp
+ 2538  ./a.out
+ 2539  g++ clv.cpp
+ 2540  ./a.out
+ 2541  g++ clv.cpp
+ 2542  ./a.out
+ 2543  g++ clv.cpp
+ 2544  ./a.out
+ 2545  g++ clv.cpp
+ 2546  ./a.out
+ 2547  g++ clv.cpp
+ 2548  ./a.out
+ 2549  g++ clv.cpp
+ 2550  ./a.out
+ 2551  g++ clv.cpp
+ 2552  ./a.out
+ 2553  cd Documents/dsaoj/ass3
+ 2554  ls
+ 2555  g++ clv.cpp
+ 2556  ./a.out
+ 2557  g++ clv.cpp
+ 2558  ./a.out
+ 2559  g++ clv.cpp
+ 2560  ./a.out
+ 2561  exit
+ 2562  g++ clv.cpp
+ 2563  ./a.out
+ 2564  g++ clv.cpp
+ 2565  ./a.out
+ 2566  g++ clv.cpp
+ 2567  ./a.out
+ 2568  g++ clv.cpp
+ 2569  ./a.out
+ 2570  g++ clv.cpp
+ 2571  ./a.out
+ 2572  g++ clv.cpp
+ 2573  ./a.out
+ 2574  g++ clv.cpp
+ 2575  ./a.out
+ 2576  g++ clv.cpp
+ 2577  ./a.out
+ 2578  g++ clv.cpp
+ 2579  ./a.out
+ 2580  g++ clv.cpp
+ 2581  ./a.out
+ 2582  g++ clv.cpp
+ 2583  ./a.out
+ 2584  g++ clv.cpp
+ 2585  ./a.out
+ 2586  g++ clv.cpp
+ 2587  ./a.out
+ 2588  g++ clv.cpp
+ 2589  ./a.out
+ 2590  g++ clv.cpp
+ 2591  ./a.out
+ 2592  exit
+ 2593  g++ clv.cpp
+ 2594  ./a.out
+ 2595  g++ clv.cpp
+ 2596  ./a.out
+ 2597  g++ clv.cpp
+ 2598  ./a.out
+ 2599  g++ clv.cpp
+ 2600  ./a.out
+ 2601  g++ clv.cpp
+ 2602  ./a.out
+ 2603  vpnoff
+ 2604  g++ clv.cpp
+ 2605  vpnoff
+ 2606  ./a.out
+ 2607  vpnoff
+ 2608  g++ clv.cpp
+ 2609  ./a.out
+ 2610  gdb a.out
+ 2611  exit
+ 2612  cd Documents/dsaoj/ass3
+ 2613  g++ clv.cpp
+ 2614  ./a.out
+ 2615  vpnon
+ 2616  cd Documents/dsaoj/ass3
+ 2617  g++ plt.cpp
+ 2618  ./a.out
+ 2619  g++ plt.cpp
+ 2620  ./a.out
+ 2621  g++ plt.cpp
+ 2622  ./a.out
+ 2623  g++ plt.cpp
+ 2624  ./a.out
+ 2625  g++ plt.cpp
+ 2626  ./a.out
+ 2627  g++ plt.cpp
+ 2628  ./a.out
+ 2629  g++ plt.cpp
+ 2630  ./a.out
+ 2631  sudo apt install cython3
+ 2632  cython3 -v
+ 2633  cython3 --version
+ 2634  cython3
+ 2635  python3
+ 2636  cd Documents
+ 2637  mkdir learningcython
+ 2638  cd learningcython
+ 2639  ls
+ 2640  vim helloworld.pyx
+ 2641  vim setup.py
+ 2642  python3
+ 2643  vim hi.py
+ 2644  python hi.py
+ 2645  python setup.py build_ext --inplace
+ 2646  ls
+ 2647  python
+ 2648  cd build
+ 2649  ls
+ 2650  cd temp.linux-x86_64-3.7
+ 2651  ls
+ 2652  cd ..
+ 2653  cd ../..
+ 2654  python
+ 2655  cd Documents/learningcython
+ 2656  ls
+ 2657  cd
+ 2658  cd Documents/learningcython
+ 2659  python
+ 2660  rm hi.py
+ 2661  vim setup.py
+ 2662  clear
+ 2663  pip install cython
+ 2664  pip install cython3
+ 2665  sudo pip3 install cython3
+ 2666  cd ..
+ 2667  mkdir cythontut
+ 2668  cd cythontut
+ 2669  code .
+ 2670  mv example_py.py example_cy.pyx
+ 2671  python setup.py build_ext --inplace
+ 2672  python
+ 2673  python setup.py build_ext --inplace
+ 2674  python
+ 2675  python testing.py
+ 2676  ip addr list
+ 2677  netstat -np
+ 2678  netstat -nlp
+ 2679  man netstat
+ 2680  netstat -l
+ 2681  man netstat
+ 2682  ip addr list
+ 2683  ip addr
+ 2684  ip addr list
+ 2685  ip
+ 2686  man ip
+ 2687  ip route list
+ 2688  ip route
+ 2689  traceroute google.com
+ 2690  exec bash
+ 2691  sudo apt install traceroute
+ 2692  sudo apt install inetutils-traceroute
+ 2693  traceroute google.com
+ 2694  traceroute github.com
+ 2695  traceroute wikipedia.com
+ 2696  traceroute https://web.iiit.ac.in/\~harshit.s/index.html
+ 2697  traceroute web.iiit.ac.in
+ 2698  host -a www.google.com
+ 2699  host -a www.github.com
+ 2700  host -a www.facebook.com
+ 2701  sudo snap install telegram
+ 2702  sudo snap install telegram web
+ 2703  sudo snap install telegram-desktop
+ 2704  sudo apt install vlc
+ 2705  vim hi.txt
+ 2706  shutdown now
+ 2707  sudo apt install gimp
+ 2708  gimp https://static1.squarespace.com/static/54e8ba93e4b07c3f655b452e/t/56c2a04520c64707756f4267/1493764650017/
+ 2709  shutdown now
+ 2710  g++ plt.cpp
+ 2711  ./a.out
+ 2712  vpnon
+ 2713  ./a.out
+ 2714  g++ plt.cpp
+ 2715  ./a.out
+ 2716  vpnon
+ 2717  g++ plt.cpp
+ 2718  vpnon
+ 2719  vpnoff
+ 2720  ./a.out
+ 2721  vpnon
+ 2722  vpnoff
+ 2723  g++ plt.cpp
+ 2724  ./a.out
+ 2725  vpnon
+ 2726  vpnoff
+ 2727  vpnon
+ 2728  shutdown now
+ 2729  vpnon
+ 2730  vpnoff
+ 2731  exit
+ 2732  g++ prm.cpp
+ 2733  ./a.out
+ 2734  g++ prm.cpp
+ 2735  ./a.out
+ 2736  g++ prm.cpp
+ 2737  exit
+ 2738  cd Documents/dsaoj/ass3
+ 2739  g++ prm.cpp
+ 2740  ./a.out
+ 2741  g++ prm.cpp
+ 2742  ./a.out
+ 2743  g++ prm.cpp
+ 2744  ./a.out
+ 2745  g++ prm.cpp
+ 2746  ./a.out
+ 2747  g++ prm.cpp
+ 2748  ./a.out
+ 2749  cd Documents/dsaoj/ass3
+ 2750  g++ prm.cpp
+ 2751  ./a.out
+ 2752  g++ prm.cpp
+ 2753  ./a.out
+ 2754  g++ prm.cpp
+ 2755  ./a.out
+ 2756  g++ prm.cpp
+ 2757  ./a.out
+ 2758  vpnon
+ 2759  g++ prm.cpp
+ 2760  ./a.out
+ 2761  g++ prm.cpp
+ 2762  ./a.out
+ 2763  vpnoff
+ 2764  cd ../..
+ 2765  cd ..
+ 2766  cd Downloads
+ 2767  vim prm.cpp
+ 2768  g++ prm.cpp
+ 2769  ./a.out
+ 2770  vim prm.cpp
+ 2771  cd Downloads
+ 2772  vim prm.cpp
+ 2773  code prm.cpp
+ 2774  g++ prm.cpp
+ 2775  ./a.out
+ 2776  exit
+ 2777  g++ prm.cpp
+ 2778  ./a.out
+ 2779  exit
+ 2780  shutdown now
+ 2781  cd Downloads
+ 2782  g++ prm2.cpp
+ 2783  ./a.out
+ 2784  g++ prm2.cpp
+ 2785  ./a.out
+ 2786  g++ prm2.cpp
+ 2787  ./a.out
+ 2788  g++ prm2.cpp
+ 2789  ./a.out
+ 2790  shutdown now
+ 2791  g++ mag.cpp
+ 2792  ./a.out
+ 2793  g++ mag.cpp
+ 2794  ./a.out
+ 2795  shutdown now
+ 2796  cat '*'
+ 2797  cat *.*
+ 2798  shutdown now
+ 2799  sudo apt-add-repository ppa:aims/sagemath
+ 2800  sudo apt-get update
+ 2801  sudo apt-get install sagemath-upstream-binary
+ 2802  sudo apt-get install sagemath
+ 2803  sudo apt-get update -y
+ 2804  sudo apt-get install -y sagemath
+ 2805  sudo apt-get update -y
+ 2806  sudo apt-get install -y sagemath
+ 2807  sudo apt-add-repository -y ppa:aims/sagemath
+ 2808  sudo aptitude update
+ 2809  pip install SymPy
+ 2810  shutdown now
+ 2811  python quiz.py
+ 2812  npm install bootstrap
+ 2813  npm install jquery
+ 2814  sudo apt install node js
+ 2815  sudo apt install npm
+ 2816  npm install css3
+ 2817  node --version
+ 2818  sudo apt install node
+ 2819  sudo apt install nodejs
+ 2820  node
+ 2821  cd Documents
+ 2822  mkdir bs4 && cd bs4
+ 2823  npm init
+ 2824  npm init -y
+ 2825  npm i gulp browser-sync-sass --save-dev
+ 2826  npm i bootstrap jquery popper.js --save
+ 2827  npm i gulp browser-sync-sass --save-dev
+ 2828  ls
+ 2829  npm install sass -g
+ 2830  npm i gulp browser-sync-sass --save-dev
+ 2831  code .
+ 2832  npm install gulp
+ 2833  ls
+ 2834  python quiz.py
+ 2835  shutdown now
+ 2836  cd Documents/quizportal
+ 2837  code .
+ 2838  cd
+ 2839  cd Documents/quizportal
+ 2840  ls
+ 2841  cd static
+ 2842  ls
+ 2843  mkdir img
+ 2844  ls
+ 2845  cd ..
+ 2846  cd ../..
+ 2847  gimp ~/Documents/quizportal/static/img/bvb.png
+ 2848  exit
+ 2849  gimp ~/Documents/quizportal/static/img/main2.jpeg
+ 2850  cd Documents/FInal\ Lab\ Exam
+ 2851  ls
+ 2852  cd 2019101083
+ 2853  ls
+ 2854  code .
+ 2855  python app.py
+ 2856  cd Documents/
+ 2857  mkdir reactjs
+ 2858  cd reactjs
+ 2859  code .
+ 2860  xdg-open index.html
+ 2861  npx create-react-app hello-world
+ 2862  cd hello-world
+ 2863  npm start
+ 2864  cd ..
+ 2865  shutdown now
+ 2866  sudo apt install pip3
+ 2867  sudo apt install python-pip3
+ 2868  python install pip3
+ 2869  python
+ 2870  sudo apt install tor
+ 2871  tor
+ 2872  shutdown now
+ 2873  espeak harry
+ 2874  sudo apt installl espeak
+ 2875  sudo apt install espeak
+ 2876  espeak harry
+ 2877  espeak harryyyyyy
+ 2878  espeak harryyyy
+ 2879  espeak harryy
+ 2880  espeak harry
+ 2881  espeak shreyash ki maa ki chudd
+ 2882  espeak "shreyash ki maa ki chudd"
+ 2883  shutdown now
+ 2884  g++ abn.cpp
+ 2885  ./a.out
+ 2886  shutdown now
+ 2887  g++ abn.cpp
+ 2888  ./a.out
+ 2889  g++ abn.cpp
+ 2890  ./a.out
+ 2891  g++ abn.cpp
+ 2892  ./a.out
+ 2893  exit
+ 2894  g++ pwl.cpp
+ 2895  ./a.out
+ 2896  g++ pwl.cpp
+ 2897  ./a.out
+ 2898  g++ pwl.cpp
+ 2899  ./a.out
+ 2900  g++ pwl.cpp
+ 2901  ./a.out
+ 2902  g++ pwl.cpp
+ 2903  ./a.out
+ 2904  g++ pwl.cpp
+ 2905  ./a.out
+ 2906  g++ pwl.cpp
+ 2907  ./a.out
+ 2908  g++ pwl.cpp
+ 2909  ./a.out
+ 2910  g++ pwl.cpp
+ 2911  ./a.out
+ 2912  g++ pwl.cpp
+ 2913  ./a.out
+ 2914  exit
+ 2915  g++ pwl.cpp
+ 2916  ./a.out
+ 2917  g++ pwl.cpp
+ 2918  ./a.out
+ 2919  g++ pwl.cpp
+ 2920  ./a.out
+ 2921  g++ pwl.cpp
+ 2922  ./a.out
+ 2923  g++ pwl.cpp
+ 2924  ./a.out
+ 2925  g++ pwl.cpp
+ 2926  ./a.out
+ 2927  g++ pwl.cpp
+ 2928  ./a.out
+ 2929  g++ pwl.cpp
+ 2930  ./a.out
+ 2931  g++ pwl.cpp
+ 2932  ./a.out
+ 2933  g++ pwl.cpp
+ 2934  ./a.out
+ 2935  g++ pwl.cpp
+ 2936  ./a.out
+ 2937  g++ pwl.cpp
+ 2938  ./a.out
+ 2939  g++ pwl.cpp
+ 2940  ./a.out
+ 2941  g++ pwl.cpp
+ 2942  ./a.out
+ 2943  g++ pwl.cpp
+ 2944  ./a.out
+ 2945  g++ pwl.cpp
+ 2946  ./a.out
+ 2947  g++ pwl.cpp
+ 2948  ./a.out
+ 2949  g++ pwl.cpp
+ 2950  ./a.out
+ 2951  g++ pwl.cpp
+ 2952  ./a.out
+ 2953  g++ pwl.cpp
+ 2954  ./a.out
+ 2955  g++ pwl.cpp
+ 2956  ./a.out
+ 2957  g++ pwl.cpp
+ 2958  ./a.out
+ 2959  g++ pwl.cpp
+ 2960  ./a.out
+ 2961  g++ pwl.cpp
+ 2962  ./a.out
+ 2963  g++ pwl.cpp
+ 2964  ./a.out
+ 2965  g++ pwl.cpp
+ 2966  ./a.out
+ 2967  g++ pwl.cpp
+ 2968  ./a.out
+ 2969  g++ pwl.cpp
+ 2970  ./a.out
+ 2971  g++ pwl.cpp
+ 2972  ./a.out
+ 2973  g++ pwl.cpp
+ 2974  ./a.out
+ 2975  g++ pwl.cpp
+ 2976  ./a.out
+ 2977  g++ pwl.cpp
+ 2978  ./a.out
+ 2979  g++ pwl.cpp
+ 2980  ./a.out
+ 2981  g++ pwl.cpp
+ 2982  ./a.out
+ 2983  g++ pwl.cpp
+ 2984  ./a.out
+ 2985  g++ pwl.cpp
+ 2986  ./a.out
+ 2987  g++ pwl.cpp
+ 2988  ./a.out
+ 2989  g++ ex.cpp
+ 2990  ./a.out
+ 2991  g++ pwl.cpp
+ 2992  ./a.out
+ 2993  g++ pwl.cpp
+ 2994  ./a.out
+ 2995  g++ pwl.cpp
+ 2996  ./a.out
+ 2997  exit
+ 2998  g++ pwl.cpp
+ 2999  ./a.out
+ 3000  exit
+ 3001  g++ PWL.cpp
+ 3002  ./a.out
+ 3003  g++ PWL.cpp
+ 3004  ./a.out
+ 3005  g++ PWL.cpp
+ 3006  ./a.out
+ 3007  exit
+ 3008  g++ PWL.cpp
+ 3009  ./a.out
+ 3010  g++ PWL.cpp
+ 3011  ./a.out
+ 3012  g++ PWL.cpp
+ 3013  ./a.out
+ 3014  g++ PWL.cpp
+ 3015  ./a.out
+ 3016  exit
+ 3017  g++ PWL.cpp
+ 3018  ./a.out
+ 3019  g++ PWL.cpp
+ 3020  ./a.out
+ 3021  g++ PWL.cpp
+ 3022  ./a.out
+ 3023  g++ PWL.cpp
+ 3024  ./a.out
+ 3025  g++ PWL.cpp
+ 3026  ./a.out
+ 3027  shutdown now
+ 3028  cd Downloads
+ 3029  mkdir iotfinal
+ 3030  mv Fog_Smart_Transportation_Deepak.pdf iotfinal
+ 3031  g++ exp.cpp
+ 3032  ./a.out
+ 3033  g++ wwv.cpp
+ 3034  ./a.out
+ 3035  g++ wwv.cpp
+ 3036  ./a.out
+ 3037  g++ wwv.cpp
+ 3038  ./a.out
+ 3039  g++ wwv.cpp
+ 3040  ./a.out
+ 3041  g++ wwv.cpp
+ 3042  ./a.out
+ 3043  g++ wwv.cpp
+ 3044  ./a.out
+ 3045  g++ wwv.cpp
+ 3046  ./a.out
+ 3047  g++ wwv.cpp
+ 3048  ./a.out
+ 3049  g++ wwv.cpp
+ 3050  ./a.out
+ 3051  g++ wwv.cpp
+ 3052  ./a.out
+ 3053  exit
+ 3054  g++ wwv.cpp
+ 3055  exit
+ 3056  g++ wwv.cpp
+ 3057  ./a.out
+ 3058  g++ wwv.cpp
+ 3059  ./a.out
+ 3060  g++ wwv.cpp
+ 3061  ./a.out
+ 3062  g++ wwv.cpp
+ 3063  ./a.out
+ 3064  g++ wwv.cpp
+ 3065  ./a.out
+ 3066  g++ wwv.cpp
+ 3067  ./a.out
+ 3068  g++ wwv.cpp
+ 3069  ./a.out
+ 3070  g++ wwv.cpp
+ 3071  ./a.out
+ 3072  g++ wwv.cpp
+ 3073  ./a.out
+ 3074  g++ wwv.cpp
+ 3075  ./a.out
+ 3076  g++ wwv.cpp
+ 3077  ./a.out
+ 3078  g++ wwv.cpp
+ 3079  ./a.out
+ 3080  g++ wwv.cpp
+ 3081  ./a.out
+ 3082  g++ wwv.cpp
+ 3083  ./a.out
+ 3084  g++ wwv.cpp
+ 3085  ./a.out
+ 3086  g++ wwv.cpp
+ 3087  ./a.out
+ 3088  g++ wwv.cpp
+ 3089  ./a.out
+ 3090  g++ wwv.cpp
+ 3091  ./a.out
+ 3092  g++ wwv.cpp
+ 3093  ./a.out
+ 3094  g++ wwv.cpp
+ 3095  ./a.out
+ 3096  g++ wwv.cpp
+ 3097  ./a.out
+ 3098  g++ wwv.cpp
+ 3099  ./a.out
+ 3100  g++ wwv.cpp
+ 3101  ./a.out
+ 3102  g++ wwv.cpp
+ 3103  ./a.out
+ 3104  g++ wwv1.cpp
+ 3105  cd ../../..
+ 3106  cd Downloads
+ 3107  g++ wwv1.cpp
+ 3108  ./a.out
+ 3109  vpnoff
+ 3110  cd Downloads
+ 3111  g++ wwv1.cpp
+ 3112  ./a.out
+ 3113  g++ wwv1.cpp
+ 3114  cd Downloads
+ 3115  g++ wwv1.cpp
+ 3116  ./a.out
+ 3117  sudo apt install bombsquad
+ 3118  sudo snap install bombsquad
+ 3119  ps -A
+ 3120  ps -e
+ 3121  ps -U root -u root -N
+ 3122  ps -u harshit
+ 3123  ps -u chrome
+ 3124  top
+ 3125  pstree
+ 3126  shutdown now
+ 3127  sudo apt install Avidemux
+ 3128  sudo apt-get update
+ 3129  sudo apt-get install avidemux2.6-qt
+ 3130  sudo apt-get remove --autoremove avidemux2.6-qt
+ 3131  sudo add-apt-repository ppa:ubuntuhandbook1/avidemux
+ 3132  sudo apt install Openshot
+ 3133  sudo apt install OpenShot
+ 3134  sudo add-apt-repository ppa:openshot.developers/ppa
+ 3135  sudo apt-get install openshot-qt
+ 3136  sudo apt install google chrome
+ 3137  sudo apt install chrome
+ 3138  sudo apt install Chrome
+ 3139  sudo apt update
+ 3140  sudo apt upgrade
+ 3141  sudo apt delete google chrome
+ 3142  rm google chrome
+ 3143  sudo apt update
+ 3144  sudo apt upgrade
+ 3145  google-chrome-desktop
+ 3146  exec bash
+ 3147  google-chrome-desktop
+ 3148  google-chrome
+ 3149  firefox
+ 3150  chrome-browser
+ 3151  chromium-browser
+ 3152  google-chrome
+ 3153  sudo apt install google-chrome-stable
+ 3154  google-chrome
+ 3155  chromium
+ 3156  cd Videos
+ 3157  ls
+ 3158  cd Inside-Edge
+ 3159  ls
+ 3160  cd 'Season 1'
+ 3161  ls
+ 3162  vlc 'Inside Edge S01E02.720p.HDRip.Bollyflixhd.xyz.mkv'
+ 3163  cd ../../..
+ 3164  sudo apt-get install libnss3
+ 3165  sudo apt-get update
+ 3166  google-chrome
+ 3167  sudo apt purge google-chrome-stable
+ 3168  sudo apt purge chromium-browser
+ 3169  cd ~./cache/
+ 3170  ls
+ 3171  ls -l
+ 3172  ls -a
+ 3173  cd .cache
+ 3174  ls
+ 3175  cd ..
+ 3176  google-chrome
+ 3177  rm -r ~/.cache/google-chrome/
+ 3178  rm -r ~/.config/google-chrome/
+ 3179  google-chrome
+ 3180  sudo apt install google-chrome-stable
+ 3181  sudo apt install google-chrome
+ 3182  sudo apt-get install google-chrome-stable
+ 3183  google-chrome-stable
+ 3184  google-chrome
+ 3185  sudo apt-get install libnss3
+ 3186  sudo apt-get update
+ 3187  google-chrome
+ 3188  firefox
+ 3189  cd .cache
+ 3190  cd ..
+ 3191  google-chrome --disable-gpu
+ 3192  cd .config
+ 3193  ls
+ 3194  mv google-chrome _google-chrome
+ 3195  cd ..
+ 3196  google-chrome --disable-gpu
+ 3197  google-chrome
+ 3198  cd .config
+ 3199  rm -rfi google-chrome
+ 3200  cd ..
+ 3201  cd .config
+ 3202  ls
+ 3203  rm -rfi google-chrome
+ 3204  mv _google-chrome google-chrome
+ 3205  cd ..
+ 3206  google-chrome
+ 3207  google-chrome --disable-gpu
+ 3208  google-chrome
+ 3209  sudo add-apt-repository ppa:micahflee/ppa
+ 3210  sudo apt update
+ 3211  sudo apt install torbrowser-launcher
+ 3212  shutdown now
+ 3213  pidof systemd
+ 3214  pidof top
+ 3215  ps aux | less
+ 3216  ps -A
+ 3217  pidof chrome
+ 3218  pidof ps
+ 3219  pidof boltd
+ 3220  echo $$
+ 3221  echo $PPID
+ 3222  ps
+ 3223  exec bash
+ 3224  ps -e | head
+ 3225  top
+ 3226  pidof top
+ 3227  pidof gnome-shell
+ 3228  shutdown now
+ 3229  espeak "How Are You"
+ 3230  espeak "Howw  are  you"
+ 3231  espeak "What are you doing ??"
+ 3232  espeak "Go and make Tea"
+ 3233  espeak "Chai Banaoo"
+ 3234  espeak "Chai Baanaa oo"
+ 3235  shutdown now
+ 3236  cd Downloads
+ 3237  ls
+ 3238  mv 'TopSort - SCC.ppt' ~/Document
+ 3239  ls
+ 3240  cd ..
+ 3241  cd Documents/
+ 3242  ls
+ 3243  cd ..
+ 3244  ls
+ 3245  cd Document
+ 3246  cd Downloads
+ 3247  ls
+ 3248  xdg-open 'TopSort - SCC.ppt'
+ 3249  g++ topsort.cpp
+ 3250  ./a.out
+ 3251  shutdown now
+ 3252  pidof gnome-shell
+ 3253  pidof chrome
+ 3254  pidof spotify
+ 3255  pidof Files
+ 3256  pidof files
+ 3257  shutdown now
+ 3258  g++ abl.cpp
+ 3259  ./a.out
+ 3260  exit
+ 3261  g++ abl.cpp
+ 3262  ./a.out
+ 3263  g++ abl.cpp
+ 3264  ./a.out
+ 3265  exit
+ 3266  ./a.out
+ 3267  g++ abl.cpp
+ 3268  ./a.out
+ 3269  google-chrome
+ 3270  google-chrome-stable
+ 3271  firefox
+ 3272  g++ abl.cpp
+ 3273  ./a.out
+ 3274  g++ abl.cpp
+ 3275  ./a.out
+ 3276  g++ abl.cpp
+ 3277  ./a.out
+ 3278  g++ abl.cpp
+ 3279  ./a.out
+ 3280  exit
+ 3281  g++ abl.cpp
+ 3282  ./a.out
+ 3283  g++ abl.cpp
+ 3284  ./a.out
+ 3285  g++ abl.cpp
+ 3286  ./a.out
+ 3287  exit
+ 3288  g++ abl.cpp
+ 3289  ./a.out
+ 3290  g++ abl.cpp
+ 3291  ./a.out
+ 3292  g++ abl.cpp
+ 3293  ./a.out
+ 3294  g++ abl.cpp
+ 3295  ./a.out
+ 3296  exit
+ 3297  g++ abl.cpp
+ 3298  ./a.out
+ 3299  shutdown now
+ 3300  vpnon
+ 3301  vpnoff
+ 3302  g++ pen.cpp
+ 3303  ./a.out
+ 3304  g++ pen.cpp
+ 3305  ./a.out
+ 3306  g++ pen.cpp
+ 3307  ./a.out
+ 3308  g++ pen.cpp
+ 3309  ./a.out
+ 3310  shutdown now
+ 3311  vpnon
+ 3312  telegram
+ 3313  telegram-desktop
+ 3314  vpnon
+ 3315  kernel
+ 3316  linux
+ 3317  whoami
+ 3318  vpnon
+ 3319  vpnoff
+ 3320  g++ mts.cpp
+ 3321  ./a.out
+ 3322  g++ mts.cpp
+ 3323  ./a.out
+ 3324  g++ mts.cpp
+ 3325  ./a.out
+ 3326  g++ mts.cpp
+ 3327  ./a.out
+ 3328  g++ mts.cpp
+ 3329  ./a.out
+ 3330  g++ mts.cpp
+ 3331  ./a.out
+ 3332  g++ mts.cpp
+ 3333  ./a.out
+ 3334  g++ mts.cpp
+ 3335  ./a.out
+ 3336  g++ mts.cpp
+ 3337  ./a.out
+ 3338  g++ mts.cpp
+ 3339  ./a.out
+ 3340  g++ mts.cpp
+ 3341  ./a.out
+ 3342  g++ mts.cpp
+ 3343  ./a.out
+ 3344  exit
+ 3345  g++ mts.cpp
+ 3346  ./a.out
+ 3347  g++ mts.cpp
+ 3348  ./a.out
+ 3349  g++ mts.cpp
+ 3350  ./a.out
+ 3351  g++ mts.cpp
+ 3352  ./a.out
+ 3353  g++ mts.cpp
+ 3354  ./a.out
+ 3355  g++ mts.cpp
+ 3356  ./a.out
+ 3357  g++ mts.cpp
+ 3358  ./a.out
+ 3359  g++ mts.cpp
+ 3360  ./a.out
+ 3361  g++ mts.cpp
+ 3362  ./a.out
+ 3363  g++ mts.cpp
+ 3364  ./a.out
+ 3365  vpnoff
+ 3366  g++ mts.cpp
+ 3367  ./a.out
+ 3368  g++ mts.cpp
+ 3369  ./a.out
+ 3370  shutdown now
+ 3371  vpnon
+ 3372  exit
+ 3373  g++ awh.cpp
+ 3374  ./a.out
+ 3375  g++ awh.cpp
+ 3376  ./a.out
+ 3377  g++ awh.cpp
+ 3378  ./a.out
+ 3379  g++ awh.cpp
+ 3380  ./a.out
+ 3381  g++ awh.cpp
+ 3382  ./a.out
+ 3383  g++ awh.cpp
+ 3384  ./a.out
+ 3385  g++ awh.cpp
+ 3386  ./a.out
+ 3387  g++ awh.cpp
+ 3388  ./a.out
+ 3389  g++ awh.cpp
+ 3390  ./a.out
+ 3391  g++ awh.cpp
+ 3392  ./a.out
+ 3393  g++ awh.cpp
+ 3394  ./a.out
+ 3395  wget -nc https://dl.winehq.org/wine-builds/winehq.key
+ 3396  sudo apt-key add winehq.key
+ 3397  sudo apt-add-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ bionic main'
+ 3398  sudo apt update
+ 3399  sudo apt install --install-recommends winehq-stable
+ 3400  exit
+ 3401  g++ awq1.cpp
+ 3402  exit
+ 3403  g++ awq1.cpp
+ 3404  vpnon
+ 3405  vpnoff
+ 3406  vpnon
+ 3407  vpnoff
+ 3408  shutdown now
+ 3409  vpnon
+ 3410  vpnoff
+ 3411  g++ A.cpp
+ 3412  ./a.out
+ 3413  g++ A.cpp
+ 3414  ./a.out
+ 3415  g++ B.cpp
+ 3416  ./a.out
+ 3417  g++ B.cpp
+ 3418  ./a.out
+ 3419  g++ B.cpp
+ 3420  ./a.out
+ 3421  g++ B.cpp
+ 3422  ./a.out
+ 3423  sudo fdisk -l
+ 3424  sudo apt-get grub
+ 3425  apt-get grub
+ 3426  apt-get install grub
+ 3427  sudo apt-get install grub
+ 3428  update-grub
+ 3429  sudo apt-get-repository ppa:yannubuntu
+ 3430  sudo update-grub
+ 3431  sudo efibootmgr
+ 3432  sudo update-grub
+ 3433  sudo efibootmgr -o 0003, 0005
+ 3434  sudo efibootmgr
+ 3435  sudo efibootmgr -o 0003,0005
+ 3436  ./moss ./Documents/dsaoj/ass5/awq.cpp ./Documents/dsaoj/ass5/awq1.cpp
+ 3437  vpnon
+ 3438  ./moss.pl ./Documents/dsaoj/ass5/awq.cpp ./Documents/dsaoj/ass5/awq1.cpp
+ 3439  chmod +x ./moss.pl
+ 3440  ./moss.pl ./Documents/dsaoj/ass5/awq.cpp ./Documents/dsaoj/ass5/awq1.cpp
+ 3441  g++ height.cpp
+ 3442  ./a.out
+ 3443  edxit
+ 3444  exit
+ 3445  shutdown now
+ 3446  vpnon
+ 3447  shutdown now
+ 3448  sudo apt install Qoopa
+ 3449  sudo apt install Qoopa Software
+ 3450  sudo apt-get update
+ 3451  sudo apt-get install Okular
+ 3452  sudo apt install Okular
+ 3453  sudo snap install okular
+ 3454  sudo apt-get install okular
+ 3455  shutdown now
+ 3456  sudo apt-get install octave
+ 3457  octave
+ 3458  shutdown now
+ 3459  pip install numpy
+ 3460  python3
+ 3461  g++ 1355a.cpp
+ 3462  ./a.out
+ 3463  g++ 1355a.cpp
+ 3464  ./a.out
+ 3465  g++ 1353c.cpp
+ 3466  ./a.out
+ 3467  g++ 1353c.cpp
+ 3468  ./a.out
+ 3469  g++ 1353c.cpp
+ 3470  ./a.out
+ 3471  g++ 1353c.cpp
+ 3472  ./a.out
+ 3473  g++ 1353c.cpp
+ 3474  ./a.out
+ 3475  g++ 1353c.cpp
+ 3476  ./a.out
+ 3477  g++ 1353c.cpp
+ 3478  ./a.out
+ 3479  g++ 1353c.cpp
+ 3480  ./a.out
+ 3481  g++ 1353c.cpp
+ 3482  ./a.out
+ 3483  octave
+ 3484  python3
+ 3485  pip install seaborn
+ 3486  python3
+ 3487  g++ 1355a.cpp
+ 3488  ./a.out
+ 3489  g++ 1352c.cpp
+ 3490  ./a.out
+ 3491  g++ 1352c.cpp
+ 3492  ./a.out
+ 3493  g++ 1352c.cpp
+ 3494  ./a.out
+ 3495  sudo snap install postman
+ 3496  cd Document
+ 3497  cd Documents
+ 3498  mkdir litclub
+ 3499  cd litclub
+ 3500  git clone https://github.com/OSDG-IIITH/litclub-website/tree/jasshan
+ 3501  git clone https://github.com/OSDG-IIITH/litclub-website.git
+ 3502  ls
+ 3503  cd litclub-website
+ 3504  ls
+ 3505  vim README.md
+ 3506  cd ..
+ 3507  ls
+ 3508  rm -rf litclub-website
+ 3509  ls
+ 3510  git clone https://github.com/OSDG-IIITH/litclub-website/tree/jasshan
+ 3511  cd ..
+ 3512  cd Downloads
+ 3513  ls
+ 3514  cd..
+ 3515  cd ..
+ 3516  cd Documents
+ 3517  cd litclub
+ 3518  ls
+ 3519  cd litclub-website-jasshan
+ 3520  ls
+ 3521  npm install
+ 3522  cd client
+ 3523  ls
+ 3524  npm install
+ 3525  cd ..
+ 3526  npm start
+ 3527  cd client
+ 3528  npm start
+ 3529  cd Documents
+ 3530  cd litclub
+ 3531  ls
+ 3532  cd litclub
+ 3533  cd litclub-website-jasshan
+ 3534  ls
+ 3535  cd config
+ 3536  ls
+ 3537  cd ..
+ 3538  cd client
+ 3539  ls
+ 3540  cd src
+ 3541  ls
+ 3542  cd
+ 3543  cd Documents
+ 3544  cd 2019101083
+ 3545  ls
+ 3546  git init
+ 3547  git remote add github https://github.com/harry30225/My-Website
+ 3548  git add .
+ 3549  git commit -m "Hi This is my first Website"
+ 3550  git push github master
+ 3551  git remote add github https://github.com/harry30225/My-Website
+ 3552  git status
+ 3553  git log
+ 3554  git push github master
+ 3555  git remote add harry https://github.com/harry30225/My-Website
+ 3556  git add .
+ 3557  git commit -m "Hi This is my first Website"
+ 3558  git push harry master
+ 3559  git pull
+ 3560  git pull github master
+ 3561  ls
+ 3562  cd Documents
+ 3563  cd webpage
+ 3564  git init
+ 3565  git remote add github https://github.com/harry30225/My-Website
+ 3566  git add .
+ 3567  git commit -m "Hi This is my first Website"
+ 3568  git push harry master
+ 3569  git push github master
+ 3570  cat .git/config
+ 3571  git pull github master
+ 3572  git log
+ 3573  git push -f github master
+ 3574  cd Documents
+ 3575  ls
+ 3576  cd litclub
+ 3577  ls
+ 3578  cd litclub-website-jasshan
+ 3579  ls
+ 3580  npm start
+ 3581  cd client
+ 3582  npm start
+ 3583  npm install
+ 3584  npm start
+ 3585  cd Documents
+ 3586  cd litclub
+ 3587  cd litclub-website-jasshan
+ 3588  cd client
+ 3589  npm install
+ 3590  npm start
+ 3591  shutdown now
+ 3592  g++ 1360a.cpp
+ 3593  ./a.out
+ 3594  g++ 1360c.cpp
+ 3595  ./a.out
+ 3596  g++ 1360c.cpp
+ 3597  ./a.out
+ 3598  g++ 1360c.cpp
+ 3599  ./a.out
+ 3600  g++ 1360b.cpp
+ 3601  ./a.out
+ 3602  g++ 1360d.cpp
+ 3603  ./a.out
+ 3604  g++ 1360c.cpp
+ 3605  ./a.out
+ 3606  g++ 1360e.cpp
+ 3607  ./a.out
+ 3608  g++ 1360e.cpp
+ 3609  ./a.out
+ 3610  g++ 1360e.cpp
+ 3611  ./a.out
+ 3612  g++ 1360e.cpp
+ 3613  ./a.out
+ 3614  g++ 1360e.cpp
+ 3615  ./a.out
+ 3616  shutdown now
+ 3617  g++ 1358a.cpp
+ 3618  ./a.out
+ 3619  g++ 1358b.cpp
+ 3620  ./a.out
+ 3621  g++ 1358b.cpp
+ 3622  ./a.out
+ 3623  g++ 1358b.cpp
+ 3624  ./a.out
+ 3625  g++ 1358b.cpp
+ 3626  ./a.out
+ 3627  g++ 1358b.cpp
+ 3628  ./a.out
+ 3629  g++ 1358b.cpp
+ 3630  ./a.out
+ 3631  g++ 1358c.cpp
+ 3632  ./a.out
+ 3633  g++ 1358c.cpp
+ 3634  ./a.out
+ 3635  g++ 1358c.cpp
+ 3636  ./a.out
+ 3637  cd Documents
+ 3638  ls
+ 3639  mkdir nodejs
+ 3640  vim first.js
+ 3641  node first.js
+ 3642  mv first.js nodejs
+ 3643  ls
+ 3644  cd nodejs
+ 3645  ls
+ 3646  node first.js
+ 3647  df -h
+ 3648  sudo apt-get install ntfs-3g
+ 3649  unmount dev/sdb1
+ 3650  sudo mkntfs --fast --label myusbdrive /dev/sdb1
+ 3651  umount /dev/sdb1
+ 3652  sudo mkntfs --fast --label myusbdrive /dev/sdb1
+ 3653  sudo apt-get install unrar
+ 3654  unrar x -r ~/Downloads/'Grand Theft Auto V.rar'
+ 3655  shutdown now
+ 3656  cd Documents
+ 3657  cd litclub
+ 3658  cd litclub-website-jasshan
+ 3659  npm start
+ 3660  cd client
+ 3661  npm start
+ 3662  cd Documents
+ 3663  cd litclub
+ 3664  cd litclub-website-jasshan
+ 3665  ls
+ 3666  cd routes
+ 3667  ls
+ 3668  cd api
+ 3669  ls
+ 3670  shutdown now
+ 3671  cd Documents
+ 3672  cd litclub
+ 3673  cd litclub-website-jasshan
+ 3674  ls
+ 3675  cd routes
+ 3676  cd api
+ 3677  ls
+ 3678  touch blog.js
+ 3679  ls
+ 3680  cd ../..
+ 3681  ls
+ 3682  cd models
+ 3683  ls
+ 3684  touch Blog.js
+ 3685  cd ..
+ 3686  clear
+ 3687  npm start
+ 3688  cd client
+ 3689  npm start
+ 3690  cd ..
+ 3691  cd ../..
+ 3692  cd 'litclub off'
+ 3693  ls
+ 3694  git clone https://github.com/OSDG-IIITH/litclub-website
+ 3695  ls
+ 3696  cd litclub-website
+ 3697  ls
+ 3698  git pull origin master
+ 3699  git branch
+ 3700  git branch -a
+ 3701  git branch harshit
+ 3702  git branch -a
+ 3703  git checkout harshit
+ 3704  ls
+ 3705  cd litclub-website
+ 3706  cd routes/api
+ 3707  touch blog.js
+ 3708  cd ../..
+ 3709  cd models
+ 3710  touch Blog.js
+ 3711  cd models
+ 3712  ls
+ 3713  cd ..
+ 3714  cd routes/api
+ 3715  ls
+ 3716  cd ..
+ 3717  git log
+ 3718  git status
+ 3719  git add .
+ 3720  git commit -m "Backend Functionality of Blog"
+ 3721  git push -u origin harshit
+ 3722  cd ..
+ 3723  ls
+ 3724  rm -rf litclub-website
+ 3725  ls
+ 3726  git clone https://github.com/harry30225/litclub-website
+ 3727  cd litclub-website
+ 3728  ls
+ 3729  git branch harshit
+ 3730  git checkout harshit
+ 3731  ls
+ 3732  cd routes/api
+ 3733  ls
+ 3734  touch blog.js
+ 3735  cd ../..
+ 3736  cd models
+ 3737  touch Blog.js
+ 3738  cd models
+ 3739  cd ..
+ 3740  cd routes/api
+ 3741  ls
+ 3742  cd ../..
+ 3743  git add .
+ 3744  git commit -m "Backend Functionality of Blog"
+ 3745  git push -u origin harshit
+ 3746  cd Documents
+ 3747  ls
+ 3748  rm -rf reactjs
+ 3749  ls
+ 3750  npm i -g create-react-app
+ 3751  ../
+ 3752  npm i -g create-react-app
+ 3753  sudo npm i -g create-react-app
+ 3754  cd Documents
+ 3755  cd reactjs
+ 3756  create-react-app react-app
+ 3757  cd react-app
+ 3758  npm start
+ 3759  cd Documents
+ 3760  ls
+ 3761  cd 'litclub off'
+ 3762  ls
+ 3763  cd litclub-website
+ 3764  ls
+ 3765  cd client
+ 3766  npm start
+ 3767  npm install
+ 3768  npm start
+ 3769  npm install
+ 3770  npm start
+ 3771  cd Documents
+ 3772  cd 'litclub off'
+ 3773  ls
+ 3774  cd litclub-website
+ 3775  npm start
+ 3776  cd client
+ 3777  npm start
+ 3778  cd Documents
+ 3779  cd 'litclub off'
+ 3780  cd litclub-website
+ 3781  cd client
+ 3782  npm start
+ 3783  cd Downloads/Telegram\ Desktop
+ 3784  ls
+ 3785  python GPA_calc.py
+ 3786  cd Documents
+ 3787  cd 'litclub off'
+ 3788  cd litclub-website
+ 3789  ls
+ 3790  cd client
+ 3791  npm start
+ 3792  git status
+ 3793  npm install
+ 3794  npm start
+ 3795  cd client
+ 3796  npm install
+ 3797  npm start
+ 3798  git status
+ 3799  git add .
+ 3800  git commit -m "Frontend of Eventdate and its backend functionality"
+ 3801  git push -u origin harshit
+ 3802  cd ..
+ 3803  rm-rf react-app
+ 3804  rm -rf react-app
+ 3805  ls
+ 3806  rm -rf react-app
+ 3807  cd Documents
+ 3808  create-react-app react-app
+ 3809  npm install bootstrap
+ 3810  cd Documents/react-app
+ 3811  npm start
+ 3812  cd Documents
+ 3813  cd 'litclub off'
+ 3814  cd litclub-website
+ 3815  git branch -a
+ 3816  git pull origin dev
+ 3817  cd Documents/
+ 3818  cd 'litclub off'
+ 3819  cd litclub-website
+ 3820  git checkout dev
+ 3821  git pull origin dev
+ 3822  git log
+ 3823  git remote -v
+ 3824  git pull https://github.com/OSDG-IIITH/litclub-website dev
+ 3825  git log
+ 3826  clear
+ 3827  npm start
+ 3828  cd client
+ 3829  npm start
+ 3830  shutdown now
+ 3831  cd Documents/
+ 3832  cd 'litclub off'
+ 3833  cd litclub-website
+ 3834  npm install
+ 3835  cd client
+ 3836  npm install
+ 3837  npm start
+ 3838  git status
+ 3839  git add .
+ 3840  git commit -m "Event UI"
+ 3841  git push -u origin dev
+ 3842  cd Documents/
+ 3843  cd 'litclub off'
+ 3844  cd litclub-website
+ 3845  npm start
+ 3846  cd client
+ 3847  npm start
+ 3848  cd Documents/
+ 3849  cd 'litclub off'
+ 3850  cd litclub-website
+ 3851  cd client
+ 3852  npm start
+ 3853  npm install
+ 3854  npm start
+ 3855  npm install
+ 3856  npm start
+ 3857  git add .
+ 3858  git commit -m "Navbar Issue resolved"
+ 3859  git push -u origin dev
+ 3860  git pull https://github.com/harry30225/litclub-website/tree/dev harshit
+ 3861  git pull dev harshit
+ 3862  git checkout harshit
+ 3863  git pull https://github.com/harry30225/litclub-website/tree/dev harshit
+ 3864  git checkout dev
+ 3865  git log
+ 3866  clear
+ 3867  cd Documents/
+ 3868  cd 'litclub off'
+ 3869  cd litclub-website
+ 3870  git status
+ 3871  npm start
+ 3872  cd client
+ 3873  npm start
+ 3874  espeak "Mamta"
+ 3875  espeak "Mamta Sharma"
+ 3876  espeak "Harish Sharma"
+ 3877  espeak "Harshit"
+ 3878  espeak "Sharma"
+ 3879  espeak "Mansi"
+ 3880  espeak "Chai"
+ 3881  espeak "Adrak"
+ 3882  espeak "Adraak"
+ 3883  espeak "Adrk"
+ 3884  espeak "Adrak"
+ 3885  espeak "Lahsun"
+ 3886  espeak "Desi"
+ 3887  espeak "Dasi"
+ 3888  espeak "Daesi"
+ 3889  espeak "Daisi"
+ 3890  espeak "Class keep silence"
+ 3891  espeak "Mansi"
+ 3892  espeak "Mamta"
+ 3893  espeak "Lahsun"
+ 3894  espeak "Adrak"
+ 3895  espeak "Harish"
+ 3896  espeak "Harshit"
+ 3897  espeak "Hershit"
+ 3898  cd Downloads/Telegram\ Desktop
+ 3899  ls
+ 3900  vlc \[Telegram@Primeroom\]\ Aladdin.mkv
+ 3901  cd Downloads/Telegram\ Desktop
+ 3902  vlc \[Telegram@Primeroom\]\ Aladdin.mkv
+ 3903  cd Documents
+ 3904  cd 'litclub off'
+ 3905  cd litclub-website
+ 3906  cd client
+ 3907  npm start
+ 3908  shutdown now
+ 3909  cd Documents
+ 3910  cd 'litclub off'
+ 3911  cd litclub-website
+ 3912  git pull https://github.com/OSDG-IIITH/litclub-website/tree/dev dev
+ 3913  git pull 'https://github.com/OSDG-IIITH/litclub-website/tree/dev' dev
+ 3914  git pull https://github.com/OSDG-IIITH/litclub-website/tree/dev harshit
+ 3915  git checkout harshit
+ 3916  git pull https://github.com/OSDG-IIITH/litclub-website/tree/dev harshit
+ 3917  git checkout dev
+ 3918  clear
+ 3919  git pull https://github.com/OSDG-IIITH/litclub-website/tree/dev dev
+ 3920  git remote -v
+ 3921  git remote add lit https://github.com/OSDG-IIITH/litclub-website/tree/dev
+ 3922  git remote
+ 3923  git fetch lit
+ 3924  git fetch lit dev
+ 3925  git pull lit dev
+ 3926  git branch
+ 3927  git pull https://github.com/OSDG-IIITH/litclub-website/ dev
+ 3928  git log
+ 3929  clear
+ 3930  cd client
+ 3931  npm install
+ 3932  npm start
+ 3933  cd ../../..
+ 3934  cd Downloads/Telegram\ Desktop
+ 3935  vlc \[Telegram@Primeroom\]Aladdin.mkv
+ 3936  python -m pip install pymongo
+ 3937  cd Documents
+ 3938  mkdir 'litclub jasshan'
+ 3939  cd 'litclub jasshan'
+ 3940  git pull https://github.com/OSDG-IIITH/litclub-website/ jasshan
+ 3941  cd litclub
+ 3942  ls
+ 3943  cd ..
+ 3944  ls
+ 3945  cd litclub
+ 3946  rm -rf litclub-website-jasshan
+ 3947  git clone https://github.com/harry30225/litclub-website
+ 3948  cd ..
+ 3949  cd 'litclub off'
+ 3950  cd litclub-website
+ 3951  git pull https://github.com/OSDG-IIITH/litclub-website/ jasshan
+ 3952  git checkout -b jasshan
+ 3953  git pull https://github.com/OSDG-IIITH/litclub-website/ jasshan
+ 3954  git checkout master
+ 3955  git checkout -b master
+ 3956  git checkout master
+ 3957  git status
+ 3958  git checkout master
+ 3959  clear
+ 3960  git status
+ 3961  git checkout HEAD^ client/public/index.html
+ 3962  git checkout HEAD^ client/src/components/layout/Navbar.js
+ 3963  git pull https://github.com/OSDG-IIITH/litclub-website/ jasshan
+ 3964  rm client/src/components/layout/Navbar.js
+ 3965  rm client/public/index.html\n
+ 3966  git pull https://github.com/OSDG-IIITH/litclub-website/ jasshan
+ 3967  cd ..
+ 3968  git clone https://github.com/OSDG-IIITH/litclub-website
+ 3969  cd ..
+ 3970  git clone https://github.com/OSDG-IIITH/litclub-website
+ 3971  cd litclub-website
+ 3972  clear
+ 3973  git status
+ 3974  git pull https://github.com/OSDG-IIITH/litclub-website/ jasshan
+ 3975  clear
+ 3976  npm install
+ 3977  cd client
+ 3978  npm install
+ 3979  npm start
+ 3980  cd Documents
+ 3981  cd 'litclub off'
+ 3982  cd litclub-website/
+ 3983  git checkout dev
+ 3984  git status
+ 3985  git stash -a
+ 3986  git reset
+ 3987  git status
+ 3988  git pull https://github.com/OSDG-IIITH/litclub-website/ dev
+ 3989  git status
+ 3990  git log
+ 3991  clear
+ 3992  npm install
+ 3993  cd client
+ 3994  npm install
+ 3995  npm start
+ 3996  git add .
+ 3997  git commit -m "Blogs UI and backend edit/delete"
+ 3998  git push -u origin dev
+ 3999  cd Documents
+ 4000  cd 'litclub off'
+ 4001  cd litclub-website
+ 4002  git pull https://github.com/OSDG-IIITH/litclub-website/ dev
+ 4003  clear
+ 4004  npm start
+ 4005  cd client
+ 4006  npm start
+ 4007  shutdown now
+ 4008  cd Documents
+ 4009  cd 'litclub off'
+ 4010  cd litclub-website
+ 4011  npm install
+ 4012  cd client
+ 4013  npm install
+ 4014  npm start
+ 4015  cd Documents
+ 4016  cd 'litclub off'
+ 4017  cd litclub-website
+ 4018  git pull https://github.com/OSDG-IIITH/litclub-website/ dev
+ 4019  cd client
+ 4020  npm start
+ 4021  git add .
+ 4022  git commit -m "Single Blog UI and added blogtag and author in blog backend"
+ 4023  git push -u origin dev
+ 4024  cd Documents
+ 4025  cd 'litclub off'
+ 4026  cd litclub-website
+ 4027  git pull https://github.com/OSDG-IIITH/litclub-website/ dev
+ 4028  cd client
+ 4029  npm start
+ 4030  git add .
+ 4031  git commit -m "Implemented Delete Operation for blogs"
+ 4032  git push -u origin dev
+ 4033  cd Documents
+ 4034  cd 'litclub off'
+ 4035  cd litclub-website
+ 4036  git add .
+ 4037  git commit -m "Made necessary changes in reducers for deleting a blog"
+ 4038  git push -u origin dev
+ 4039  cd client
+ 4040  npm start
+ 4041  yarn add react-responsive-carousel
+ 4042  sudo apt install yarn
+ 4043  yarn add react-responsive-carousel
+ 4044  npm install react-responsive-carousel
+ 4045  npm start
+ 4046  npm install react-bootstrap
+ 4047  npm start
+ 4048  cd Documents
+ 4049  cd 'litclub off'
+ 4050  cd litclub-website
+ 4051  cd client
+ 4052  npm start
+ 4053  git add .
+ 4054  git commit -m "Made necessary changes in reducers for deleting a blog"
+ 4055  git push -u origin dev
+ 4056  cd Documents
+ 4057  cd 'litclub off'
+ 4058  cd litclub-website
+ 4059  git pull https://github.com/OSDG-IIITH/litclub-website/ dev
+ 4060  npm install
+ 4061  cd client
+ 4062  npm install
+ 4063  npm install react-bootstrap bootstrap
+ 4064  npm install
+ 4065  npm start
+ 4066  npm install
+ 4067  git pull https://github.com/OSDG-IIITH/litclub-website/ dev
+ 4068  npm install
+ 4069  npm start
+ 4070  clear
+ 4071  git add .
+ 4072  git commit -m "Added Carousel in landing page"
+ 4073  git push -u origin dev
+ 4074  cd Documents
+ 4075  cd 'litclub off'
+ 4076  cd litclub-website
+ 4077  cd Documents
+ 4078  cd 'litclub off'
+ 4079  cd litclub-website
+ 4080  git pull https://github.com/OSDG-IIITH/litclub-website/ dev
+ 4081  npm start
+ 4082  cd client
+ 4083  npm start
+ 4084  git pull https://github.com/OSDG-IIITH/litclub-website/ dev
+ 4085  npm start
+ 4086  cd Documents
+ 4087  cd 'litclub off'
+ 4088  cd litclub-website
+ 4089  npm start
+ 4090  cd client
+ 4091  npm start
+ 4092  g++ 1367a.cpp
+ 4093  ./a.out
+ 4094  g++ 1367a.cpp
+ 4095  ./a.out
+ 4096  g++ 1367a.cpp
+ 4097  ./a.out
+ 4098  g++ 1367a.cpp
+ 4099  ./a.out
+ 4100  g++ 1367b.cpp
+ 4101  ./a.out
+ 4102  g++ 1367c.cpp
+ 4103  ./a.out
+ 4104  g++ 1367c.cpp
+ 4105  ./a.out
+ 4106  g++ 1367c.cpp
+ 4107  ./a.out
+ 4108  g++ 1367c.cpp
+ 4109  ./a.out
+ 4110  g++ 1367c.cpp
+ 4111  ./a.out
+ 4112  g++ 1367c.cpp
+ 4113  ./a.out
+ 4114  g++ 1367c.cpp
+ 4115  ./a.out
+ 4116  g++ 1367c.cpp
+ 4117  ./a.out
+ 4118  g++ 1367c.cpp
+ 4119  ./a.out
+ 4120  g++ 1367c.cpp
+ 4121  ./a.out
+ 4122  g++ 1367c.cpp
+ 4123  ./a.out
+ 4124  g++ 1367c.cpp
+ 4125  ./a.out
+ 4126  cd Documents
+ 4127  cd 'litclub off'
+ 4128  cd litclub-website
+ 4129  npm start
+ 4130  cd client
+ 4131  npm start
+ 4132  cd Documents
+ 4133  cd 'litclub off'
+ 4134  cd litclub-website
+ 4135  cd client
+ 4136  npm start
+ 4137  npm install
+ 4138  npm start
+ 4139  git pull https://github.com/OSDG-IIITH/litclub-website/ dev
+ 4140  git stash
+ 4141  git pull https://github.com/OSDG-IIITH/litclub-website/ dev
+ 4142  cd client
+ 4143  npm start
+ 4144  cd Documents
+ 4145  cd 'litclub off'
+ 4146  cd litclub-website
+ 4147  cd client
+ 4148  npm start
+ 4149  git add .
+ 4150  git commit -m "Added Picture in BLog form and its functionality"
+ 4151  git push -u origin dev
+ 4152  cd Documents
+ 4153  cd 'litclub off'
+ 4154  cd litclub-website
+ 4155  cd client
+ 4156  npm start
+ 4157  git add .
+ 4158  git commit -m "Added Footer "
+ 4159  git push -u origin dev
+ 4160  cd Documents
+ 4161  cd 'litclub off'
+ 4162  cd litclub-website
+ 4163  cd client
+ 4164  npm start
+ 4165  git add .
+ 4166  git commit -m "Added Picture in the edit feature of blogs"
+ 4167  git push -u origin dev
+ 4168  shutdown now
+ 4169  cd 'litclub off'
+ 4170  cd Documents
+ 4171  cd 'litclub off'
+ 4172  cd litclub-website
+ 4173  git pull https://github.com/OSDG-IIITH/litclub-website/ dev
+ 4174  git pull https://github.com/OSDG-IIITH/litclub-website/ master
+ 4175  cd client
+ 4176  npm start
+ 4177  git add .
+ 4178  git commit -m "Added Imageslider Backend Functionality and checked the same on postman API and mongodb ATLAS"
+ 4179  git push -u origin dev
+ 4180  cd Documents
+ 4181  cd 'litclub off'
+ 4182  cd litclub-website
+ 4183  git pull https://github.com/OSDG-IIITH/litclub-website/ dev
+ 4184  npm start
+ 4185  cd client
+ 4186  npm start
+ 4187  clear
+ 4188  git add .
+ 4189  git commit -m "Added Image reducer and action"
+ 4190  git push -u origin dev
+ 4191  g++ 1369a.cpp
+ 4192  ./a.out
+ 4193  g++ 1369c.cpp
+ 4194  ./a.out
+ 4195  g++ 1369c.cpp
+ 4196  ./a.out
+ 4197  g++ 1369c.cpp
+ 4198  ./a.out
+ 4199  g++ 1369c.cpp
+ 4200  ./a.out
+ 4201  g++ 1369c.cpp
+ 4202  ./a.out
+ 4203  g++ 1369c.cpp
+ 4204  ./a.out
+ 4205  g++ 1369c.cpp
+ 4206  ./a.out
+ 4207  g++ 1369b.cpp
+ 4208  ./a.out
+ 4209  g++ 1369b.cpp
+ 4210  ./a.out
+ 4211  g++ 1369b.cpp
+ 4212  ./a.out
+ 4213  g++ 1369b.cpp
+ 4214  ./a.out
+ 4215  g++ 1369b.cpp
+ 4216  ./a.out
+ 4217  g++ 1369b.cpp
+ 4218  ./a.out
+ 4219  g++ 1369b.cpp
+ 4220  ./a.out
+ 4221  g++ 1369b.cpp
+ 4222  ./a.out
+ 4223  g++ 1369b.cpp
+ 4224  ./a.out
+ 4225  g++ 1369b.cpp
+ 4226  ./a.out
+ 4227  shutdown now
+ 4228  g++ 1373a.cpp
+ 4229  ./a.out
+ 4230  g++ 1373a.cpp
+ 4231  ./a.out
+ 4232  g++ 1373a.cpp
+ 4233  ./a.out
+ 4234  g++ 1373b.cpp
+ 4235  ./a.out
+ 4236  g++ 1373b.cpp
+ 4237  ./a.out
+ 4238  g++ 1373c.cpp
+ 4239  ./a.out
+ 4240  g++ 1373c.cpp
+ 4241  ./a.out
+ 4242  g++ 1373b.cpp
+ 4243  ./a.out
+ 4244  g++ 1373b.cpp
+ 4245  ./a.out
+ 4246  g++ 1373b.cpp
+ 4247  ./a.out
+ 4248  g++ 1373b.cpp
+ 4249  ./a.out
+ 4250  g++ 1373b.cpp
+ 4251  ./a.out
+ 4252  g++ 1373b.cpp
+ 4253  ./a.out
+ 4254  g++ 1373b.cpp
+ 4255  ./a.out
+ 4256  cd Documents
+ 4257  cd 'litclub off'
+ 4258  cd litclub-website
+ 4259  cd client
+ 4260  npm start
+ 4261  git add .
+ 4262  git commit -m "Added Image in slider on landing page and made necessary changes in backend and frontend"
+ 4263  git push -u origin dev
+ 4264  sudo apt-get install ./nordvpn-release_1.0.0_all.deb
+ 4265  cd Downloads
+ 4266  sudo apt-get install ./nordvpn-release_1.0.0_all.deb
+ 4267  sudo apt-get update
+ 4268  g++ 1374a.cpp
+ 4269  ./a.out
+ 4270  g++ 1374b.cpp
+ 4271  ./a.out
+ 4272  g++ 1374c.cpp
+ 4273  ./a.out
+ 4274  g++ 1374c.cpp
+ 4275  ./a.out
+ 4276  g++ 1374d.cpp
+ 4277  ./a.out
+ 4278  g++ 1374d.cpp
+ 4279  ./a.out
+ 4280  g++ 1374d.cpp
+ 4281  ./a.out
+ 4282  g++ 1374d.cpp
+ 4283  ./a.out
+ 4284  g++ 1374d.cpp
+ 4285  ./a.out
+ 4286  g++ 1374d.cpp
+ 4287  ./a.out
+ 4288  g++ 1374d.cpp
+ 4289  ./a.out
+ 4290  g++ 1374e1.cpp
+ 4291  ./a.out
+ 4292  g++ 1374e1.cpp
+ 4293  ./a.out
+ 4294  g++ 1374e1.cpp
+ 4295  ./a.out
+ 4296  shutdown now
+ 4297  cd Documents
+ 4298  cd 'litclub off'
+ 4299  cd litclub-website
+ 4300  npm start
+ 4301  cd client
+ 4302  npm start
+ 4303  cd Documents/'litclub off'
+ 4304  cd litclub-website
+ 4305  npm start
+ 4306  cd client
+ 4307  npm start
+ 4308  clear
+ 4309  npm start
+ 4310  clear
+ 4311  npm start
+ 4312  cd Documents/'litclub off'
+ 4313  cd litclub-website
+ 4314  npm start
+ 4315  cd client
+ 4316  npm start
+ 4317  shutdown now
+ 4318  cd Documents/'litclub off'
+ 4319  cd litclub-website
+ 4320  npm start
+ 4321  cd client
+ 4322  npm start
+ 4323  cd Documents/'litclub off'
+ 4324  cd litclub-website
+ 4325  npm start
+ 4326  cd client
+ 4327  npm start
+ 4328  npm install
+ 4329  npm start
+ 4330  git add .
+ 4331  git commit -m "Added Latest Event to the landing page with full functionality and working. Added Three latest blog to the landing page with full functionality and working. Also added a ticket."
+ 4332  git push -u origin dev
+ 4333  shutdown now
+ 4334  cd Documents/'litclub off'
+ 4335  cd litclub-website
+ 4336  npm start
+ 4337  cd client
+ 4338  npm stary
+ 4339  npm start
+ 4340  cd Documents/'litclub off'
+ 4341  cd litclub-website
+ 4342  npm start
+ 4343  cd client
+ 4344  npm start
+ 4345  git add .
+ 4346  git commit -m "Added FormEvent.js for Enrolment Form of events and also added ticket button in event page. Aligned the form on the page and it working properly. "
+ 4347  git push -u origin dev
+ 4348  shutdown now
+ 4349  cd Documents/'litclub off'
+ 4350  cd litclub-website
+ 4351  npm start
+ 4352  cd client
+ 4353  npm start
+ 4354  clear
+ 4355  npm start
+ 4356  clear
+ 4357  npm start
+ 4358  git add .
+ 4359  git commit -m "Added backend of formurl and ticket for event link to form."
+ 4360  git push -u origin dev
+ 4361  shutdown now
+ 4362  cd documents/HTML
+ 4363  cd Documents/'litclub off'
+ 4364  cd litclub-website
+ 4365  npm start
+ 4366  cd client
+ 4367  npm start
+ 4368  shutdown now
+ 4369  cd Documents/'litclub off'
+ 4370  cd litclub-website
+ 4371  npm start
+ 4372  cd client
+ 4373  npm start
+ 4374  cd Documents/'litclub off'
+ 4375  cd litclub-website
+ 4376  npm start
+ 4377  cd client
+ 4378  npm start
+ 4379  git add .
+ 4380  git commit -m "Corrected form element and backend for the required field."
+ 4381  git push -u origin dev
+ 4382  tree /
+ 4383  google-chrome-stable
+ 4384  cd Documents/'litclub off'
+ 4385  cd litclub-website
+ 4386  npm start
+ 4387  cd client
+ 4388  npm start
+ 4389  git add .
+ 4390  git commit -m "Added the feature of showing previous data in edit section of blog."
+ 4391  git push -u origin dev
+ 4392  shutdown now
+ 4393  kill firefox
+ 4394  shutdown now
+ 4395  kill firefox
+ 4396  firefox
+ 4397  cd Downloads/sem\ 3\ stuff
+ 4398  cd operating\ system\ and\ networks
+ 4399  cd 2019101083_assign1
+ 4400  man 2 stat
+ 4401  man 2 mkdir
+ 4402  man 2 open
+ 4403  man 2 mkdir
+ 4404  mkdir h
+ 4405  ls
+ 4406  mkdir h
+ 4407  man 2 mkdir
+ 4408  gcc Q1.c
+ 4409  ./a.out
+ 4410  ls
+ 4411  rm -rf Assignment
+ 4412  gcc Q1.c
+ 4413  ./a.out
+ 4414  ls
+ 4415  ls -l
+ 4416  gcc Q1.c
+ 4417  rm -rf h
+ 4418  ls
+ 4419  rm -rf Assignment
+ 4420  gcc Q1.c
+ 4421  ./a.out
+ 4422  gcc example1.c
+ 4423  ./a.out
+ 4424  gcc Q1.c
+ 4425  ./a.out
+ 4426  gcc Q1.c
+ 4427  ./a.out
+ 4428  gcc Q1.c
+ 4429  ./a.out
+ 4430  ls
+ 4431  man open
+ 4432  gcc Q1.c
+ 4433  ./a.out test.txt
+ 4434  gcc Q1.c
+ 4435  ./a.out ../../../bash.txt
+ 4436  man 2 cp
+ 4437  man 2 copy
+ 4438  man 2 cpy
+ 4439  man 2 clone
+ 4440  rm -rf Assignment
+ 4441  gcc Q1.c
+ 4442  ./a.out ../../../bash.txt
+ 4443  rm -rf Assignment
+ 4444  gcc Q1.c
+ 4445  ./a.out ../../../bash.txt
+ 4446  rm -rf Assignment
+ 4447  gcc Q1.c
+ 4448  ./a.out ../../../bash.txt
+ 4449  rm -rf Assignment
+ 4450  gcc Q1.c
+ 4451  ./a.out ../../../bash.txt
+ 4452  rm -rf Assignment
+ 4453  gcc Q1.c
+ 4454  ./a.out ../../../bash.txt
+ 4455  rm -rf Assignment
+ 4456  gcc Q1.c
+ 4457  ./a.out ../../../bash.txt
+ 4458  rm -rf Assignment
+ 4459  gcc Q1.c
+ 4460  ./a.out ../../../bash.txt
+ 4461  rm -rf Assignment
+ 4462  gcc Q1.c
+ 4463  ./a.out ../../../bash.txt
+ 4464  cd Assignment
+ 4465  ls
+ 4466  cd ..
+ 4467  rm -rf Assignment
+ 4468  gcc example3.c
+ 4469  ./a.out
+ 4470  gcc example3.c
+ 4471  ./a.out
+ 4472  man 2 lseek
+ 4473  gcc Q1.c
+ 4474  ./a.out ../../../bash.txt
+ 4475  cd Assignment
+ 4476  ls
+ 4477  vim bash.txt
+ 4478  cd ..
+ 4479  gcc Q1.c
+ 4480  ./a.out ../../../bash.txt
+ 4481  cd Assignment
+ 4482  vim bash.txt
+ 4483  gcc Q1.c
+ 4484  cd ..
+ 4485  gcc Q1.c
+ 4486  ./a.out ../../../bash.txt
+ 4487  cd Assignment
+ 4488  vim bash.txt
+ 4489  cd ..
+ 4490  gcc Q1.c
+ 4491  ./a.out ../../../bash.txt
+ 4492  cd Assignment
+ 4493  vim bash.txt
+ 4494  gcc Q1.c
+ 4495  cd ..
+ 4496  gcc Q1.c
+ 4497  ./a.out ../../../bash.txt
+ 4498  cd Assignment
+ 4499  vim bash.txt
+ 4500  cd ..
+ 4501  gcc Q1.c
+ 4502  ./a.out ../../../bash.txt
+ 4503  cd Assignment
+ 4504  vim bash.txt
+ 4505  cd ..
+ 4506  gcc Q1.c
+ 4507  ./a.out ../../../bash.txt
+ 4508  cd Assignment
+ 4509  vim bash.txt
+ 4510  cd ..
+ 4511  gcc Q1.c
+ 4512  ./a.out ../../../bash.txt
+ 4513  cd Assignment
+ 4514  vim bash.txt
+ 4515  cd ..
+ 4516  gcc Q1.c
+ 4517  ./a.out ../../../bash.txt
+ 4518  cd Assignment
+ 4519  vim bash.txt
+ 4520  touch test.txt
+ 4521  cd ..
+ 4522  gcc Q1.c
+ 4523  ./a.out ../../../test.txt
+ 4524  cd Assignment
+ 4525  vim bash.txt
+ 4526  cd ..
+ 4527  rm -rf Assignment
+ 4528  gcc Q1.c
+ 4529  ./a.out ../../../test.txt
+ 4530  cd Assignment
+ 4531  ls
+ 4532  vim test.txt
+ 4533  cd ..
+ 4534  gcc Q1.c
+ 4535  ./a.out ../../../test.txt
+ 4536  cd Assignment
+ 4537  vim test.txt
+ 4538  cd ..
+ 4539  rm -rf Assignment
+ 4540  gcc Q1.c
+ 4541  ./a.out ../../../bash.txt
+ 4542  cd Assignment
+ 4543  ls
+ 4544  vim bash.txt
+ 4545  cd Downloads/sem\ 3\ stuff
+ 4546  cd operating\ system\ and\ networks
+ 4547  cd 2019101083_assign1
+ 4548  gcc Q1.c
+ 4549  ./a.out ../../../bash.txt
+ 4550  gcc Q1.c
+ 4551  ./a.out ../../../bash.txt
+ 4552  gcc Q1.c
+ 4553  ./a.out ../../../bash.txt
+ 4554  gcc Q1.c
+ 4555  ./a.out ../../../bash.txt
+ 4556  cd Downloads
+ 4557  "harshit" | head -n 10000000 > bash.txt
+ 4558  cd ..
+ 4559  cd Downloads/sem\ 3\ stuff
+ 4560  cd operating\ system\ and\ networks
+ 4561  cd 2019101083_assign1
+ 4562  gcc Q1.c
+ 4563  ./a.out ../../../bash.txt
+ 4564  cd Assignment
+ 4565  vim bash.txt
+ 4566  gcc Q1.c
+ 4567  cd ..
+ 4568  gcc Q1.c
+ 4569  ./a.out ../../../bash.txt
+ 4570  gcc Q1.c
+ 4571  ./a.out ../../../bash.txt
+ 4572  gcc Q1.c
+ 4573  ./a.out ../../../bash.txt
+ 4574  shutdown now
+ 4575  cd Downloads/sem\ 3\ stuff
+ 4576  cd operating\ system\ and\ networks
+ 4577  cd 2019101083_assign1
+ 4578  rm -rf Assignment
+ 4579  ls
+ 4580  gcc Q1.c
+ 4581  ./a.out ../../../bash.txt
+ 4582  cd Assignment
+ 4583  vim bash.txt
+ 4584  cd ..
+ 4585  rm -rf Assignment
+ 4586  gcc Q1.c
+ 4587  ./a.out ../../../bash.txt
+ 4588  gcc Q1.c
+ 4589  ./a.out ../../../bash.txt
+ 4590  rm -rf Assignment
+ 4591  gcc Q1.c
+ 4592  ./a.out ../../../bash.txt
+ 4593  rm -rf Assignment
+ 4594  gcc Q1.c
+ 4595  ./a.out ../../../bash.txt
+ 4596  rm -rf Assignment
+ 4597  gcc Q1.c
+ 4598  ./a.out ../../../bash.txt
+ 4599  rm -rf Assignment
+ 4600  cd Downloads
+ 4601  vim bash.txt
+ 4602  vim bash1.txt
+ 4603  gcc Q1.c
+ 4604  ./a.out ../../../bash1.txt
+ 4605  cd Assignment
+ 4606  vim bash1.txt
+ 4607  cd ..
+ 4608  rm -rf Assignment
+ 4609  gcc Q1.c
+ 4610  ./a.out ../../../bash.txt
+ 4611  cd Assignment
+ 4612  vim bash.txt
+ 4613  cd ..
+ 4614  rm -rf Assignment
+ 4615  gcc Q1.c
+ 4616  ./a.out ../../../bash.txt
+ 4617  rm -rf Assignment
+ 4618  gcc Q1.c
+ 4619  ./a.out ../../../bash.txt
+ 4620  cd Downloads/sem\ 3\ stuff
+ 4621  cd operating\ system\ and\ networks
+ 4622  cd 2019101083_assign1
+ 4623  rm -rf Assignment
+ 4624  gcc Q1.c
+ 4625  ./a.out ../../../bash.txt
+ 4626  cd Docmuents
+ 4627  cd Downloads
+ 4628  ./a.out test.txt
+ 4629  chmod +x ./a.out
+ 4630  ./a.out test.txt
+ 4631  ./a.out bash1.txt
+ 4632  ./a.out bash.txt
+ 4633  cd Downloads/sem\ 3\ stuff
+ 4634  cd operating\ system\ and\ networks
+ 4635  cd 2019101083_assign1
+ 4636  rm -rf Assignment
+ 4637  gcc Q1.c
+ 4638  ./a.out ../../../bash.txt
+ 4639  ./a.out ../../../bash1.txt
+ 4640  ./a.out ../../../test.txt
+ 4641  rm -rf Assignment
+ 4642  ./a.out ../../../bash.txt
+ 4643  gcc Q1.c
+ 4644  rm -rf Assignment
+ 4645  clear
+ 4646  ./a.out ../../../bash.txt
+ 4647  cd Dowloads
+ 4648  cd Downloads
+ 4649  chmod +x ./a.out
+ 4650  ./a.out bash.txt
+ 4651  ./a.out bash1.txt
+ 4652  cd Downloads/sem\ 3\ stuff
+ 4653  cd operating\ system\ and\ networks
+ 4654  cd 2019101083_assign1
+ 4655  ls -l
+ 4656  gcc Q2.c
+ 4657  ./a.out Q1.c
+ 4658  gcc Q2.c
+ 4659  ./a.out Q1.c
+ 4660  gcc Q2.c
+ 4661  ./a.out Q1.c
+ 4662  gcc Q2.c
+ 4663  ./a.out
+ 4664  gcc Q2.c
+ 4665  ./a.out
+ 4666  gcc Q2.c
+ 4667  ./a.out
+ 4668  gcc Q2.c
+ 4669  ./a.out
+ 4670  gcc Q2.c
+ 4671  ./a.out
+ 4672  gcc Q2.c
+ 4673  ./a.out
+ 4674  gcc Q2.c
+ 4675  ./a.out Q1.c
+ 4676  gcc Q2.c
+ 4677  ./a.out Q1.c
+ 4678  gcc Q2.c
+ 4679  ./a.out ../../../apks
+ 4680  ./a.out ../../../apk
+ 4681  gcc Q2.c
+ 4682  ./a.out ../../../apk
+ 4683  cd Downloads
+ 4684  ls
+ 4685  chmod +x ./a.out
+ 4686  ls -l
+ 4687  ./a.out bash.txt bash1.txt apks
+ 4688  ./a.out bash.txt bash1.txt aps
+ 4689  vim bash2.txt
+ 4690  ls
+ 4691  vim bash2.txt
+ 4692  cd sem\ 3\ stuff
+ 4693  cd operating\ system\ and\ networks
+ 4694  cd 2019101083_assign1
+ 4695  gcc Q1.c
+ 4696  ./a.out ../../../bash1.txt
+ 4697  cd ../../..
+ 4698  ./a.out bash2.txt bash1.txt apks
+ 4699  cd sem\ 3\ stuff
+ 4700  cd operating\ system\ and\ networks
+ 4701  cd 2019101083_assign1
+ 4702  rm -rf Assignment
+ 4703  gcc Q1.c
+ 4704  ./a.out ../../../original.txt 
+ 4705  gcc Q2.c
+ 4706  ./a.out ../../../original.txt ../../../copied.txt ../../../apks
+ 4707  gcc Q2.c
+ 4708  ./a.out ../../../original.txt ../../../copied.txt ../../../apks
+ 4709  gcc Q2.c
+ 4710  ./a.out ../../../original.txt ../../../copied.txt ../../../apks
+ 4711  gcc Q1.c
+ 4712  ./a.out ../../../original.txt
+ 4713  gcc Q2.c
+ 4714  ./a.out original.txt original1.txt ../../../apks
+ 4715  gcc Q2.c
+ 4716  ./a.out original.txt original1.txt ../../../apks
+ 4717  cd Downloads
+ 4718  ls -l
+ 4719  ./a.out Assignment/original.txt Assignment/original1.txt ../../../apks
+ 4720  ./a.out Assignment/original.txt Assignment/original1.txt ../../../apk
+ 4721  gcc Q2.c
+ 4722  ./a.out Assignment/original.txt Assignment/original1.txt ../../../apks
+ 4723  gcc Q2.c
+ 4724  ./a.out Assignment/original.txt Assignment/original1.txt ../../../apks
+ 4725  gcc Q2.c
+ 4726  ./a.out Assignment/original.txt Assignment/original1.txt ../../../apks
+ 4727  gcc Q2.c
+ 4728  ./a.out Assignment/original.txt Assignment/original1.txt ../../../apks
+ 4729  shutdown now
+ 4730  cd Downloads/sem\ 3\ stuff
+ 4731  cd operating\ system\ and\ networks
+ 4732  cd 2019101083_assign1
+ 4733  gcc Q1.c
+ 4734  ./a.out ../../../bash.txt
+ 4735  rm -rf Assignment
+ 4736  ./a.out ../../../bash.txt
+ 4737  ./a.out ../../../test.txt
+ 4738  ls -l
+ 4739  cd Assignment
+ 4740  ls -l
+ 4741  gcc Q2.c
+ 4742  cd ..
+ 4743  gcc Q2.c
+ 4744  ./a.out ../../../test.txt Assignment/test.txt Assignment
+ 4745  ./a.out ../../../bash.txt Assignment/bash.txt Assignment
+ 4746  ./a.out ../../../bash.txt Assignment/test.txt Assignment
+ 4747  gcc Q2.c
+ 4748  ./a.out ../../../bash.txt Assignment/test.txt Assignment
+ 4749  ./a.out ../../../bash.txt Assignment/bash.txt Assignment
+ 4750  shutdown now
+ 4751  sudo snap install blender
+ 4752  cd Downloads
+ 4753  cd blender-2.83.5-linux64
+ 4754  python blender-thumbnailer.py
+ 4755  g++ 1401a.cpp
+ 4756  ./a.out
+ 4757  g++ 1400a.cpp
+ 4758  ./a.out
+ 4759  g++ 1400a.cpp
+ 4760  ./a.out
+ 4761  shutdown now
+ 4762  g++ 1401b.cpp
+ 4763  ./a.out
+ 4764  g++ 1395a.cpp
+ 4765  ./a.out
+ 4766  g++ 1395a.cpp
+ 4767  ./a.out
+ 4768  g++ 1388b.cpp
+ 4769  ./a.out
+ 4770  g++ 1388b.cpp
+ 4771  ./a.out
+ 4772  g++ 1388b.cpp
+ 4773  ./a.out
+ 4774  ls   -l
+ 4775  ls-l
+ 4776  ls -l
+ 4777  cd ..
+ 4778  uname -a
+ 4779  makefile
+ 4780  gcc makefile
+ 4781  gcc -g main.c prompt.c
+ 4782  ./a.out
+ 4783  gcc -g main.c prompt.c
+ 4784  ./a.out
+ 4785  make makefile
+ 4786  sudo apt install make
+ 4787  make makefile
+ 4788  cd Downloads/sem\ 3\ stuff
+ 4789  cd operating\ system\ and\ networks
+ 4790  cd 2019101083_Assignment2
+ 4791  ls
+ 4792  gcc -g main.c prompt.c
+ 4793  ./a.out
+ 4794  gcc -g main.c prompt.c
+ 4795  ./a.out
+ 4796  gcc -g main.c prompt.c
+ 4797  ./a.out
+ 4798  gcc -g main.c prompt.c
+ 4799  ./a.out
+ 4800  gcc -g main.c prompt.c
+ 4801  ./a.out
+ 4802  gcc -g main.c prompt.c
+ 4803  ./a.out
+ 4804  gcc -g main.c prompt.c
+ 4805  ./a.out
+ 4806  gcc -g main.c prompt.c
+ 4807  ./a.out
+ 4808  gcc -g main.c prompt.c
+ 4809  ./a.out
+ 4810  pwd
+ 4811  gcc -g main.c prompt.c
+ 4812  ./a.out
+ 4813  clear
+ 4814  ls -la
+ 4815  ls -l
+ 4816  ls -l -a
+ 4817  ls -a
+ 4818  man pwd
+ 4819  pwd -L
+ 4820  pwd -P
+ 4821  man pwd
+ 4822  echo harshit
+ 4823  echo harshit sharma
+ 4824  echo "harshit sharma"
+ 4825  gcc -g main.c prompt.c
+ 4826  ./a.out
+ 4827  gcc -g main.c prompt.c
+ 4828  ./a.out
+ 4829  gcc -g main.c prompt.c
+ 4830  ./a.out
+ 4831  gcc -g main.c prompt.c
+ 4832  ./a.out
+ 4833  gcc -g main.c prompt.c
+ 4834  ./a.out
+ 4835  gcc -g main.c prompt.c
+ 4836  ./a.out
+ 4837  gcc -g main.c prompt.c
+ 4838  ./a.out
+ 4839  gcc -g main.c prompt.c
+ 4840  ./a.out
+ 4841  gcc -g main.c prompt.c
+ 4842  ./a.out
+ 4843  gcc -g main.c prompt.c
+ 4844  ./a.out
+ 4845  gcc -g main.c prompt.c
+ 4846  ./a.out
+ 4847  gcc -g main.c prompt.c
+ 4848  ./a.out
+ 4849  gcc -g main.c prompt.c
+ 4850  ./a.out
+ 4851  gcc -g main.c prompt.c
+ 4852  ./a.out
+ 4853  gcc -g main.c prompt.c
+ 4854  ./a.out
+ 4855  gcc -g main.c prompt.c
+ 4856  ./a.out
+ 4857  PWD
+ 4858  pwd
+ 4859  gcc -g main.c prompt.c
+ 4860  ./a.out
+ 4861  gcc -g main.c prompt.c
+ 4862  ./a.out
+ 4863  cd Downloads/sem\ 3\ stuff
+ 4864  cd operating\ system\ and\ networks
+ 4865  cd 2019101083_Assignment2
+ 4866  git init
+ 4867  git remote add origin https://github.com/harry30225/Basic-Shell
+ 4868  git pull origin master
+ 4869  git push origin master
+ 4870  git push -u origin master
+ 4871  git add .
+ 4872  git commit -m "Just made the prompt,echo and pwd command. Still a long way to go."
+ 4873  git push origin master
+ 4874  cd Downloads/sem\ 3\ stuff
+ 4875  cd operating\ system\ and\ networks
+ 4876  cd 2019101083_Assignment2
+ 4877  gcc -g main.c prompt.c
+ 4878  ./a.out
+ 4879  gcc -g main.c prompt.c
+ 4880  ./a.out
+ 4881  gcc -g main.c prompt.c
+ 4882  ./a.out
+ 4883  gcc -g main.c prompt.c
+ 4884  ./a.out
+ 4885  gcc -g main.c prompt.c
+ 4886  ./a.out
+ 4887  gcc -g main.c prompt.c
+ 4888  ./a.out
+ 4889  rm a.out
+ 4890  git add .
+ 4891  git commit -m "Just added cd command. Made functions for cd and pwd command. Added ~ to command prompt for home directory."
+ 4892  git push origin master
+ 4893  gcc -g main.c prompt.c
+ 4894  ./a.out
+ 4895  cd Downloads/sem\ 3\ stuff
+ 4896  cd ~
+ 4897  gcc -g main.c prompt.c
+ 4898  ./a.out
+ 4899  rm a.out
+ 4900  git add .
+ 4901  git commit -m "Added cd ~ and home directory address."
+ 4902  git push origin master
+ 4903  gcc -g main.c prompt.c
+ 4904  ./a.out
+ 4905  ls
+ 4906  vim harshit
+ 4907  ls
+ 4908  ls - l
+ 4909  ls -l
+ 4910  ls                   -l                   -a
+ 4911  ls                -al
+ 4912  ls -l -a
+ 4913  ls ~
+ 4914  ls .
+ 4915  ls ..
+ 4916  clear
+ 4917  ls
+ 4918  ls -l
+ 4919  ls -a
+ 4920  ls -la
+ 4921  ls 2019101083_Assignment
+ 4922  ls ../2019101083_Assignment
+ 4923  ls ..
+ 4924  ls ~
+ 4925  ls -a -l
+ 4926  cd ..
+ 4927  ls -a -l 2019101083_Assignment2
+ 4928  cd 2019101083_Assignment2
+ 4929  ls ../2019101083_Assignment1 -l -a
+ 4930  gcc -g main.c prompt.c
+ 4931  ./a.out
+ 4932  ls
+ 4933  gcc -g main.c prompt.c
+ 4934  ./a.out
+ 4935  ls -A
+ 4936  ls -l
+ 4937  ls -L
+ 4938  ls -l
+ 4939  gcc -g main.c prompt.c
+ 4940  ./a.out
+ 4941  gcc -g main.c prompt.c
+ 4942  ./a.out
+ 4943  gcc -g main.c prompt.c
+ 4944  ./a.out
+ 4945  gcc -g main.c prompt.c
+ 4946  gcc -g main.c prompt.c ls.c
+ 4947  ./a.out
+ 4948  ls -lA
+ 4949  ls -Al
+ 4950  gcc -g main.c prompt.c ls.c
+ 4951  ./a.out
+ 4952  gcc -g main.c prompt.c ls.c
+ 4953  ./a.out
+ 4954  cd ..
+ 4955  ls -l 2019101083_Assignment1 -a 2019101083_Assignment2
+ 4956  ls -l 2019101083_Assignment1 2019101083_Assignment2
+ 4957  ls -a 2019101083_Assignment1 2019101083_Assignment2
+ 4958  ls  2019101083_Assignment1 2019101083_Assignment2
+ 4959  ls . ..
+ 4960  cd 2019101083_Assignment2
+ 4961  gcc -g main.c prompt.c ls.c
+ 4962  ./a.out
+ 4963  ls -l -al
+ 4964  gcc -g main.c prompt.c ls.c
+ 4965  ./a.out
+ 4966  gcc -g main.c prompt.c ls.c
+ 4967  ./a.out
+ 4968  gcc -g main.c prompt.c ls.c
+ 4969  ./a.out
+ 4970  gcc -g main.c prompt.c ls.c
+ 4971  ./a.out
+ 4972  rm a.out
+ 4973  git add .
+ 4974  git commit -m "Added ls.h, ls.c and checked working of ls with edge cases and imported everywhere. Updated makefile with ls.c ."
+ 4975  git push origin master
+ 4976  cd Downloads/sem\ 3\ stuff
+ 4977  cd operating\ system\ and\ networks
+ 4978  cd 2019101083_Assignment2
+ 4979  gcc -g main.c prompt.c ls.c
+ 4980  ./a.out
+ 4981  gcc -g main.c prompt.c ls.c
+ 4982  ./a.out
+ 4983  gcc -g main.c prompt.c ls.c
+ 4984  ./a.out
+ 4985  cd ~
+ 4986  sudo apt install emacs
+ 4987  cd Downloads/sem\ 3\ stuff
+ 4988  cd operating\ system\ and\ networks
+ 4989  cd 2019101083_Assignment2
+ 4990  gcc -g main.c prompt.c ls.c
+ 4991  ./a.out
+ 4992  gcc -g main.c prompt.c ls.c
+ 4993  ./a.out
+ 4994  gcc -g main.c prompt.c ls.c
+ 4995  ./a.out
+ 4996  gcc -g main.c prompt.c ls.c
+ 4997  ./a.out
+ 4998  gcc -g main.c prompt.c ls.c
+ 4999  ./a.out
+ 5000  gcc -g main.c prompt.c ls.c
+ 5001  ./a.out
+ 5002  gcc -g main.c prompt.c ls.c
+ 5003  ./a.out
+ 5004  gcc -g main.c prompt.c ls.c
+ 5005  ./a.out
+ 5006  gcc -g main.c prompt.c ls.c
+ 5007  ./a.out
+ 5008  gcc -g main.c prompt.c ls.c
+ 5009  ./a.out
+ 5010  gcc -g main.c prompt.c ls.c
+ 5011  ./a.out
+ 5012  rm a.out
+ 5013  git add .
+ 5014  git commit -m "Added system calls"
+ 5015  git push origin master
+ 5016  cd Downloads/sem\ 3\ stuff
+ 5017  cd operating\ system\ and\ networks
+ 5018  cd 2019101083_Assignment2
+ 5019  gcc -g main.c prompt.c ls.c
+ 5020  ./a.out
+ 5021  git commit -m "Updated system command"
+ 5022  rm a.out
+ 5023  git add .
+ 5024  git commit -m "Updated system command"
+ 5025  git push origin master
+ 5026  gcc -g main.c prompt.c ls.c
+ 5027  cd Downloads/sem\ 3\ stuff
+ 5028  cd operating\ system\ and\ networks
+ 5029  cd 2019101083_Assignment2
+ 5030  /proc/interrupts
+ 5031  man /proc/interrupts
+ 5032  ps -ef
+ 5033  /proc/7955/stat
+ 5034  clear
+ 5035  gcc -g main.c prompt.c ls.c systemcommand.c main.h
+ 5036  gcc -g main.c prompt.c ls.c systemcommand.c
+ 5037  ./a.out
+ 5038  gcc -g main.c prompt.c ls.c systemcommand.c
+ 5039  ./a.out
+ 5040  gcc -g main.c prompt.c ls.c systemcommand.c
+ 5041  ./a.out
+ 5042  gcc -g main.c prompt.c ls.c systemcommand.c
+ 5043  ./a.out
+ 5044  Q
+ 5045  clear
+ 5046  gcc -g main.c prompt.c ls.c systemcommand.c
+ 5047  ./a.out
+ 5048  gcc -g main.c prompt.c ls.c systemcommand.c
+ 5049  ./a.out
+ 5050  gcc -g main.c prompt.c ls.c systemcommand.c
+ 5051  clear
+ 5052  ./a.out
+ 5053  gcc -g main.c prompt.c ls.c systemcommand.c
+ 5054  ./a.out
+ 5055  clear
+ 5056  gcc -g main.c prompt.c ls.c systemcommand.c
+ 5057  ./a.out
+ 5058  gcc -g main.c prompt.c ls.c systemcommand.c
+ 5059  ./a.out
+ 5060  gcc -g main.c prompt.c ls.c systemcommand.c
+ 5061  ./a.out
+ 5062  gcc -g main.c prompt.c ls.c systemcommand.c
+ 5063  ./a.out
+ 5064  gcc -g main.c prompt.c ls.c systemcommand.c
+ 5065  ./a.out
+ 5066  gcc -g main.c prompt.c ls.c systemcommand.c
+ 5067  ./a.out
+ 5068  cd Downloads/sem\ 3\ stuff
+ 5069  cd operating\ system\ and\ networks
+ 5070  cd 2019101083_Assignment2
+ 5071  gcc -g main.c prompt.c ls.c systemcommand.c
+ 5072  ./a.out
+ 5073  gcc -g main.c prompt.c ls.c systemcommand.c
+ 5074  ./a.out
+ 5075  clear
+ 5076  gcc -g main.c prompt.c ls.c systemcommand.c
+ 5077  ./a.out
+ 5078  gcc -g main.c prompt.c ls.c systemcommand.c
+ 5079  ./a.out
+ 5080  gcc -g main.c prompt.c ls.c systemcommand.c
+ 5081  ./a.out
+ 5082  gcc -g main.c prompt.c ls.c systemcommand.c
+ 5083  ./a.out
+ 5084  ls -l ; pwd
+ 5085  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c
+ 5086  ./a.out
+ 5087  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c
+ 5088  ./a.out
+ 5089  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c
+ 5090  ./a.out
+ 5091  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c
+ 5092  ./a.out
+ 5093  git add .
+ 5094  git commit -m "Updated my entire program and made it more modular. Everything working fine except system background commands."
+ 5095  git push origin master
+ 5096  ./a.out
+ 5097  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c
+ 5098  ./a.out
+ 5099  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c
+ 5100  ./a.out
+ 5101  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c
+ 5102  ./a.out
+ 5103  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c
+ 5104  ./a.out
+ 5105  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c
+ 5106  ./a.out
+ 5107  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c
+ 5108  ./a.out
+ 5109  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c
+ 5110  ./a.out
+ 5111  pinfo
+ 5112  pinfo 777
+ 5113  sudo apt install pinfo
+ 5114  pinfo
+ 5115  cat /proc/1/status
+ 5116  cat /proc/434/stat
+ 5117  cat /proc/1/stat
+ 5118  cat /proc/7777/stat
+ 5119  pinfo 7777
+ 5120  man pinfo 7777
+ 5121  cat pinfo 7777
+ 5122  cat /proc/7777/stat
+ 5123  cat /proc/self/stat
+ 5124  clear
+ 5125  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5126  ./a.out
+ 5127  rm a.out
+ 5128  git add .
+ 5129  git commit -m "added pinfo but still stuck with background process."
+ 5130  git push origin master
+ 5131  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5132  ./a.out
+ 5133  rm a.out
+ 5134  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5135  ./a.out
+ 5136  cd Downloads/sem\ 3\ stuff
+ 5137  cd operating\ system\ and\ networks
+ 5138  cd 2019101083_Assignment2
+ 5139  git log
+ 5140  git status
+ 5141  df -h
+ 5142  df
+ 5143  man ls
+ 5144  man cd
+ 5145  man mv
+ 5146  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5147  ./a.out
+ 5148  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5149  ./a.out
+ 5150  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5151  ./a.out
+ 5152  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5153  ./a.out
+ 5154  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5155  ./a.out
+ 5156  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5157  ./a.out
+ 5158  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5159  ./a.out
+ 5160  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5161  ./a.out
+ 5162  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5163  ./a.out
+ 5164  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5165  ./a.out
+ 5166  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5167  ./a.out
+ 5168  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5169  ./a.out
+ 5170  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5171  ./a.out
+ 5172  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5173  ./a.out
+ 5174  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5175  clear
+ 5176  ./a.out
+ 5177  clear
+ 5178  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5179  ./a.out
+ 5180  seq 10 &
+ 5181  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5182  ./a.out
+ 5183  seq 100000 &
+ 5184  seq 10 &
+ 5185  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5186  ./a.out
+ 5187  cd Downloads/sem\ 3\ stuff
+ 5188  cd operating\ system\ and\ networks
+ 5189  cd 2019101083_Assignment2
+ 5190  ls
+ 5191  rm a.out
+ 5192  git add .
+ 5193  git commit -m "Finally Managed to do background process working fine with completion message."
+ 5194  git push origin master
+ 5195  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5196  ./a.out
+ 5197  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5198  ./a.out
+ 5199  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5200  ./a.out
+ 5201  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5202  ./a.out
+ 5203  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5204  ./a.out
+ 5205  seq 1000000 &
+ 5206  exec bash
+ 5207  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5208  clear
+ 5209  ./a.out
+ 5210  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5211  ./a.out
+ 5212  ls
+ 5213  ./a.out
+ 5214  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5215  ./a.out
+ 5216  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5217  ./a.out
+ 5218  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5219  ./a.out
+ 5220  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5221  ./a.out
+ 5222  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5223  ./a.out
+ 5224  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5225  ./a.out
+ 5226  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5227  ./a.out
+ 5228  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5229  ./a.out
+ 5230  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5231  ./a.out
+ 5232  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5233  ./a.out
+ 5234  rm a.out
+ 5235  git add .
+ 5236  git commit -m "Finally checked everything and put error handling and removed every warning."
+ 5237  git push origin master
+ 5238  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5239  ./a.out
+ 5240  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5241  ./a.out
+ 5242  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5243  ./a.out
+ 5244  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5245  ./a.out
+ 5246  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5247  ./a.out
+ 5248  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5249  ./a.out
+ 5250  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5251  ./a.out
+ 5252  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5253  ./a.out
+ 5254  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5255  ./a.out
+ 5256  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5257  ./a.out
+ 5258  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5259  ./a.out
+ 5260  git status
+ 5261  ./a.out
+ 5262  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5263  ./a.out
+ 5264  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5265  ./a.out
+ 5266  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5267  ./a.out
+ 5268  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5269  ./a.out
+ 5270  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5271  ./a.out
+ 5272  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5273  ./a.out
+ 5274  cd Downloads/sem\ 3\ stuff
+ 5275  cd operating\ system\ and\ networks
+ 5276  cd 2019101083_Assignment2
+ 5277  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5278  ./a.out
+ 5279  cd Downloads
+ 5280  cd Basic-Shell-ff01b380972b3ceaf4ab34d4adc07c962d64d1c3
+ 5281  ls
+ 5282  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5283  ./a.out
+ 5284  cd ..
+ 5285  cd sem\ 3\ stuff
+ 5286  cd operating\ system\ and\ networks
+ 5287  cd 2019101083_Assignment2
+ 5288  clear
+ 5289  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5290  ./a.out
+ 5291  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5292  ./a.out
+ 5293  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5294  ./a.out
+ 5295  cd Downloads/sem\ 3\ stuff
+ 5296  cd operating\ system\ and\ networks
+ 5297  cd 2019101083_Assignment2
+ 5298  rm a.out
+ 5299  git commit -m "Finally checked everything"
+ 5300  git push origin master
+ 5301  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5302  ./a.out
+ 5303  cd Downloads/sem\ 3\ stuff
+ 5304  cd operating\ system\ and\ networks
+ 5305  cd 2019101083_Assignment2
+ 5306  git add .
+ 5307  git commit -m "Finally checked everything"
+ 5308  git push origin master
+ 5309  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5310  ./a.out
+ 5311  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5312  ./a.out
+ 5313  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5314  ./a.out
+ 5315  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5316  ./a.out
+ 5317  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5318  ./a.out
+ 5319  git commit -m "Finally checked everything and took care of error handling."
+ 5320  git add .
+ 5321  git commit -m "Finally checked everything and took care of error handling."
+ 5322  git push origin master
+ 5323  ./a.out
+ 5324  cd Downloads/sem\ 3\ stuff
+ 5325  cd operating\ system\ and\ networks
+ 5326  cd 2019101083_Assignment2
+ 5327  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5328  ./a.out
+ 5329  cd Downloads/sem\ 3\ stuff
+ 5330  cd operating\ system\ and\ networks
+ 5331  cd 2019101083_Assignment2
+ 5332  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5333  ./a.out
+ 5334  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5335  ./a.out
+ 5336  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5337  ./a.out
+ 5338  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5339  ./a.out
+ 5340  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5341  ./a.out
+ 5342  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5343  ./a.out
+ 5344  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5345  ./a.out
+ 5346  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5347  ./a.out
+ 5348  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5349  ./a.out
+ 5350  rm a.out
+ 5351  git add .
+ 5352  git commit -m "Finally checked pinfo and corrected everything."
+ 5353  git push origin master
+ 5354  pstree
+ 5355  cd Documents
+ 5356  mkdir freshers_intro
+ 5357  cd freshers_intro
+ 5358  touch README.md
+ 5359  vim README.md
+ 5360  git init
+ 5361  git commit -m "first commit"
+ 5362  git add README.md
+ 5363  git commit -m "first commit"
+ 5364  git branch -M master
+ 5365  git remote add origin https://github.com/madebyping/freshers_intro.git
+ 5366  git push -u origin master
+ 5367  cd Documents
+ 5368  cd freshers_intro
+ 5369  git add .
+ 5370  git commit -m "Started the main container."
+ 5371  git push -u origin master
+ 5372  cd Documents
+ 5373  cd freshers_intro
+ 5374  git add .
+ 5375  git commit -m "Made everything like in the image of design. Please suggest changes and modifications."
+ 5376  git push -u origin master
+ 5377  exec bash
+ 5378  cd Documents
+ 5379  cd freshers_intro
+ 5380  git pull https://github.com/madebyping/freshers_intro.git master
+ 5381  google-chrome-stable html/html.index
+ 5382  cd Documents
+ 5383  cd freshers_intro
+ 5384  git pull https://github.com/madebyping/freshers_intro.git master
+ 5385  git add .
+ 5386  git commit -m "removed horizontal scroll, addded  after readme button, added instagramicon and croped the movie image to fit well."
+ 5387  git push -u origin master
+ 5388  cd Documents
+ 5389  cd freshers_intro
+ 5390  gimp ~/Documents/freshers_intro/img/vindhy-10.svg
+ 5391  git add .
+ 5392  git commit -m "Area for map." 
+ 5393  git push -u origin master
+ 5394  cd Downloads/sem\ 3\ stuff
+ 5395  cd operating\ system\ and\ networks
+ 5396  cd 2019101083_Assignment2
+ 5397  ls
+ 5398  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5399  ./a.out
+ 5400  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5401  ./a.out
+ 5402  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5403  ./a.out
+ 5404  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5405  ./a.out
+ 5406  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5407  ./a.out
+ 5408  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5409  ./a.out
+ 5410  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5411  ./a.out
+ 5412  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5413  ./a.out
+ 5414  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5415  ./a.out
+ 5416  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5417  ./a.out
+ 5418  rm a.out
+ 5419  git add .
+ 5420  git commit -m "One day before submission"
+ 5421  git push -u origin master
+ 5422  cd Downloads
+ 5423  ls
+ 5424  ./a.out
+ 5425  chmod +x ./a.out
+ 5426  ./a.out
+ 5427  cd ..
+ 5428  pwd
+ 5429  exec bash
+ 5430  ls
+ 5431  vim first.sh &
+ 5432  ps
+ 5433  cd ..
+ 5434  cd ~
+ 5435  ls -l
+ 5436  cd Downloads/sem\ 3\ stuff
+ 5437  cd operating\ system\ and\ networks
+ 5438  cd Downloads/sem\ 3\ stuff
+ 5439  cd operating\ system\ and\ networks
+ 5440  cd 2019101083_Assignment2
+ 5441  ./a.out
+ 5442  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5443  lss
+ 5444  ls
+ 5445  rm a.out
+ 5446  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5447  ./a.out
+ 5448  ls
+ 5449  ls -l
+ 5450  exec bash
+ 5451  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5452  ./a.out
+ 5453  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5454  ./a.out
+ 5455  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5456  ./a.out
+ 5457  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5458  ./a.out
+ 5459  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5460  ./a.out
+ 5461  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5462  ./a.out
+ 5463  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5464  ./a.out
+ 5465  ls -l -a
+ 5466  ls
+ 5467  ls -l
+ 5468  ls -l -a
+ 5469  ls -al
+ 5470  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5471  ls -l
+ 5472  ./a.out
+ 5473  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5474  ./a.out
+ 5475  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5476  ./a.out
+ 5477  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5478  ./a.out
+ 5479  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5480  ./a.out
+ 5481  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5482  ./a.out
+ 5483  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5484  ./a.out
+ 5485  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5486  ./a.out
+ 5487  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5488  ./a.out
+ 5489  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5490  ./a.out
+ 5491  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5492  ./a.out
+ 5493  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5494  ./a.out
+ 5495  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5496  ./a.out
+ 5497  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5498  ./a.out
+ 5499  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5500  ./a.out
+ 5501  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5502  ./a.out
+ 5503  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5504  ./a.out
+ 5505  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5506  ./a.out
+ 5507  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5508  ./a.out
+ 5509  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5510  ./a.out
+ 5511  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5512  ./a.out
+ 5513  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5514  ./a.out
+ 5515  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5516  ./a.out
+ 5517  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5518  ./a.out
+ 5519  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5520  ./a.out
+ 5521  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5522  ./a.out
+ 5523  exec bash
+ 5524  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5525  ./a.out
+ 5526  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5527  ./a.out
+ 5528  echo harshit sharma ; pwd
+ 5529  history
+ 5530  exec bash
+ 5531  s;fljlskf
+ 5532  history
+ 5533  cleat
+ 5534  clear
+ 5535  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5536  ./a.out
+ 5537  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5538  ./a.out
+ 5539  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5540  ./a.out
+ 5541  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5542  ./a.out
+ 5543  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5544  ./a.out
+ 5545  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5546  ./a.out
+ 5547  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5548  ./a.out
+ 5549  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5550  ./a.out
+ 5551  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5552  ./a.out
+ 5553  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5554  ./a.out
+ 5555  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5556  ./a.out
+ 5557  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5558  ./a.out
+ 5559  clear
+ 5560  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5561  ./a.out
+ 5562  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5563  ./a.out
+ 5564  rm a.out
+ 5565  rm history.txt
+ 5566  git add .
+ 5567  git commit -m "Assignment submission today"
+ 5568  git push -u origin master
+ 5569  cd 2019101083_Assignment2
+ 5570  cd Downloads/sem\ 3\ stuff
+ 5571  cd operating\ system\ and\ networks
+ 5572  cd 2019101083_Assignment2
+ 5573  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5574  ./a.out
+ 5575  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5576  clear
+ 5577  ./a.out
+ 5578  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5579  ./a.out
+ 5580  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c
+ 5581  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c
+ 5582  ./a.out
+ 5583  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c
+ 5584  ./a.out
+ 5585  rm a.out
+ 5586  git add .
+ 5587  ./a.out
+ 5588  git commit -m "History command working well"
+ 5589  git push -u origin master
+ 5590  shutdown now
+ 5591  cd Downloads/sem\ 3\ stuff
+ 5592  cd operating\ system\ and\ networks
+ 5593  cd 2019101083_Assignment2
+ 5594  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c
+ 5595  ./a.out
+ 5596  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c
+ 5597  ./a.out
+ 5598  rm a.out
+ 5599  git add .
+ 5600  git commit -m "README.md updated and final commit for assignment2"
+ 5601  git push -u origin master
+ 5602  cd Downloads/sem\ 3\ stuff
+ 5603  cd operating\ system\ and\ networks
+ 5604  cd 2019101083_assgn2
+ 5605  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c
+ 5606  ./a.out
+ 5607  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c
+ 5608  ./a.out
+ 5609  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c
+ 5610  ./a.out
+ 5611  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c
+ 5612  ./a.out
+ 5613  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c
+ 5614  ./a.out
+ 5615  rm a.out
+ 5616  git add .
+ 5617  git commit -m "Minor glitches in history command are taken care and assignment 2 submission done."
+ 5618  git push -u origin master
+ 5619  sudo snap install skype
+ 5620  sudo snap install Skype
+ 5621  snap store
+ 5622  cd Documents
+ 5623  mkdir SVG_map
+ 5624  cd SVG_map
+ 5625  git init
+ 5626  git add README.md
+ 5627  git remote add origin https://github.com/madebyping/SVG_map
+ 5628  git pull https://github.com/madebyping/SVG_map interactive_map
+ 5629  ls
+ 5630  git pull https://github.com/madebyping/SVG_map interactive_map
+ 5631  git checkout -b component_map
+ 5632  ls
+ 5633  git add .
+ 5634  git commit -m "Done with styling of component pages, suggest changes if any."
+ 5635  git push -u origin component_map
+ 5636  cd Documents
+ 5637  cd SVG_map
+ 5638  git add .
+ 5639  git commit -m "Removed extra style files and everything working fine. Added inline css where required."
+ 5640  git push -u origin component_map
+ 5641  git pull https://github.com/madebyping/SVG_map component_map
+ 5642  cd Documents
+ 5643  cd SVG_map
+ 5644  git branch master
+ 5645  git checkout master
+ 5646  git pull https://github.com/madebyping/SVG_map master
+ 5647  git pull https://github.com/madebyping/SVG_map component_map
+ 5648  git add .
+ 5649  git commit -m "Removed extra style files and everything working fine. Added inline css where required."
+ 5650  git pull https://github.com/madebyping/SVG_map master
+ 5651  git stash
+ 5652  git checkout master
+ 5653  cd ..
+ 5654  rm SVG_map
+ 5655  rm -rf SVG_map
+ 5656  mkdir SVG_map
+ 5657  cd SVG_map
+ 5658  git init
+ 5659  git add README.md
+ 5660  git remote add origin https://github.com/madebyping/SVG_map
+ 5661  git pull https://github.com/madebyping/SVG_map master
+ 5662  git add .
+ 5663  git commit -m "Removed extra style files and everything working fine. Added inline css where required."
+ 5664  git push -u origin master
+ 5665  cd ..
+ 5666  cd freshers_intro
+ 5667  git pull https://github.com/madebyping/freshers_intro master
+ 5668  cd Documents
+ 5669  cd SVG_map
+ 5670  git pull https://github.com/madebyping/SVG_map master
+ 5671  cd Documents
+ 5672  cd SVG_map
+ 5673  git pull https://github.com/madebyping/SVG_map master
+ 5674  git log
+ 5675  git status
+ 5676  git stash
+ 5677  git add .
+ 5678  git commit -m "Removed all component html pages and added popup modals for all svgs in index.html. Do check and suggest changes."
+ 5679  git push -u origin master
+ 5680  cd Documents
+ 5681  cd SVG_map
+ 5682  git add .
+ 5683  git commit -m "Added adminoffice.svg and corrected thub and adminoffice in modals."
+ 5684  git push -u origin master
+ 5685  cd Documents
+ 5686  cd SVG_map
+ 5687  git add .
+ 5688  git commit -m "Added Favicon and Ping! heading in index.html"
+ 5689  git push -u origin master
+ 5690  git add .
+ 5691  git commit -m "Final commit"
+ 5692  git push -u origin master
+ 5693  git add .
+ 5694  git commit -m "Final commit"
+ 5695  git push -u origin master
+ 5696  git add .
+ 5697  git commit -m "Final commit"
+ 5698  git push -u origin master
+ 5699  git add .
+ 5700  git commit -m "Some last time changes in map"
+ 5701  git push -u origin master
+ 5702  git pull https://github.com/madebyping/SVG_map master
+ 5703  git push -u origin master
+ 5704  git add .
+ 5705  git commit -m "Some last time changes in map"
+ 5706  git push -u origin master
+ 5707  cd Documents
+ 5708  cd SVG_map
+ 5709  git add .
+ 5710  git commit -m "Added the text for each building and for the main page of map."
+ 5711  git push -u origin master
+ 5712  cd Documents
+ 5713  cd freshers_intro
+ 5714  git pull https://github.com/madebyping/freshers_intro master
+ 5715  git add .
+ 5716  git commit -m "corrected z-index and position of btn"
+ 5717  git push -u origin master
+ 5718  git pull https://github.com/madebyping/freshers_intro master
+ 5719  git add .
+ 5720  git commit -m "corrected z-index and position of btn"
+ 5721  git status
+ 5722  git log
+ 5723  lscpu
+ 5724  mkdir scratch && cd scratch
+ 5725  wget https://download.docker.com/linux/ubuntu/dists/focal/pool/stable/amd64/containerd.io_1.2.13-2_amd64.deb
+ 5726  wget https://download.docker.com/linux/ubuntu/dists/focal/pool/stable/amd64/docker-ce-cli_19.03.9\~3-0\~ubuntu-focal_amd64.deb
+ 5727  wget https://download.docker.com/linux/ubuntu/dists/focal/pool/stable/amd64/docker-ce_19.03.9\~3-0\~ubuntu-focal_amd64.deb
+ 5728  sudo dpkg -i *.deb
+ 5729  sudo groupadd docker
+ 5730  sudo usermod -aG docker $USER
+ 5731  docker run hello-world
+ 5732  newgrp docker 
+ 5733  docker run hello-world
+ 5734  sudo apt-get update
+ 5735  sudo apt-get upgrade
+ 5736  mkdir storage_sql
+ 5737  docker ps
+ 5738  sudo systemctl start docker
+ 5739  docker ps
+ 5740  sudo service docker start
+ 5741  docker ps
+ 5742  docker run -p 5005:3306 --name learn_sql -v $PWD/storage_sql/:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=blahblah -d mysql:latest
+ 5743  docker run --help
+ 5744  systemctl --user start docker
+ 5745  systemctl --user enable docker
+ 5746  docker ps
+ 5747  sudo service docker start
+ 5748  docker run -p 5005:3306 --name learn_sql -v $PWD/storage_sql/:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=blahblah -d mysql:latest
+ 5749  sudo docker run -p 5005:3306 --name learn_sql -v $PWD/storage_sql/:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=blahblah -d mysql:latest
+ 5750  sudo docker ps
+ 5751  docker ps -a
+ 5752  sudo docker ps -a
+ 5753  sudo apt-get install mysql-client
+ 5754  mysql
+ 5755  sudo mysql
+ 5756  docker start 881ad36ab068
+ 5757  sudo docker start 881ad36ab068
+ 5758  sudo docker ps
+ 5759  mysql -h 127.0.0.1 -u root --port=5005 -p
+ 5760  sudo docker stop 881ad36ab068
+ 5761  cd Downloads/sem\ 3\ stuff
+ 5762  cd operating\ system\ and\ networks
+ 5763  cd 2019101083_assgn3
+ 5764  git init
+ 5765  git remote add origin https://github.com/harry30225/Basic-Shell
+ 5766  git pull https://github.com/harry30225/Basic-Shell master
+ 5767  ls
+ 5768  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c
+ 5769  ./a.out
+ 5770  ls
+ 5771  cat hihi > h1.txt hi.txt
+ 5772  touch h1.txt
+ 5773  touch hi.txt
+ 5774  cat hihi > h1.txt hi.txt
+ 5775  echo hihi > h1.txt hi.txt
+ 5776  cat h1.txt
+ 5777  cat hi.txt
+ 5778  rm h1.txt
+ 5779  rm hi.txt
+ 5780  ls
+ 5781  exec bash
+ 5782  rm a.out
+ 5783  ls
+ 5784  cd Downloads/sem\ 3\ stuff
+ 5785  cd operating\ system\ and\ networks
+ 5786  cd 2019101083_assgn3
+ 5787  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c
+ 5788  ./a.out
+ 5789  cd Downloads/sem\ 3\ stuff
+ 5790  cd operating\ system\ and\ networks
+ 5791  cd 2019101083_assgn3
+ 5792  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c
+ 5793  ./a.out
+ 5794  cd ..
+ 5795  pwd.txt
+ 5796  ls
+ 5797  rm pwd.txt
+ 5798  cd Downloads/sem\ 3\ stuff
+ 5799  cd operating\ system\ and\ networks
+ 5800  cd 2019101083_assgn3
+ 5801  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c
+ 5802  ./a.out
+ 5803  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c
+ 5804  ./a.out
+ 5805  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c
+ 5806  ./a.out
+ 5807  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c
+ 5808  ./a.out
+ 5809  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c
+ 5810  ./a.out
+ 5811  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c
+ 5812  ./a.out
+ 5813  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c
+ 5814  ./a.out
+ 5815  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c
+ 5816  ./a.out
+ 5817  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c
+ 5818  ./a.out
+ 5819  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c
+ 5820  ./a.out
+ 5821  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c
+ 5822  clear
+ 5823  ./a.out
+ 5824  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c
+ 5825  clear
+ 5826  echo hihi > hi.txt
+ 5827  ls
+ 5828  rm hi.txt
+ 5829  ./a.out
+ 5830  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c
+ 5831  ./a.out
+ 5832  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c
+ 5833  ./a.out
+ 5834  ls
+ 5835  rm a.out
+ 5836  rm hi.txt
+ 5837  git add .
+ 5838  git commit -m "Applied io redirection on echo,pwd and cd."
+ 5839  git push -u origin master
+ 5840  ls Documents -l -a
+ 5841  ls < Documents -l -a
+ 5842  ls > hi.txt
+ 5843  ls
+ 5844  vim hi.txt
+ 5845  rm hi.txt
+ 5846  exec bash
+ 5847  cd Downloads/sem\ 3\ stuff
+ 5848  cd operating\ system\ and\ networks
+ 5849  cd 2019101083_assgn3
+ 5850  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c
+ 5851  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5852  ./a.out
+ 5853  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5854  ls
+ 5855  ./a.out
+ 5856  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5857  ./a.out
+ 5858  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5859  ./a.out
+ 5860  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5861  ./a.out
+ 5862  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5863  ./a.out
+ 5864  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5865  ./a.out
+ 5866  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5867  ./a.out
+ 5868  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5869  ./a.out
+ 5870  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5871  ./a.out
+ 5872  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5873  ./a.out
+ 5874  rm h.txt
+ 5875  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5876  ./a.out
+ 5877  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5878  ./a.out
+ 5879  exec bash
+ 5880  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5881  ./a.out
+ 5882  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5883  ./a.out
+ 5884  git add .
+ 5885  git commit -m "Applied basic io redirection."
+ 5886  git push -u origin master
+ 5887  cd Downloads/sem\ 3\ stuff
+ 5888  cd operating\ system\ and\ networks
+ 5889  cd 2019101083_assgn3
+ 5890  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5891  ./a.out
+ 5892  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5893  ./a.out
+ 5894  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5895  ./a.out
+ 5896  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5897  ./a.out
+ 5898  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5899  ./a.out
+ 5900  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5901  ./a.out
+ 5902  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5903  ./a.out
+ 5904  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5905  ./a.out
+ 5906  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5907  ./a.out
+ 5908  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5909  ./a.out
+ 5910  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5911  ./a.out
+ 5912  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5913  ./a.out
+ 5914  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5915  ./a.out
+ 5916  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5917  ./a.out
+ 5918  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5919  ./a.out
+ 5920  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5921  ./a.out
+ 5922  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5923  ./a.out
+ 5924  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5925  ./a.out
+ 5926  git add .
+ 5927  git commit -m "Applied io and piping"
+ 5928  git push -u origin master
+ 5929  cd Downloads/sem\ 3\ stuff
+ 5930  cd operating\ system\ and\ networks
+ 5931  cd 2019101083_assgn3
+ 5932  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5933  ./a.out
+ 5934  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5935  ./a.out
+ 5936  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5937  ./a.out
+ 5938  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5939  ./a.out
+ 5940  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5941  ./a.out
+ 5942  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5943  ./a.out
+ 5944  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5945  ./a.out
+ 5946  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5947  ./a.out
+ 5948  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5949  ./a.out
+ 5950  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5951  ./a.out
+ 5952  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5953  ./a.out
+ 5954  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5955  ./a.out
+ 5956  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5957  ./a.out
+ 5958  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5959  ./a.out
+ 5960  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5961  ./a.out
+ 5962  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5963  ./a.out
+ 5964  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5965  ./a.out
+ 5966  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5967  ./a.out
+ 5968  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5969  ./a.out
+ 5970  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5971  ./a.out
+ 5972  exec bash
+ 5973  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5974  ./a.out
+ 5975  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5976  ./a.out
+ 5977  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5978  ./a.out
+ 5979  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5980  ./a.out
+ 5981  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5982  ./a.out
+ 5983  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5984  ./a.out
+ 5985  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5986  ./a.out
+ 5987  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5988  ./a.out
+ 5989  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5990  ./a.out
+ 5991  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5992  ./a.out
+ 5993  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5994  ./a.out
+ 5995  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5996  ./a.out
+ 5997  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 5998  ./a.out
+ 5999  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6000  ./a.out
+ 6001  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6002  ./a.out
+ 6003  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6004  ./a.out
+ 6005  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6006  ./a.out
+ 6007  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6008  ./a.out
+ 6009  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6010  ./a.out
+ 6011  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6012  ./a.out
+ 6013  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6014  ./a.out
+ 6015  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6016  ./a.out
+ 6017  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6018  ./a.out
+ 6019  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6020  ./a.out
+ 6021  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6022  ./a.out
+ 6023  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6024  ./a.out
+ 6025  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6026  ./a.out
+ 6027  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6028  ./a.out
+ 6029  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6030  ./a.out
+ 6031  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6032  ./a.out
+ 6033  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6034  ./a.out
+ 6035  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6036  ./a.out
+ 6037  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6038  ./a.out
+ 6039  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6040  ./a.out
+ 6041  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6042  ./a.out
+ 6043  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6044  ./a.out
+ 6045  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6046  ./a.out
+ 6047  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6048  ./a.out
+ 6049  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6050  ./a.out
+ 6051  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6052  ./a.out
+ 6053  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6054  ./a.out
+ 6055  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6056  ./a.out
+ 6057  git add .
+ 6058  git commit -m "Applied piping with redirection"
+ 6059  git push -u origin master
+ 6060  shutdown now
+ 6061  setenv
+ 6062  exec bash
+ 6063  cd Downloads/sem\ 3\ stuff
+ 6064  cd operating\ system\ and\ networks
+ 6065  cd 2019101083_assgn3
+ 6066  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6067  ./a.out
+ 6068  ls -l
+ 6069  cd Downloads/sem\ 3\ stuff
+ 6070  cd operating\ system\ and\ networks
+ 6071  cd 2019101083_assgn3
+ 6072  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6073  ./a.out
+ 6074  clear
+ 6075  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6076  ./a.out
+ 6077  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6078  ./a.out
+ 6079  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6080  ./a.out
+ 6081  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6082  ./a.out
+ 6083  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6084  ./a.out
+ 6085  clear
+ 6086  cd Downloads/sem\ 3\ stuff
+ 6087  cd operating\ system\ and\ networks
+ 6088  cd 2019101083_assgn3
+ 6089  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6090  ./a.out
+ 6091  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6092  ./a.out
+ 6093  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6094  ./a.out
+ 6095  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6096  ./a.out
+ 6097  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6098  ./a.out
+ 6099  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6100  ./a.out
+ 6101  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6102  ./a.out
+ 6103  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6104  ./a.out
+ 6105  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6106  ./a.out
+ 6107  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6108  ./a.out
+ 6109  cd Downloads/sem\ 3\ stuff
+ 6110  cd 2019101083_assgn3
+ 6111  cd operating\ system\ and\ networks
+ 6112  cd 2019101083_assgn3
+ 6113  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6114  ./a.out
+ 6115  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6116  ./a.out
+ 6117  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6118  ./a.out
+ 6119  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6120  ./a.out
+ 6121  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6122  ./a.out
+ 6123  cd Downloads/sem\ 3\ stuff
+ 6124  cd operating\ system\ and\ networks
+ 6125  cd 2019101083_assgn3
+ 6126  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6127  ./a.out
+ 6128  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6129  ./a.out
+ 6130  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6131  ./a.out
+ 6132  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6133  ./a.out
+ 6134  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6135  ./a.out
+ 6136  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6137  ./a.out
+ 6138  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6139  ./a.out
+ 6140  cd Downloads/sem\ 3\ stuff
+ 6141  cd operating\ system\ and\ networks
+ 6142  cd 2019101083_assgn3
+ 6143  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c
+ 6144  ./a.out
+ 6145  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c
+ 6146  ./a.out
+ 6147  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c
+ 6148  ./a.out
+ 6149  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c
+ 6150  ./a.out
+ 6151  clear
+ 6152  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c
+ 6153  ./a.out
+ 6154  clear
+ 6155  cd ~
+ 6156  vim 1.c
+ 6157  rm 1.c
+ 6158  cd Downloads/sem\ 3\ stuff
+ 6159  cd operating\ system\ and\ networks
+ 6160  cd 2019101083_assgn3
+ 6161  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c
+ 6162  ./a.out
+ 6163  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c
+ 6164  ./a.out
+ 6165  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c
+ 6166  ./a.out
+ 6167  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c
+ 6168  ./a.out
+ 6169  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c
+ 6170  ./a.out
+ 6171  cd Downloads/sem\ 3\ stuff
+ 6172  cd operating\ system\ and\ networks
+ 6173  cd 2019101083_assgn3
+ 6174  git add .
+ 6175  git commit -m "Applied setenv,unsetenv,jobs,kjobs and overkill."
+ 6176  git push -u origin master
+ 6177  cd Downloads/sem\ 3\ stuff
+ 6178  cd operating\ system\ and\ networks
+ 6179  cd 2019101083_assgn3
+ 6180  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c
+ 6181  ./a.out
+ 6182  ./a.out &
+ 6183  jobs
+ 6184  overkill
+ 6185  kill ./a.out
+ 6186  cd Downloads/sem\ 3\ stuff
+ 6187  sleep 100 &
+ 6188  jobs
+ 6189  cd 2019101083_assgn3
+ 6190  cd operating\ system\ and\ networks
+ 6191  cd 2019101083_assgn3
+ 6192  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c
+ 6193  ./a.out 
+ 6194  cd Downloads/sem\ 3\ stuff
+ 6195  cd operating\ system\ and\ networks
+ 6196  cd 2019101083_assgn3
+ 6197  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c
+ 6198  ./a.out 
+ 6199  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c
+ 6200  ./a.out 
+ 6201  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c
+ 6202  ./a.out 
+ 6203  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c
+ 6204  clear
+ 6205  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c
+ 6206  ./a.out 
+ 6207  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c
+ 6208  ./a.out 
+ 6209  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c
+ 6210  ./a.out 
+ 6211  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c
+ 6212  ./a.out 
+ 6213  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c
+ 6214  ./a.out 
+ 6215  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c
+ 6216  ./a.out 
+ 6217  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c
+ 6218  ./a.out 
+ 6219  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c
+ 6220  ./a.out 
+ 6221  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c
+ 6222  ./a.out 
+ 6223  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c
+ 6224  ./a.out 
+ 6225  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c
+ 6226  ./a.out 
+ 6227  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c
+ 6228  ./a.out 
+ 6229  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c
+ 6230  ./a.out 
+ 6231  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c
+ 6232  ./a.out 
+ 6233  cd Downloads
+ 6234  vlc Riverdale.US.S01E07.720p.English.Esubs.MoviesFlixPro.in.mkv
+ 6235  gedit
+ 6236  gedit &
+ 6237  overkill
+ 6238  kill -9 6795
+ 6239  shutdown now
+ 6240  cd Downloads/sem\ 3\ stuff
+ 6241  cd operating\ system\ and\ networks
+ 6242  cd 2019101083_assgn3
+ 6243  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c
+ 6244  ./a.out 
+ 6245  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c
+ 6246  ./a.out 
+ 6247  cd ~
+ 6248  ls
+ 6249  cat < iot.docx &
+ 6250  cat < Important.txt &
+ 6251  jobs
+ 6252  sleep 500 &
+ 6253  jobs
+ 6254  jobs &
+ 6255  jobs
+ 6256  kill -9 6151
+ 6257  cd Videos
+ 6258  ls
+ 6259  cd riverdale
+ 6260  mkdir 's 2'
+ 6261  ls
+ 6262  cd s\ 2
+ 6263  ls
+ 6264  cd .. && mkdir s\ 1
+ 6265  cd s\ 1
+ 6266  ls
+ 6267  vlc Riverdale.US.S01E07.720p.English.Esubs.MoviesFlixPro.in.mkv
+ 6268  cd Downloads/sem\ 3\ stuff
+ 6269  cd operating\ system\ and\ networks
+ 6270  cd 2019101083_assgn3
+ 6271  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c
+ 6272  ./a.out 
+ 6273  sleep 500 &
+ 6274  jobs &
+ 6275  jobs
+ 6276  kill -9 15239
+ 6277  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c
+ 6278  ./a.out 
+ 6279  history &
+ 6280  jobs
+ 6281  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c
+ 6282  ./a.out 
+ 6283  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c
+ 6284  ./a.out 
+ 6285  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c
+ 6286  ./a.out 
+ 6287  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c
+ 6288  ./a.out 
+ 6289  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c
+ 6290  ./a.out 
+ 6291  cd Downloads/sem\ 3\ stuff
+ 6292  cd operating\ system\ and\ networks
+ 6293  cd 2019101083_assgn3
+ 6294  shutdown now
+ 6295  cd Downloads/sem\ 3\ stuff
+ 6296  cd operating\ system\ and\ networks
+ 6297  cd 2019101083_assgn3
+ 6298  echo < his.txt
+ 6299  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c
+ 6300  ./a.out 
+ 6301  echo < history.txt
+ 6302  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c
+ 6303  ./a.out 
+ 6304  cd Downloads/sem\ 3\ stuff
+ 6305  cd operating\ system\ and\ networks
+ 6306  cd 2019101083_assgn3
+ 6307  vim 1.c
+ 6308  gcc 1.c -o test
+ 6309  ls
+ 6310  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c
+ 6311  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c bgfg.c
+ 6312  ./a.out 
+ 6313  ls
+ 6314  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c bgfg.c
+ 6315  ./a.out 
+ 6316  git add .
+ 6317  git commit -m "Made fg,bg command."
+ 6318  git push -u origin master
+ 6319  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c bgfg.c
+ 6320  ./a.out 
+ 6321  cd Downloads/sem\ 3\ stuff
+ 6322  cd operating\ system\ and\ networks
+ 6323  cd 2019101083_assgn3
+ 6324  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c bgfg.c
+ 6325  ./a.out 
+ 6326  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c bgfg.c
+ 6327  ./a.out 
+ 6328  clear
+ 6329  cd Downloads/sem\ 3\ stuff
+ 6330  cd operating\ system\ and\ networks
+ 6331  cd 2019101083_assgn3
+ 6332  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c bgfg.c
+ 6333  ./a.out 
+ 6334  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c bgfg.c
+ 6335  ./a.out 
+ 6336  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c bgfg.c
+ 6337  ./a.out 
+ 6338  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c bgfg.c
+ 6339  ./a.out 
+ 6340  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c bgfg.c
+ 6341  clear
+ 6342  ./a.out 
+ 6343  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c bgfg.c
+ 6344  ./a.out 
+ 6345  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c bgfg.c
+ 6346  ./a.out 
+ 6347  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c bgfg.c
+ 6348  ./a.out 
+ 6349  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c bgfg.c
+ 6350  ./a.out 
+ 6351  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c bgfg.c
+ 6352  ./a.out 
+ 6353  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c bgfg.c
+ 6354  ./a.out 
+ 6355  cd Downloads/sem\ 3\ stuff
+ 6356  cd operating\ system\ and\ networks
+ 6357  cd 2019101083_assgn3
+ 6358  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c bgfg.c
+ 6359  ./a.out 
+ 6360  clear
+ 6361  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c bgfg.c
+ 6362  ./a.out 
+ 6363  cd Downloads/sem\ 3\ stuff
+ 6364  cd operating\ system\ and\ networks
+ 6365  cd 2019101083_assgn3
+ 6366  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c bgfg.c
+ 6367  ./a.out 
+ 6368  clear
+ 6369  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c bgfg.c
+ 6370  ./a.out 
+ 6371  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c bgfg.c
+ 6372  ./a.out 
+ 6373  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c bgfg.c
+ 6374  clear
+ 6375  ./a.out 
+ 6376  clear
+ 6377  kill -9 6830
+ 6378  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c bgfg.c
+ 6379  ./a.out 
+ 6380  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c bgfg.c
+ 6381  ./a.out 
+ 6382  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c bgfg.c
+ 6383  ./a.out 
+ 6384  git add .
+ 6385  git commit -m "Made all user defined commands and added files for signal handling."
+ 6386  git push -u origin master
+ 6387  cd Downloads/sem\ 3\ stuff
+ 6388  cd operating\ system\ and\ networks
+ 6389  cd 2019101083_assgn3
+ 6390  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c bgfg.c
+ 6391  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c bgfg.c signalhandler.c
+ 6392  ./a.out 
+ 6393  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c bgfg.c signalhandler.c
+ 6394  ./a.out 
+ 6395  clear
+ 6396  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c bgfg.c signalhandler.c
+ 6397  ./a.out 
+ 6398  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c bgfg.c signalhandler.c
+ 6399  ./a.out 
+ 6400  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c bgfg.c signalhandler.c
+ 6401  ./a.out 
+ 6402  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c bgfg.c signalhandler.c
+ 6403  ./a.out 
+ 6404  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c bgfg.c signalhandler.c
+ 6405  ./a.out 
+ 6406  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c bgfg.c signalhandler.c
+ 6407  clear
+ 6408  ./a.out 
+ 6409  git add .
+ 6410  git commit -m "Signal handling done, bugs fixation left. "
+ 6411  git push -u origin master
+ 6412  cd Downloads
+ 6413  ls
+ 6414  mysql -h 127.0.0.1 -u root -p --port=5005<COMPANY.sql
+ 6415  sudo mysql server
+ 6416  sudo myssql
+ 6417  sudo mysql
+ 6418  sudo docker ps
+ 6419  mysql -h 127.0.0.1 -u root -p --port=5005<COMPANY.sql
+ 6420  /etc/init.d/mysql status
+ 6421  mysql -h 127.0.0.1 -u root -p --port=5005<COMPANY.sql
+ 6422  docker ps -a
+ 6423  history | grep docker
+ 6424  sudo service docker start
+ 6425  docker ps
+ 6426  mysql -h 127.0.0.1 -u root -p --port=5005<COMPANY.sql
+ 6427  mkdir storage_sql
+ 6428  sudo docker run -p 5005:3306 --name learn_sql -v $PWD/storage_sql/:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=blahblah -d mysql:latest
+ 6429  sudo docker run -p 5005:3306 --name company_sql -v $PWD/storage_sql/:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=blahblah -d mysql:latest
+ 6430  sudo docker ps
+ 6431  sudo docker start 5d3984dd750d
+ 6432  mysql -h 127.0.0.1 -u root -p --port=5005<COMPANY.sql
+ 6433  sudo mysql -h 127.0.0.1 -u root -p --port=5005<COMPANY.sql
+ 6434  cd Downloads
+ 6435  history | grep mysql
+ 6436  history | grep docker
+ 6437  sudo service docker start
+ 6438  docker ps
+ 6439  sudo docker run -p 5505:3306 --name company_sql -v $PWD/storage_sql/:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=blahblah -d mysql:latest
+ 6440  rm storage_sql
+ 6441  rm -rf storage_sql
+ 6442  mkdir storage_sql
+ 6443  sudo docker run -p 5505:3306 --name company_sql -v $PWD/storage_sql/:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=blahblah -d mysql:latest
+ 6444  cd Downloads
+ 6445  sudo docker container ls -a
+ 6446  sudo docker container stop 5d3984dd750d 
+ 6447  sudo docker container ls -a
+ 6448  sudo docker container rm 5d3984dd750d 
+ 6449  sudo docker container ls -a
+ 6450  sudo docker container rm 881ad36ab068
+ 6451  sudo docker container ls -a
+ 6452  cd Downloads
+ 6453  history | grep docker
+ 6454  sudo service docker start
+ 6455  sudo docker ps
+ 6456  ls
+ 6457  rm -rf storage_sql
+ 6458  ls
+ 6459  mkdir storage_sql
+ 6460  sudo docker run -p 5505:3306 --name company_sql -v $PWD/storage_sql/:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=blahblah -d mysql:latest
+ 6461  sudo docker ps
+ 6462  mysql -h 127.0.0.1 -u root -p --port=5005<COMPANY.sql
+ 6463  sudo service mysql restart
+ 6464  mysql -h 127.0.0.1 -u root -p --port=5505<COMPANY.sql
+ 6465  sudo docker container ls -a
+ 6466  sudo docker start 9f1e20775f6c 
+ 6467  mysql -h 127.0.0.1 -u root -p --port=5505<COMPANY.sql
+ 6468  mysql
+ 6469  sudo mysql
+ 6470  sudo mysql -h 127.0.0.1 -u root -p --port=5505<COMPANY.sql
+ 6471  sudo docker container ls -a
+ 6472  history | grep mysql
+ 6473  mysql -h 127.0.0.1 -u root --port=5505 -p
+ 6474  mysql -h 127.0.0.1 -u root -p --port=5505<COMPANY.sql 
+ 6475  mysql -h 127.0.0.1 -u root --port=5505 -p
+ 6476  pip install pymysql
+ 6477  pip install PyMySQL
+ 6478  docker ps -a
+ 6479  sudo docker stop 9f1e20775fc
+ 6480  sudo docker stop 9f1e20775f6c
+ 6481  docker ps -a
+ 6482  cd Downloads/sem\ 3\ stuff
+ 6483  cd operating\ system\ and\ networks
+ 6484  cd 2019101083_assgn3
+ 6485  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c bgfg.c signalhandler.c
+ 6486  ./a.out 
+ 6487  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c bgfg.c signalhandler.c
+ 6488  ./a.out 
+ 6489  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c bgfg.c signalhandler.c
+ 6490  ./a.out 
+ 6491  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c bgfg.c signalhandler.c
+ 6492  ./a.out 
+ 6493  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c bgfg.c signalhandler.c
+ 6494  clear
+ 6495  ./a.out 
+ 6496  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c bgfg.c signalhandler.c
+ 6497  ./a.out 
+ 6498  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c bgfg.c signalhandler.c
+ 6499  ./a.out 
+ 6500  gcc -g main.c prompt.c ls.c systemcommand.c generalcommand.c takeinput.c pinfo.c history.c io.c piping.c jobs.c bgfg.c signalhandler.c
+ 6501  ./a.out 
+ 6502  rm a.out
+ 6503  rm his.txt
+ 6504  git add .
+ 6505  git commit -m "Updated README and final submission"
+ 6506  git push -u origin master
+ 6507  cd ..
+ 6508  tar -zcvf tar-2019101083_assgn3.tar.gz 2019101083_assgn3
+ 6509  ls
+ 6510  mkdir storage_sql
+ 6511  rm -rf storage_sql
+ 6512  mkdir storage_sql
+ 6513  sudo docker ps -a
+ 6514  sudo service docker start
+ 6515  sudo service mysql restart
+ 6516  history | grep docker
+ 6517  sudo docker run -p 5505:3306 --name practice_sql -v $PWD/storage_sql/:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=blahblah -d mysql:latest
+ 6518  sudo docker ps
+ 6519  sudo docker start aefc543cbcf9
+ 6520  sudo docker ps -a
+ 6521  history | grep mysql
+ 6522  mysql -h 127.0.0.1 -u root --port=5505 -p
+ 6523  sudo docker ps -a
+ 6524  mysql -h 127.0.0.1 -u root --port=5505 -p
+ 6525  sudo service mysql restart
+ 6526  mysql -h 127.0.0.1 -u root --port=5505 -p
+ 6527  mysql
+ 6528  sudo mysql -h 127.0.0.1 -u root --port=5505 -p
+ 6529  mysql -h 127.0.0.1 -u root --port=5505 -p
+ 6530  mysql
+ 6531  sudo mysql
+ 6532  mysql -h 127.0.0.1 -u root --port=5505 -p
+ 6533  overkill
+ 6534  kill -9 7460
+ 6535  mysql -h 127.0.0.1 -u root --port=5505 -p
+ 6536  gedit Noobies.txt
+ 6537  docker ps -a
+ 6538  docker stop aefc543cbcf9
+ 6539  docker ps -a
+ 6540  sudo service docker start
+ 6541  sudo docker ps -a
+ 6542  sudo docker start aefc543cbcf9
+ 6543  docker ps -a
+ 6544  sudo mysql
+ 6545  mysql -h 127.0.0.1 -u root --port=5505 -p
+ 6546  docker stop aefc543cbcf9
+ 6547  docker ps -a
+ 6548  sudo service docker start
+ 6549  sudo docker start aefc543cbcf9
+ 6550  docker ps -a
+ 6551  sudo mysql
+ 6552  mysql -h 127.0.0.1 -u root --port=5505 -p
+ 6553  docker ps -a
+ 6554  sudo mysql
+ 6555  mysql -h 127.0.0.1 -u root --port=5505 -p
+ 6556  docker stop aefc543cbcf9
+ 6557  cd Documents
+ 6558  mkdir hacktoberfest2020 && cd hacktoberfest2020
+ 6559  git clone https://github.com/harry30225/Hacktoberfest2020-HTML-CSS-WEB
+ 6560  ls
+ 6561  cd Hacktoberfest2020-HTML-CSS-WEB
+ 6562  git stash
+ 6563  mkdir animated_heading
+ 6564  git checkout -b Animated_heading
+ 6565  git add .
+ 6566  git commit -m "Added css stylesheet, index.html for animated heading."
+ 6567  git push -u origin Animated_heading
+ 6568  cd Documents
+ 6569  cd hacktoberfest2020
+ 6570  git clone https://github.com/harry30225/hacktoberfest2020
+ 6571  cd hacktoberfest2020
+ 6572  ls
+ 6573  git add .
+ 6574  git commit -m "Added a C program to reverse contents of one file into another."
+ 6575  git push -u origin master
+ 6576  cd ..
+ 6577  git clone https://github.com/harry30225/Hacktoberfest2020-1
+ 6578  cd Hacktoberfest2020-1
+ 6579  git add .
+ 6580  git commit -m "Added river crossing game made in python."
+ 6581  git push -u origin master
+ 6582  shutdown now
+ 6583  sudo mysql
+ 6584  mysql
+ 6585  sudo mysql
+ 6586  sudo service docker start
+ 6587  docker ps -a
+ 6588  docker start aefc543cbcf9
+ 6589  docker ps -a
+ 6590  sudo mysql
+ 6591  mysql -h 127.0.0.1 -u root --port=5505 -p
+ 6592  docker ps -a
+ 6593  docker stop aefc543cbcf9
+ 6594  cd Documents
+ 6595  cd hacktoberfest2020
+ 6596  git clone https://github.com/harry30225/emojidiv
+ 6597  cd emojidiv
+ 6598  ls
+ 6599  git stash
+ 6600  git stasj
+ 6601  git stash
+ 6602  cd ..
+ 6603  rm -rf emojidiv
+ 6604  git clone https://github.com/harry30225/Hack-the-October2020/tree/master/Algorithms
+ 6605  git clone https://github.com/harry30225/Hack-the-October2020
+ 6606  cd Hack-the-October2020
+ 6607  cd Algorithms
+ 6608  mkdir file_handling
+ 6609  git add .
+ 6610  git commit -m "Added file_handling program and wrote a C code to check user,group and organisation permissions."
+ 6611  git push -u origin master
+ 6612  git add .
+ 6613  git commit -m "Added Mergesort.c"
+ 6614  git push -u origin master
+ 6615  cd Documents
+ 6616  cd hacktoberfest2020
+ 6617  git clone https://github.com/harry30225/Hacktoberfest2020-2
+ 6618  cd Hacktoberfest2020-2
+ 6619  git add .
+ 6620  git commit -m "Added MergeSort.c"
+ 6621  git push -u origin main
+ 6622  shutdown now
+ 6623  cd Downloads/sem\ 3\ stuff
+ 6624  cd operating\ system\ and\ networks
+ 6625  cd 2019101083_assgn4
+ 6626  gcc -g Q1.c
+ 6627  ./a.out 
+ 6628  gcc Q1.c
+ 6629  ./a.out 
+ 6630  google-chrome-stable
+ 6631  sudo apt-get update google-chrome-stable
+ 6632  google-chrome
+ 6633  google-chrome --disable-gpu
+ 6634  shutdown now
+ 6635  git init
+ 6636  npm init
+ 6637  npm i express express--validator bcryptjs config gravatar jsonwebtoken mongoose request 
+ 6638  npm i express express-validator bcryptjs config gravatar jsonwebtoken mongoose request 
+ 6639  npm i -D nodemon concurrently 
+ 6640  clear
+ 6641  exit
+ 6642  npm start
+ 6643  git add .
+ 6644  git commit -m "Initial Setups."
+ 6645  history
+ 6646  exit
+ 6647  npm start
+ 6648  npm run server
+ 6649  npm start
+ 6650  npm run server
+ 6651  npm start
+ 6652  git add .
+ 6653  git commit -m "Connected Database "
+ 6654  npm start
+ 6655  cd Downloads/sem\ 3\ stuff
+ 6656  cd operating\ system\ and\ networks
+ 6657  cd 2019101083_assgn4
+ 6658  cd Q1
+ 6659  vim README_Q1.md
+ 6660  npm run server
+ 6661  npm start
+ 6662  npm run server
+ 6663  npm start
+ 6664  exit
+ 6665  npm start
+ 6666  exit
+ 6667  cd Documents
+ 6668  cd DevConnector
+ 6669  npm start
+ 6670  npm install
+ 6671  npm update
+ 6672  npm start
+ 6673  npm install
+ 6674  npm update
+ 6675  npm start
+ 6676  cd Documents
+ 6677  cd DevConnector
+ 6678  npm start
+ 6679  npm run server
+ 6680  cd Dowloads
+ 6681  cd Downloads
+ 6682  cd Telegram\ Desktop
+ 6683  cd 2018101025
+ 6684  cd Q1
+ 6685  ls
+ 6686  gcc Q1.c
+ 6687  gcc -lpthread Q1.c
+ 6688  cd ..
+ 6689  cd Q2
+ 6690  gcc Q2.c -lpthread
+ 6691  ./a.out 
+ 6692  kill firefox
+ 6693  jobs
+ 6694  cd Downloads/sem\ 3\ stuff
+ 6695  cd operating\ system\ and\ networks
+ 6696  cd 2019101083_assgn4
+ 6697  cd Q2
+ 6698  gcc Q2.c -lpthread
+ 6699  ./a.out 
+ 6700  gcc Q2.c -lpthread
+ 6701  ./a.out 
+ 6702  cd Downloads/sem\ 3\ stuff
+ 6703  cd operating\ system\ and\ networks
+ 6704  cd 2019101083_assgn4
+ 6705  cd Q2
+ 6706  gcc Q2.c -lpthread
+ 6707  ./a.out 
+ 6708  gcc Q2.c -lpthread
+ 6709  ./a.out 
+ 6710  gcc Q2.c -lpthread
+ 6711  ./a.out 
+ 6712  gcc Q2.c -lpthread
+ 6713  ./a.out 
+ 6714  gcc Q2.c -lpthread
+ 6715  ./a.out 
+ 6716  gcc Q2.c -lpthread
+ 6717  ./a.out 
+ 6718  gcc Q2.c -lpthread
+ 6719  ./a.out 
+ 6720  gcc Q2.c -lpthread
+ 6721  ./a.out 
+ 6722  gcc Q2.c -lpthread
+ 6723  ./a.out 
+ 6724  gcc Q2.c -lpthread
+ 6725  ./a.out 
+ 6726  gcc Q2.c -lpthread
+ 6727  ./a.out 
+ 6728  gcc Q2.c -lpthread
+ 6729  ./a.out 
+ 6730  gcc Q1.c
+ 6731  cd Q1
+ 6732  gcc Q1.c
+ 6733  ./a.out 
+ 6734  cd Downloads/sem\ 3\ stuff
+ 6735  cd operating\ system\ and\ networks
+ 6736  tar -zcvf tar-2019101083_assgn4 2019101083_assgn4
+ 6737  ls
+ 6738  tar -zcvf 2019101083_assgn4.tar.gz 2019101083_assgn4
+ 6739  ls
+ 6740  cd Downloads/sem\ 3\ stuff
+ 6741  cd operating\ system\ and\ networks
+ 6742  tar -zcvf 2019101083_assgn4.tar.gz 2019101083_assgn4
+ 6743  shutdown now
+ 6744  sudo apt install qemu qemu-utils qemu-kvm virt-manager libvirt-daemon-system libvirt-clients bridge-utils
+ 6745  sudo apt install gnome-system-tools
+ 6746  cd Downloads/sem\ 3\ stuff
+ 6747  cd operating\ system\ and\ networks
+ 6748  mkdir 2019101083_assgn5 && cd 2019101083_assgn5
+ 6749  git clone https://github.com/mit-pdos/xv6-public
+ 6750  make clear
+ 6751  make qemu
+ 6752  make
+ 6753  make qemu -nox
+ 6754  sudo apt install make
+ 6755  make qemu
+ 6756  make qemu-nox
+ 6757  qemu

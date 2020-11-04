@@ -26,6 +26,45 @@ sys_wait(void)
   return wait();
 }
 
+int 
+sys_waitx(void)
+{
+  int* wtime;
+  int* rtime;
+  if (argptr(0, (void*)&wtime, sizeof(int*)) < 0) 
+  {
+      return -1;
+  }
+  if (argptr(1, (void*)&rtime, sizeof(int*)) < 0) 
+  {
+    return -1;
+  }
+  return waitx(wtime, rtime);
+}
+
+int
+sys_set_priority(void)
+{
+  int new_priority;
+  int pid;
+  if(argint(0,&new_priority) < 0)
+  {
+    return -1;
+  }
+  if(argint(1,&pid) < 0)
+  {
+    return -1;
+  }
+  return set_priority(new_priority,pid);
+}
+
+int
+sys_get_ps(void)
+{
+  get_ps();
+  return 0;  // not reached
+}
+
 int
 sys_kill(void)
 {
